@@ -1,6 +1,6 @@
-,,,,,,DDC,Aufloesung,Aufloesung_englisch,Anzeige,Kommentar_HGW,Nordeuropa_HGW,Skandinavien_HGW,Daenemark_HGW,Island_HGW,Faeroer_HGW,Groenland_HGW,Schweden_HGW,Norwegen_HGW,Finnland_HGW,Baltikum_HGW,Estland_HGW,Lettland_HGW,Litauen_HGW,Gesamtraum_HGW,Nordeuropa_HGW,Skandinavien_HGW,Daenemark_HGW,Island_HGW,Faeroer_HGW,Groenland_HGW,Schweden_HGW,Norwegen_HGW,Finnland_HGW,Baltikum_HGW,Estland_HGW,Lettland_HGW,Litauen_HGW,Gesamtraum_HGW,JSON
+id_ori,id,parent,parent_exists,parent_not_self,,ddc,label_de,label_en,display,hgw,nord_ori,sca_ori,dk_ori,ic_ori,fae_ori,gro_ori,se_ori,no_ori,fi_ori,bal_ori,ee_ori,lv_ori,lt_ori,all_ori,nord,sca,dk,ic,fae,gro,se,no,fi,bal,ee,lv,lt,all,json
 ID,,parent,parent exists,parent ≠ self,#children,,,,,lklhgw,,,,,,,,,,,,,,,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,für pazpar2,
-,,,,,,,,,,,,,,,,,,,,,,,,,nord,sca,dk,ic,fae,gro,se,no,fi,bal,ee,lv,lt,all,
+,,,,,,,,,,,Nordeuropa_HGW,Skandinavien_HGW,Daenemark_HGW,Island_HGW,Faeroer_HGW,Groenland_HGW,Schweden_HGW,Norwegen_HGW,Finnland_HGW,Baltikum_HGW,Estland_HGW,Lettland_HGW,Litauen_HGW,Gesamtraum_HGW,nord,sca,dk,ic,fae,gro,se,no,fi,bal,ee,lv,lt,all,
 vifanord-ROOT,vifanord-ROOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0**,0XX,vifanord-ROOT,vifanord-ROOT,TRUE,8,0**,Allgemeines und Informationswesen,"Information, general works",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
 00*,00X,0XX,0XX,TRUE,3,00*,"Informatik, Wissen, das Buch","Computer Science, Knowledge, The book",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}

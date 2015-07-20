@@ -1,5 +1,5 @@
-,,,,,,DDC,Aufloesung,Kommentar_SUB,Gesamtraum_SUB,Nordeuropa_SUB,Skandinavien_SUB,Daenemark_SUB,Island_SUB,Groenland_SUB,Schweden_SUB,Norwegen_SUB,Finnland_SUB,Baltikum_SUB,Estland_SUB,Lettland_SUB,Litauen_SUB,,Gesamtraum_SUB,Nordeuropa_SUB,Skandinavien_SUB,Daenemark_SUB,Island_SUB,Groenland_SUB,Schweden_SUB,Norwegen_SUB,Finnland_SUB,Baltikum_SUB,Estland_SUB,Lettland_SUB,Litauen_SUB,JSON
-ID,,parent,parent exists,parent ≠ self,#children,,,lkl,,,,,,,,,,,,,,,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,
+id_ori,id,parent,parent_exists,parent_not_self,,ddc,de,sub,all_ori,nord_ori,sca_ori,dk_ori,ic_ori,gro_ori,se_ori,no_ori,fi_ori,bal_ori,ee_ori,lv_ori,lt_ori,,all,nord,sca,dk,ic,gro,se,no,fi,bal,ee,lv,lt,json
+ID,,parent,parent exists,parent ≠ self,#children,,,lkl,Gesamtraum_SUB,Nordeuropa_SUB,Skandinavien_SUB,Daenemark_SUB,Island_SUB,Groenland_SUB,Schweden_SUB,Norwegen_SUB,Finnland_SUB,Baltikum_SUB,Estland_SUB,Lettland_SUB,Litauen_SUB,,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,
 ,,,,,,,,,all,nord,sca,dk,ic,gro,se,no,fi,bal,ee,lv,lt,,all,nord,sca,dk,ic,gro,se,no,fi,bal,ee,lv,lt,
 vifanord-ROOT,vifanord-ROOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0**,0XX,vifanord-ROOT,vifanord-ROOT,,,0**,"Informationswissenschaft, allgemeine Werke",,,,,,,,,,AA*,,,,,,,,,,,,,,"lkl=""aa?""",,,,,"{""fi"":""lkl=\""aa?\""""}"
