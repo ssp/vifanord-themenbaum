@@ -1,0 +1,548 @@
+,,,,,,DDC,Aufloesung,Kommentar_SUB,Gesamtraum_SUB,Nordeuropa_SUB,Skandinavien_SUB,Daenemark_SUB,Island_SUB,Groenland_SUB,Schweden_SUB,Norwegen_SUB,Finnland_SUB,Baltikum_SUB,Estland_SUB,Lettland_SUB,Litauen_SUB,,Gesamtraum_SUB,Nordeuropa_SUB,Skandinavien_SUB,Daenemark_SUB,Island_SUB,Groenland_SUB,Schweden_SUB,Norwegen_SUB,Finnland_SUB,Baltikum_SUB,Estland_SUB,Lettland_SUB,Litauen_SUB,JSON
+ID,,parent,parent exists,parent ≠ self,#children,,,lkl,,,,,,,,,,,,,,,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,pazpar2,
+,,,,,,,,,all,nord,sca,dk,ic,gro,se,no,fi,bal,ee,lv,lt,,all,nord,sca,dk,ic,gro,se,no,fi,bal,ee,lv,lt,
+vifanord-ROOT,vifanord-ROOT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0**,0XX,vifanord-ROOT,vifanord-ROOT,,,0**,"Informationswissenschaft, allgemeine Werke",,,,,,,,,,AA*,,,,,,,,,,,,,,"lkl=""aa?""",,,,,"{""fi"":""lkl=\""aa?\""""}"
+00*,00X,0XX,0XX,TRUE,3,00*,"Informatik, Wissen, das Buch",,,,,,,,,,AH* OR AGR 100 OR AR* OR AS*,,,,,,,,,,,,,,"lkl=""ah?"" or lkl=""agr 100"" or lkl=""ar?"" or lkl=""as?""",,,,,"{""fi"":""lkl=\""ah?\"" or lkl=\""agr 100\"" or lkl=\""ar?\"" or lkl=\""as?\""""}"
+001,001,00X,00X,TRUE,0,001,Wissen,,,,,,,,,,AGR 100,,,,,,,,,,,,,,"lkl=""agr 100""",,,,,"{""fi"":""lkl=\""agr 100\""""}"
+002,002,00X,00X,TRUE,0,002,Das Buch,,,,,,,,,,AR* OR AS*,,,,,,,,,,,,,,"lkl=""ar?"" or lkl=""as?""",,,,,"{""fi"":""lkl=\""ar?\"" or lkl=\""as?\""""}"
+004,004,00X,00X,TRUE,0,004,Informatik,"nicht belegt:005,006 (spezielle Inf.)",,,,,,,,,AH*,,,,,,,,,,,,,,"lkl=""ah?""",,,,,"{""fi"":""lkl=\""ah?\""""}"
+01*,01X,0XX,0XX,TRUE,0,01*,Bibliografien,,,,,,,,,,AJ* OR AK* OR AL* OR AM*,,,,,,,,,,,,,,"lkl=""aj?"" or lkl=""ak?"" or lkl=""al?"" or lkl=""am?""",,,,,"{""fi"":""lkl=\""aj?\"" or lkl=\""ak?\"" or lkl=\""al?\"" or lkl=\""am?\""""}"
+02*,02X,0XX,0XX,TRUE,8,02*,Bibliotheks- und Informationswissenschaften,,,,,,,,,,AW* OR AX* OR AG*,,,,,,,,,,,,,,"lkl=""aw?"" or lkl=""ax?"" or lkl=""ag?""",,,,,"{""fi"":""lkl=\""aw?\"" or lkl=\""ax?\"" or lkl=\""ag?\""""}"
+020,020,02X,02X,TRUE,0,020,Allgemeines,,,,,,,,,,AW* OR AX* OR AG*,,,,,,,,,,,,,,"lkl=""aw?"" or lkl=""ax?"" or lkl=""ag?""",,,,,"{""fi"":""lkl=\""aw?\"" or lkl=\""ax?\"" or lkl=\""ag?\""""}"
+021,021,02X,02X,TRUE,0,021,Beziehungen zwischen Bibliotheken,,,,,,,,,,AWD 700,,,,,,,,,,,,,,"lkl=""awd 700""",,,,,"{""fi"":""lkl=\""awd 700\""""}"
+022,022,02X,02X,TRUE,0,022,Verwaltung von Bibliotheksgebäuden,,,,,,,,,,AWN 000 OR AWN 600 OR AWD 100,,,,,,,,,,,,,,"lkl=""awn 000"" or lkl=""awn 600"" or lkl=""awd 100""",,,,,"{""fi"":""lkl=\""awn 000\"" or lkl=\""awn 600\"" or lkl=\""awd 100\""""}"
+023,023,02X,02X,TRUE,0,023,Personalwesen,,,,,,,,,,AWA 5*-AWA 8*,,,,,,,,,,,,,,"lkl=""awa 5?-awa 8?""",,,,,"{""fi"":""lkl=\""awa 5?-awa 8?\""""}"
+025,025,02X,02X,TRUE,0,025,Bibliothekarische Tätigkeiten,,,,,,,,,,AWD* OR AWF* OR AWG* OR AWH* OR AWK* NOT AWD 0* NOT AWD 11*,,,,,,,,,,,,,,"lkl=""awd?"" or lkl=""awf?"" or lkl=""awg?"" or lkl=""awh?"" or lkl=""awk?"" not lkl=""awd 0?"" not lkl=""awd 11?""",,,,,"{""fi"":""lkl=\""awd?\"" or lkl=\""awf?\"" or lkl=\""awg?\"" or lkl=\""awh?\"" or lkl=\""awk?\"" not lkl=\""awd 0?\"" not lkl=\""awd 11?\""""}"
+026,026,02X,02X,TRUE,0,026,Spezialbibliotheken,,,,,,,,,,AWP 150,,,,,,,,,,,,,,"lkl=""awp 150""",,,,,"{""fi"":""lkl=\""awp 150\""""}"
+027,027,02X,02X,TRUE,0,027,Allgemeinbibliotheken,,,,,,,,,,AWP* (NOT AWP 150),,,,,,,,,,,,,,"lkl=""awp? (lkl=""not lkl=""awp 150"")",,,,,"{""fi"":""lkl=\""awp? (lkl=\""not lkl=\""awp 150\"")""}"
+028,028,02X,02X,TRUE,0,028,Lesen und Nutzung anderer Informationsmedien,,,,,,,,,,ARN 0*-ARN 3* OR ARN 7*-ARN 9* OR ARM*,,,,,,,,,,,,,,"lkl=""arn 0?-arn 3?"" or lkl=""arn 7?-arn 9?"" or lkl=""arm?""",,,,,"{""fi"":""lkl=\""arn 0?-arn 3?\"" or lkl=\""arn 7?-arn 9?\"" or lkl=\""arm?\""""}"
+03*,03X,0XX,0XX,TRUE,0,03*,Enzyklopädien,,,,,,,,,,AAA*,,,,,,,,,,,,,,"lkl=""aaa?""",,,,,"{""fi"":""lkl=\""aaa?\""""}"
+05*,05X,0XX,0XX,TRUE,0,05*,"Zeitschriften, allgemeine fortlaufende Sammelwerke",,,,,,,,,,ARL 19*-ARL 22* OR ARM 370,,,,,,,,,,,,,,"lkl=""arl 19?-arl 22?"" or lkl=""arm 370""",,,,,"{""fi"":""lkl=\""arl 19?-arl 22?\"" or lkl=\""arm 370\""""}"
+06*,06X,0XX,0XX,TRUE,2,06*,"Allgemeine Organisationen, Museumswissenschaft",,,,,,,,,,AD 000 OR ADA 000 OR ADB 000 OR ADF 000 OR ADN 000,,,,,,,,,,,,,,"lkl=""ad 000"" or lkl=""ada 000"" or lkl=""adb 000"" or lkl=""adf 000"" or lkl=""adn 000""",,,,,"{""fi"":""lkl=\""ad 000\"" or lkl=\""ada 000\"" or lkl=\""adb 000\"" or lkl=\""adf 000\"" or lkl=\""adn 000\""""}"
+060,060,06X,06X,TRUE,0,06*,Allgemeine Organisationen,,,,,,,,,,ADA 000,,,,,,,,,,,,,,"lkl=""ada 000""",,,,,"{""fi"":""lkl=\""ada 000\""""}"
+069,069,06X,06X,TRUE,0,069,Museumswissenschaft,,,,,,,,,,AD 000 ,,,,,,,,,,,,,,"lkl=""ad 000 """,,,,,"{""fi"":""lkl=\""ad 000 \""""}"
+07*,07X,0XX,0XX,TRUE,0,07*,"Publizistische Medien, Journalismus, Verlagswesen",,,,,,,,,,BB 1** OR BBA 1** OR BBB OR BC 1** OR AU* ,,,,,,,,,,,,,,"lkl=""bb 1?"" or lkl=""bba 1?"" or lkl=""bbb"" or lkl=""bc 1?"" or lkl=""au? """,,,,,"{""fi"":""lkl=\""bb 1?\"" or lkl=\""bba 1?\"" or lkl=\""bbb\"" or lkl=\""bc 1?\"" or lkl=\""au? \""""}"
+08*,08X,0XX,0XX,TRUE,0,08*,"Allgemeine Sammelwerke, Zitatensammlungen",,,,,,,,,,ARL 040,,,,,,,,,,,,,,"lkl=""arl 040""",,,,,"{""fi"":""lkl=\""arl 040\""""}"
+2**,2XX,vifanord-ROOT,vifanord-ROOT,TRUE,7,2**,"Religion, Mythologie",,,,,,,,,,PNN 500 OR PNO 500 OR PNP 500 OR PNQ 500 OR PNR 500 OR CA* OR CBQ 100 OR CBD 121 OR QUM 100,,,,,,,,,,,,,,"lkl=""pnn 500"" or lkl=""pno 500"" or lkl=""pnp 500"" or lkl=""pnq 500"" or lkl=""pnr 500"" or lkl=""ca?"" or lkl=""cbq 100"" or lkl=""cbd 121"" or lkl=""qum 100""",,,,,"{""fi"":""lkl=\""pnn 500\"" or lkl=\""pno 500\"" or lkl=\""pnp 500\"" or lkl=\""pnq 500\"" or lkl=\""pnr 500\"" or lkl=\""ca?\"" or lkl=\""cbq 100\"" or lkl=\""cbd 121\"" or lkl=\""qum 100\""""}"
+20*,20X,2XX,2XX,TRUE,0,20*,Allgemeines,hier auch 21*,,,,,,,,,CA*,,,,,,,,,,,,,,"lkl=""ca?""",,,,,"{""fi"":""lkl=\""ca?\""""}"
+22*,22X,2XX,2XX,TRUE,0,22*,Die Bibel,,,,,,,,,,CGA* OR CGB* OR CGD* OR CGF* OR CGH* OR CGK*,,,,,,,,,,,,,,"lkl=""cga?"" or lkl=""cgb?"" or lkl=""cgd?"" or lkl=""cgf?"" or lkl=""cgh?"" or lkl=""cgk?""",,,,,"{""fi"":""lkl=\""cga?\"" or lkl=\""cgb?\"" or lkl=\""cgd?\"" or lkl=\""cgf?\"" or lkl=\""cgh?\"" or lkl=\""cgk?\""""}"
+25*,25X,2XX,2XX,TRUE,5,262,Kirchenorganisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+251,251,25X,25X,TRUE,0,262 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+252,252,25X,25X,TRUE,0,262 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+252,252,25X,25X,TRUE,0,262 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+253,253,25X,25X,TRUE,0,262 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+254,254,25X,25X,TRUE,0,262 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+26*,26X,2XX,2XX,TRUE,0,266,Mission,,,,,,,,,,CZA 000,,,,,,,,,,,,,,"lkl=""cza 000""",,,,,"{""fi"":""lkl=\""cza 000\""""}"
+27*,27X,2XX,2XX,TRUE,5,274,Geschichte des Christentums in Europa,,,,,,,,,,CI* OR QUM 700,,,,,,,,,,,,,,"lkl=""ci?"" or lkl=""qum 700""",,,,,"{""fi"":""lkl=\""ci?\"" or lkl=\""qum 700\""""}"
+271,271,27X,27X,TRUE,0,274 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+272,272,27X,27X,TRUE,0,274 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+273,273,27X,27X,TRUE,0,274 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+274,274,27X,27X,TRUE,0,274 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+275,275,27X,27X,TRUE,0,274 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+28*,28X,2XX,2XX,TRUE,4,(280,Christliche Konfessionen und Sekten),"nur als Überschrift, nicht vergeben, sondern 274 für übergreifende, 28.. für einzelne Konfessionen",,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+281,281,28X,28X,TRUE,0,281,"Alte Kirche, Ostkirche",,,,,,,,,,CIV 360,,,,,,,,,,,,,,"lkl=""civ 360""",,,,,"{""fi"":""lkl=\""civ 360\""""}"
+282,282,28X,28X,TRUE,0,282,Katholische Kirche,,,,,,,,,,CIH 000,,,,,,,,,,,,,,"lkl=""cih 000""",,,,,"{""fi"":""lkl=\""cih 000\""""}"
+284,284,28X,28X,TRUE,0,284,Protestantische Konfession,,,,,,,,,,CIK 100,,,,,,,,,,,,,,"lkl=""cik 100""",,,,,"{""fi"":""lkl=\""cik 100\""""}"
+289,289,28X,28X,TRUE,0,289,Andere christliche Konfessionen und Sekten,"hier auch 283, 285, 286, 287",,,,,,,,,CIX 000,,,,,,,,,,,,,,"lkl=""cix 000""",,,,,"{""fi"":""lkl=\""cix 000\""""}"
+29*,29X,2XX,2XX,TRUE,0,29*,"Andere Religionen, Mythologie",,,,,,,,,,CB*,,,,,,,,,,,,,,"lkl=""cb?""",,,,,"{""fi"":""lkl=\""cb?\""""}"
+3**,3XX,vifanord-ROOT,vifanord-ROOT,TRUE,10,3**,Sozialwissenschaften,,,,,,,,,,LE* OR LD* OR LI* ,,,,,,,,,,,,,,"lkl=""le?"" or lkl=""ld?"" or lkl=""li? """,,,,,"{""fi"":""lkl=\""le?\"" or lkl=\""ld?\"" or lkl=\""li? \""""}"
+30*,30X,3XX,3XX,TRUE,8,30*,"Sozialwissenschaften, Soziologie",,,,,,,,,,LE* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""le?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""le?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+300,300,30X,30X,TRUE,0,300,Allgemeines,,,,,,,,,,LE* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""le?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""le?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+301,301,30X,30X,TRUE,0,301,"Soziologie, Anthropologie, Länderanalysen",,,,,,,,,,LE* OR QUA 100 OR QM 190 OR QM 140 OR QM 145 OR QE* OR WZ 000 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LE 050 OR DK 000,,,,,,,,,,,,,,"lkl=""le?"" or lkl=""qua 100"" or lkl=""qm 190"" or lkl=""qm 140"" or lkl=""qm 145"" or lkl=""qe?"" or lkl=""wz 000"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""le 050"" or lkl=""dk 000""",,,,,"{""fi"":""lkl=\""le?\"" or lkl=\""qua 100\"" or lkl=\""qm 190\"" or lkl=\""qm 140\"" or lkl=\""qm 145\"" or lkl=\""qe?\"" or lkl=\""wz 000\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""le 050\"" or lkl=\""dk 000\""""}"
+302,302,30X,30X,TRUE,0,302,Soziale Interaktion,,,,,,,,,,LEC 120 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lec 120"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lec 120\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+303,303,30X,30X,TRUE,0,303,Gesellschaftliche Prozesse,,,,,,,,,,LEM 67*-LEM 71* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lem 67?-lem 71?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lem 67?-lem 71?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+304.*,304.X,30X,30X,TRUE,3,304.*,Das Sozialverhalten beeinflussende Faktoren,,,,,,,,,,LEI 430 OR FCH* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lei 430"" or lkl=""fch?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lei 430\"" or lkl=\""fch?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+304.1,304.1,304.X,304.X,TRUE,0,304.A,"Allgemeines, Umwelt, Soziobiologie",hier 304.2 und 304.5 zus.gefasst,,,,,,,,,WXO 000 OR WQ*,,,,,,,,,,,,,,"lkl=""wxo 000"" or lkl=""wq?""",,,,,"{""fi"":""lkl=\""wxo 000\"" or lkl=\""wq?\""""}"
+304.6*,304.6X,304.X,304.X,TRUE,5,304.6,"Bevölkerung, Demographie",,,,,,,,,,LD* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""ld?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""ld?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+304.61,304.61,304.6X,304.6X,TRUE,0,304.6 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 300 ,,,,,,,,,,,,,,"lkl=""pnn 300 """,,,,,"{""fi"":""lkl=\""pnn 300 \""""}"
+304.62,304.62,304.6X,304.6X,TRUE,0,304.6 AND t0902,Mittelalter,,,,,,,,,,PNO 300,,,,,,,,,,,,,,"lkl=""pno 300""",,,,,"{""fi"":""lkl=\""pno 300\""""}"
+304.63,304.63,304.6X,304.6X,TRUE,0,304.6 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 300,,,,,,,,,,,,,,"lkl=""pnp 300""",,,,,"{""fi"":""lkl=\""pnp 300\""""}"
+304.64,304.64,304.6X,304.6X,TRUE,0,304.6 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 300,,,,,,,,,,,,,,"lkl=""pnq 300""",,,,,"{""fi"":""lkl=\""pnq 300\""""}"
+304.65,304.65,304.6X,304.6X,TRUE,0,304.6 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 300,,,,,,,,,,,,,,"lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""pnr 300\""""}"
+304.8*,304.8X,304.X,304.X,TRUE,5,304.8,Migration,,,,,,,,,,LDF* OR LDI* OR QUB 500 OR NQD 370 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""ldf?"" or lkl=""ldi?"" or lkl=""qub 500"" or lkl=""nqd 370"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""ldf?\"" or lkl=\""ldi?\"" or lkl=\""qub 500\"" or lkl=\""nqd 370\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+304.81,304.81,304.8X,304.8X,TRUE,0,304.8 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 300,,,,,,,,,,,,,,"lkl=""pnn 300""",,,,,"{""fi"":""lkl=\""pnn 300\""""}"
+304.82,304.82,304.8X,304.8X,TRUE,0,304.8 AND t0902,Mittelalter,,,,,,,,,,PNO 300,,,,,,,,,,,,,,"lkl=""pno 300""",,,,,"{""fi"":""lkl=\""pno 300\""""}"
+304.83,304.83,304.8X,304.8X,TRUE,0,304.8 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 300,,,,,,,,,,,,,,"lkl=""pnp 300""",,,,,"{""fi"":""lkl=\""pnp 300\""""}"
+304.84,304.84,304.8X,304.8X,TRUE,0,304.8 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 300,,,,,,,,,,,,,,"lkl=""pnq 300""",,,,,"{""fi"":""lkl=\""pnq 300\""""}"
+304.85,304.85,304.8X,304.8X,TRUE,0,304.8 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 300,,,,,,,,,,,,,,"lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""pnr 300\""""}"
+305.*,305.X,30X,30X,TRUE,6,305.*,Gesellschaftliche Gruppen,,,,,,,,,,LEE 130 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lee 130"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lee 130\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+305.1,305.1,305.X,305.X,TRUE,0,305.A,Allgemeines,,,,,,,,,,LEE 130 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lee 130"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lee 130\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+305.2*,305.2X,305.X,305.X,TRUE,5,305.5,"Schichten, Klassen, Milieu",,,,,,,,,,LEM 72*-LEM 75* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LEQ 800,,,,,,,,,,,,,,"lkl=""lem 72?-lem 75?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""leq 800""",,,,,"{""fi"":""lkl=\""lem 72?-lem 75?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""leq 800\""""}"
+305.21,305.21,305.2X,305.2X,TRUE,0,305.5 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 300,,,,,,,,,,,,,,"lkl=""pnn 300""",,,,,"{""fi"":""lkl=\""pnn 300\""""}"
+305.22,305.22,305.2X,305.2X,TRUE,0,305.5 AND t0902,Mittelalter,,,,,,,,,,PNO 300,,,,,,,,,,,,,,"lkl=""pno 300""",,,,,"{""fi"":""lkl=\""pno 300\""""}"
+305.23,305.23,305.2X,305.2X,TRUE,0,305.5 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 300,,,,,,,,,,,,,,"lkl=""pnp 300""",,,,,"{""fi"":""lkl=\""pnp 300\""""}"
+305.24,305.24,305.2X,305.2X,TRUE,0,305.5 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 300,,,,,,,,,,,,,,"lkl=""pnq 300""",,,,,"{""fi"":""lkl=\""pnq 300\""""}"
+305.25,305.25,305.2X,305.2X,TRUE,0,305.5 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 300,,,,,,,,,,,,,,"lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""pnr 300\""""}"
+305.3,305.3,305.X,305.X,TRUE,0,305.2,Altersgruppen,,,,,,,,,,LEI 44*-LEI 53* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR QUC 100 OR QUC 5** OR QUC 6** ,,,,,,,,,,,,,,"lkl=""lei 44?-lei 53?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""quc 100"" or lkl=""quc 5?"" or lkl=""quc 6? """,,,,,"{""fi"":""lkl=\""lei 44?-lei 53?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""quc 100\"" or lkl=\""quc 5?\"" or lkl=\""quc 6? \""""}"
+305.4*,305.4X,305.X,305.X,TRUE,6,305.3,"Männer und Frauen, Geschlechterrolle",hier auch 305.4,,,,,,,,,LEG 28*-LEG 37* OR GS 000 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR QUC 1*-QUC 4*,,,,,,,,,,,,,,"lkl=""leg 28?-leg 37?"" or lkl=""gs 000"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""quc 1?-quc 4?""",,,,,"{""fi"":""lkl=\""leg 28?-leg 37?\"" or lkl=\""gs 000\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""quc 1?-quc 4?\""""}"
+305.41,305.41,305.4X,305.4X,TRUE,0,305.5 AND t0900,Zeitlich übergreifend,nur für Nordeuropa-Baum,,,,,,,,,PNN 300 OR GS 000 ,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""gs 000 """,,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""gs 000 \""""}"
+305.42,305.42,305.4X,305.4X,TRUE,0,305.5 AND t0902,Mittelalter,,,,,,,,,,PNO 300 OR GS 000,,,,,,,,,,,,,,"lkl=""pno 300"" or lkl=""gs 000""",,,,,"{""fi"":""lkl=\""pno 300\"" or lkl=\""gs 000\""""}"
+305.43,305.43,305.4X,305.4X,TRUE,0,305.5 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 300 OR GS 000,,,,,,,,,,,,,,"lkl=""pnp 300"" or lkl=""gs 000""",,,,,"{""fi"":""lkl=\""pnp 300\"" or lkl=\""gs 000\""""}"
+305.44,305.44,305.4X,305.4X,TRUE,0,305.5 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 300 OR GS 000,,,,,,,,,,,,,,"lkl=""pnq 300"" or lkl=""gs 000""",,,,,"{""fi"":""lkl=\""pnq 300\"" or lkl=\""gs 000\""""}"
+305.45,305.45,305.4X,305.4X,TRUE,0,305.5 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 300 OR GS 000,,,,,,,,,,,,,,"lkl=""pnr 300"" or lkl=""gs 000""",,,,,"{""fi"":""lkl=\""pnr 300\"" or lkl=\""gs 000\""""}"
+305.41,305.41,305.4X,305.4X,TRUE,0,305.409,Geschichte der Frau,"für Baltikum und Gesamtbaum, doppelt aufgeführt",,,,,,,,,LEG 350 OR GS 000 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""leg 350"" or lkl=""gs 000"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""leg 350\"" or lkl=\""gs 000\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+305.8*,305.8X,305.X,305.X,TRUE,5,305.8,Nationale und ethnische Gruppen,,,,,,,,,,QUB 400 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LEI 490 OR LEW 90*-LEW 92* OR QUC 900,,,,,,,,,,,,,,"lkl=""qub 400"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""lei 490"" or lkl=""lew 90?-lew 92?"" or lkl=""quc 900""",,,,,"{""fi"":""lkl=\""qub 400\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""lei 490\"" or lkl=\""lew 90?-lew 92?\"" or lkl=\""quc 900\""""}"
+305.81,305.81,305.8X,305.8X,TRUE,0,305.8 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+305.82,305.82,305.8X,305.8X,TRUE,0,305.8 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+305.83,305.83,305.8X,305.8X,TRUE,0,305.8 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+305.84,305.84,305.8X,305.8X,TRUE,0,305.8 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+305.85,305.85,305.8X,305.8X,TRUE,0,305.8 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+305.9*,305.9X,305.X,305.X,TRUE,5,305.X,"Randgruppen, Sonstige Gruppen","hier auch 305.9, 305.6, 305.7",,,,,,,,,QUB 400 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LEI 490 OR LEW 90*-LEW 92* OR QUC 900,,,,,,,,,,,,,,"lkl=""qub 400"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""lei 490"" or lkl=""lew 90?-lew 92?"" or lkl=""quc 900""",,,,,"{""fi"":""lkl=\""qub 400\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""lei 490\"" or lkl=\""lew 90?-lew 92?\"" or lkl=\""quc 900\""""}"
+305.91,305.91,305.9X,305.9X,TRUE,0,305.X AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 300,,,,,,,,,,,,,,"lkl=""pnn 300""",,,,,"{""fi"":""lkl=\""pnn 300\""""}"
+305.92,305.92,305.9X,305.9X,TRUE,0,305.X AND t0902,Mittelalter,,,,,,,,,,PNO 300,,,,,,,,,,,,,,"lkl=""pno 300""",,,,,"{""fi"":""lkl=\""pno 300\""""}"
+305.93,305.93,305.9X,305.9X,TRUE,0,305.X AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 300,,,,,,,,,,,,,,"lkl=""pnp 300""",,,,,"{""fi"":""lkl=\""pnp 300\""""}"
+305.94,305.94,305.9X,305.9X,TRUE,0,305.X AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 300,,,,,,,,,,,,,,"lkl=""pnq 300""",,,,,"{""fi"":""lkl=\""pnq 300\""""}"
+305.95,305.95,305.9X,305.9X,TRUE,0,305.X AND t0904,20. Jahrhundert,,,,,,,,,,PNR 300,,,,,,,,,,,,,,"lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""pnr 300\""""}"
+306.*,306.X,30X,30X,TRUE,7,306.*,Kultur und Institutionen,,,,,,,,,,PNN 500 OR PNO 500 OR PNP 500 OR PNQ 500 OR PNR 500,,,,,,,,,,,,,,"lkl=""pnn 500"" or lkl=""pno 500"" or lkl=""pnp 500"" or lkl=""pnq 500"" or lkl=""pnr 500""",,,,,"{""fi"":""lkl=\""pnn 500\"" or lkl=\""pno 500\"" or lkl=\""pnp 500\"" or lkl=\""pnq 500\"" or lkl=\""pnr 500\""""}"
+306.1*,306.1X,306.X,306.X,TRUE,5,306.09,Sozialgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.11,306.11,306.1X,306.1X,TRUE,0,306.09 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.12,306.12,306.1X,306.1X,TRUE,0,306.09 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.13,306.13,306.1X,306.1X,TRUE,0,306.09 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.14,306.14,306.1X,306.1X,TRUE,0,306.09 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.15,306.15,306.1X,306.1X,TRUE,0,306.09 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+306.2,306.2,306.X,306.X,TRUE,0,306.2,Politische Soziologie,,,,,,,,,,LFN*,,,,,,,,,,,,,,"lkl=""lfn?""",,,,,"{""fi"":""lkl=\""lfn?\""""}"
+306.3,306.3,306.X,306.X,TRUE,0,306.3,Wirtschaftssoziologie,,,,,,,,,,LM 06*,,,,,,,,,,,,,,"lkl=""lm 06?""",,,,,"{""fi"":""lkl=\""lm 06?\""""}"
+306.4,306.4,306.X,306.X,TRUE,0,306.4,"Kultursoziologie (Wissen, Religion, Bildung, Kunst, Sprache, Sport etc.)",,,,,,,,,,LEE 220 OR PNN 500 OR PNO 500 OR PNP 500 OR PNQ 500 OR PNR 500,,,,,,,,,,,,,,"lkl=""lee 220"" or lkl=""pnn 500"" or lkl=""pno 500"" or lkl=""pnp 500"" or lkl=""pnq 500"" or lkl=""pnr 500""",,,,,"{""fi"":""lkl=\""lee 220\"" or lkl=\""pnn 500\"" or lkl=\""pno 500\"" or lkl=\""pnp 500\"" or lkl=\""pnq 500\"" or lkl=\""pnr 500\""""}"
+306.7,306.7,306.X,306.X,TRUE,0,306.7,Sexualität,,,,,,,,,,LEG 230,,,,,,,,,,,,,,"lkl=""leg 230""",,,,,"{""fi"":""lkl=\""leg 230\""""}"
+306.8,306.8,306.X,306.X,TRUE,0,306.8,Familiensoziologie,,,,,,,,,,LEG 38*-LEG 42* OR QUC 400,,,,,,,,,,,,,,"lkl=""leg 38?-leg 42?"" or lkl=""quc 400""",,,,,"{""fi"":""lkl=\""leg 38?-leg 42?\"" or lkl=\""quc 400\""""}"
+306.9,306.9,306.X,306.X,TRUE,0,306.X,Sonstiges,"hier 306.1, 306.6, 306.7, 306.9 zus.gefaßt",,,,,,,,,LEY 210,,,,,,,,,,,,,,"lkl=""ley 210""",,,,,"{""fi"":""lkl=\""ley 210\""""}"
+307,307,30X,30X,TRUE,0,307,"Gemeinden, Gemeinschaften",,,,,,,,,,LEE 18*-LEE 21* OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lee 18?-lee 21?"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lee 18?-lee 21?\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+31*,31X,3XX,3XX,TRUE,0,314,Statistik,,,,,,,,,,LC* OR LCA 000,,,,,,,,,,,,,,"lkl=""lc?"" or lkl=""lca 000""",,,,,"{""fi"":""lkl=\""lc?\"" or lkl=\""lca 000\""""}"
+32*,32X,3XX,3XX,TRUE,8,32*,Politikwissenschaft,,,,,,,,,,LF* OR LG* OR LH*,,,,,,,,,,,,,,"lkl=""lf?"" or lkl=""lg?"" or lkl=""lh?""",,,,,"{""fi"":""lkl=\""lf?\"" or lkl=\""lg?\"" or lkl=\""lh?\""""}"
+320.*,320.X,32X,32X,TRUE,6,320.*,Politik und Staat,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFQ* OR LFR* OR LFS*,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lfs?""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lfs?\""""}"
+320.0*,320.0X,320.X,320.X,TRUE,5,,nach Zeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+320.01,320.01,320.0X,320.0X,TRUE,0,320.* AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 200 OR LFQ* OR LFR* OR LFS*,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lfs?""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lfs?\""""}"
+320.02,320.02,320.0X,320.0X,TRUE,0,320.* AND t0902,Mittelalter,,,,,,,,,,LFQ* OR LFR* OR LF* OR PNO 200,,,,,,,,,,,,,,"lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lf?"" or lkl=""pno 200""",,,,,"{""fi"":""lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lf?\"" or lkl=\""pno 200\""""}"
+320.03,320.03,320.0X,320.0X,TRUE,0,320.* AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 200 OR LFQ* OR LFR* OR LF* ,,,,,,,,,,,,,,"lkl=""pnp 200"" or lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lf? """,,,,,"{""fi"":""lkl=\""pnp 200\"" or lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lf? \""""}"
+320.04,320.04,320.0X,320.0X,TRUE,0,320.* AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 200 OR LFQ* OR LFR* OR LF* ,,,,,,,,,,,,,,"lkl=""pnq 200"" or lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lf? """,,,,,"{""fi"":""lkl=\""pnq 200\"" or lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lf? \""""}"
+320.05,320.05,320.0X,320.0X,TRUE,0,320.* AND t0904,20. Jahrhundert,,,,,,,,,,PNR 200 OR LFQ* OR LFR* OR LF* ,,,,,,,,,,,,,,"lkl=""pnr 200"" or lkl=""lfq?"" or lkl=""lfr?"" or lkl=""lf? """,,,,,"{""fi"":""lkl=\""pnr 200\"" or lkl=\""lfq?\"" or lkl=\""lfr?\"" or lkl=\""lf? \""""}"
+320.1,320.1,320.X,320.X,TRUE,0,320.A,Allgemeines,"hier 320.1, 320.3, 320.6 zus.gefasst",,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+320.4*,320.4X,320.X,320.X,TRUE,5,320.4,Regierung,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFS 120,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfs 120""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfs 120\""""}"
+320.41,320.41,320.4X,320.4X,TRUE,0,320.4 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 200,,,,,,,,,,,,,,"lkl=""pnn 200""",,,,,"{""fi"":""lkl=\""pnn 200\""""}"
+320.42,320.42,320.4X,320.4X,TRUE,0,320.4 AND t0902,Mittelalter,,,,,,,,,,PNO 200,,,,,,,,,,,,,,"lkl=""pno 200""",,,,,"{""fi"":""lkl=\""pno 200\""""}"
+320.43,320.43,320.4X,320.4X,TRUE,0,320.4 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 200,,,,,,,,,,,,,,"lkl=""pnp 200""",,,,,"{""fi"":""lkl=\""pnp 200\""""}"
+320.44,320.44,320.4X,320.4X,TRUE,0,320.4 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 200 ,,,,,,,,,,,,,,"lkl=""pnq 200 """,,,,,"{""fi"":""lkl=\""pnq 200 \""""}"
+320.45,320.45,320.4X,320.4X,TRUE,0,320.4 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 200,,,,,,,,,,,,,,"lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnr 200\""""}"
+320.5,320.5,320.X,320.X,TRUE,0,320.5,Politische Ideologien,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFK*,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfk?""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfk?\""""}"
+320.8,320.8,320.X,320.X,TRUE,0,320.8,"Kommunalpolitik, regionale Politik",,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+320.9,320.9,320.X,320.X,TRUE,0,320.9,Politische Lage und Verhältnisse,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+321.*,321.X,32X,32X,TRUE,5,321,Staatsformen und Regierungssysteme,,,,,,,,,,LFR*,,,,,,,,,,,,,,"lkl=""lfr?""",,,,,"{""fi"":""lkl=\""lfr?\""""}"
+321.1,321.1,321.X,321.X,TRUE,0,321 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+321.2,321.2,321.X,321.X,TRUE,0,321 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+321.3,321.3,321.X,321.X,TRUE,0,321 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+321.4,321.4,321.X,321.X,TRUE,0,321 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+321.5,321.5,321.X,321.X,TRUE,0,321 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.*,322.X,32X,32X,TRUE,1,322,Beziehungen des Staats zu organisierten Gruppen,,,,,,,,,,LFN* OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""lfn?"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""lfn?\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+322.1*,322.1X,322.X,322.X,TRUE,5,322.1,Kirche und Staat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.11,322.11,322.1X,322.1X,TRUE,0,322.1 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.12,322.12,322.1X,322.1X,TRUE,0,322.1 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.13,322.13,322.1X,322.1X,TRUE,0,322.1 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.14,322.14,322.1X,322.1X,TRUE,0,322.1 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+322.15,322.15,322.1X,322.1X,TRUE,0,322.1 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+323.*,323.X,32X,32X,TRUE,4,323.*,Grundrechte und politische Rechte,,,,,,,,,,NT 37*-NT 39* OR NKD 04* OR NKD 05* OR NKD 06* OR NKD 07* OR NKD 08* OR NKD 09* OR NKD 1** OR NKD 200 OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""nt 37?-nt 39?"" or lkl=""nkd 04?"" or lkl=""nkd 05?"" or lkl=""nkd 06?"" or lkl=""nkd 07?"" or lkl=""nkd 08?"" or lkl=""nkd 09?"" or lkl=""nkd 1?"" or lkl=""nkd 200"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""nt 37?-nt 39?\"" or lkl=\""nkd 04?\"" or lkl=\""nkd 05?\"" or lkl=\""nkd 06?\"" or lkl=\""nkd 07?\"" or lkl=\""nkd 08?\"" or lkl=\""nkd 09?\"" or lkl=\""nkd 1?\"" or lkl=\""nkd 200\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+323.0,323.0,323.X,323.X,TRUE,0,323.A,"Allgemeines, Menschenrechte","hier 323.3, 323.5 zus.gefasst, teilweise auch 323.4",,,,,,,,,NQD 0*,,,,,,,,,,,,,,"lkl=""nqd 0?""",,,,,"{""fi"":""lkl=\""nqd 0?\""""}"
+323.1,323.1,323.X,323.X,TRUE,0,323.1,Minderheitenfragen,,,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR QUB 400 OR NQD 550 OR NQD 700,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""qub 400"" or lkl=""nqd 550"" or lkl=""nqd 700""",,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""qub 400\"" or lkl=\""nqd 550\"" or lkl=\""nqd 700\""""}"
+323.4,323.4,323.X,323.X,TRUE,0,323.4,Meinungs- und Informationsfreiheit,"hier würden lt. DDC auch andere spezielle Grundrechte hingehören, wir aber zu 323.A",,,,,,,,,NT 375 OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""nt 375"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""nt 375\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+323.6,323.6,323.X,323.X,TRUE,0,323.6,Staatsbürgerschaft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+324.*,324.X,32X,32X,TRUE,3,324.*,Der politische Prozess,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFS*,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfs?""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfs?\""""}"
+324.2,324.2,324.X,324.X,TRUE,0,324.2,Politische Parteien,hier 324.1-3 zusammengefasst,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFN 100 OR LFN 120,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfn 100"" or lkl=""lfn 120""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfn 100\"" or lkl=\""lfn 120\""""}"
+324.4,324.4,324.X,324.X,TRUE,0,324.4,Interessengruppen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+324.6,324.6,324.X,324.X,TRUE,0,324.6,Wahlsysteme,"hier auch 324.5, 324.7, 324.9",,,,,,,,,LFS 370 OR LFS 400 OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""lfs 370"" or lkl=""lfs 400"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""lfs 370\"" or lkl=\""lfs 400\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+325,325,32X,32X,TRUE,0,325,Internationale Migration,,,,,,,,,,QUB 500 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR NQD 370 OR QEG*,,,,,,,,,,,,,,"lkl=""qub 500"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""nqd 370"" or lkl=""qeg?""",,,,,"{""fi"":""lkl=\""qub 500\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""nqd 370\"" or lkl=\""qeg?\""""}"
+327.*,327.X,32X,32X,TRUE,5,327,Internationale Beziehungen,,,,,,,,,,PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 OR LFS 46*-LFS 52*,,,,,,,,,,,,,,"lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200"" or lkl=""lfs 46?-lfs 52?""",,,,,"{""fi"":""lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\"" or lkl=\""lfs 46?-lfs 52?\""""}"
+327.1,327.1,327.X,327.X,TRUE,0,327 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 200,,,,,,,,,,,,,,"lkl=""pnn 200""",,,,,"{""fi"":""lkl=\""pnn 200\""""}"
+327.2,327.2,327.X,327.X,TRUE,0,327 AND t0902,Mittelalter,,,,,,,,,,PNO 200,,,,,,,,,,,,,,"lkl=""pno 200""",,,,,"{""fi"":""lkl=\""pno 200\""""}"
+327.3,327.3,327.X,327.X,TRUE,0,327 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 200,,,,,,,,,,,,,,"lkl=""pnp 200""",,,,,"{""fi"":""lkl=\""pnp 200\""""}"
+327.4,327.4,327.X,327.X,TRUE,0,327 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 200,,,,,,,,,,,,,,"lkl=""pnq 200""",,,,,"{""fi"":""lkl=\""pnq 200\""""}"
+327.5,327.5,327.X,327.X,TRUE,0,327 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 200,,,,,,,,,,,,,,"lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnr 200\""""}"
+328,328,32X,32X,TRUE,0,328,"Gesetzgebungsprozess, gesetzgebende Körperschaften",,,,,,,,,,LFS 100 OR LFS 120 OR NT 445 OR NT 450 OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""lfs 100"" or lkl=""lfs 120"" or lkl=""nt 445"" or lkl=""nt 450"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""lfs 100\"" or lkl=\""lfs 120\"" or lkl=\""nt 445\"" or lkl=\""nt 450\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+33*,33X,3XX,3XX,TRUE,6,33*,Wirtschaft,,,,,,,,,,PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400 OR LM* OR LC* OR LQ*,,,,,,,,,,,,,,"lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400"" or lkl=""lm?"" or lkl=""lc?"" or lkl=""lq?""",,,,,"{""fi"":""lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\"" or lkl=\""lm?\"" or lkl=\""lc?\"" or lkl=\""lq?\""""}"
+330.*,330.X,33X,33X,TRUE,5,330.90,Wirtschaftsgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+330.1,330.1,330.X,330.X,TRUE,0,330.90 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+330.2,330.2,330.X,330.X,TRUE,0,330.90 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+330.3,330.3,330.X,330.X,TRUE,0,330.90 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+330.4,330.4,330.X,330.X,TRUE,0,330.90 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+330.5,330.5,330.X,330.X,TRUE,0,330.90 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+331.*,331.X,33X,33X,TRUE,5,330.91,"Allgemeines, wirtschaftliche Lage",,,,,,,,,,PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400 OR LM 0**,,,,,,,,,,,,,,"lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400"" or lkl=""lm 0?""",,,,,"{""fi"":""lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\"" or lkl=\""lm 0?\""""}"
+331.1,331.1,331.X,331.X,TRUE,0,330 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 400,,,,,,,,,,,,,,"lkl=""pnn 400""",,,,,"{""fi"":""lkl=\""pnn 400\""""}"
+331.2,331.2,331.X,331.X,TRUE,0,330 AND t0902,Mittelalter,,,,,,,,,,PNO 400,,,,,,,,,,,,,,"lkl=""pno 400""",,,,,"{""fi"":""lkl=\""pno 400\""""}"
+331.3,331.3,331.X,331.X,TRUE,0,330 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 400,,,,,,,,,,,,,,"lkl=""pnp 400""",,,,,"{""fi"":""lkl=\""pnp 400\""""}"
+331.4,331.4,331.X,331.X,TRUE,0,330 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 400,,,,,,,,,,,,,,"lkl=""pnq 400""",,,,,"{""fi"":""lkl=\""pnq 400\""""}"
+331.5,331.5,331.X,331.X,TRUE,0,330 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 400,,,,,,,,,,,,,,"lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""pnr 400\""""}"
+332,332,33X,33X,TRUE,0,331,"Arbeitsökonomie, Arbeitsmarkt",,,,,,,,,,LMB 100 OR LMB 120 OR LMB 127-LMB 130 OR PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400,,,,,,,,,,,,,,"lkl=""lmb 100"" or lkl=""lmb 120"" or lkl=""lmb 127-lmb 130"" or lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""lmb 100\"" or lkl=\""lmb 120\"" or lkl=\""lmb 127-lmb 130\"" or lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\""""}"
+337.*,337.X,33X,33X,TRUE,5,337,"Weltwirtschaft, Internationale Wirtschaftsbeziehungen",,,,,,,,,,LME 700 OR LM 369 OR LM 069 OR PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400,,,,,,,,,,,,,,"lkl=""lme 700"" or lkl=""lm 369"" or lkl=""lm 069"" or lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""lme 700\"" or lkl=\""lm 369\"" or lkl=\""lm 069\"" or lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\""""}"
+337.1,337.1,337.X,337.X,TRUE,0,337 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+337.2,337.2,337.X,337.X,TRUE,0,337 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+337.3,337.3,337.X,337.X,TRUE,0,337 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+337.4,337.4,337.X,337.X,TRUE,0,337 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+337.5,337.5,337.X,337.X,TRUE,0,337 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+338.*,338.X,33X,33X,TRUE,3,338,Produktion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+338.1*,338.1X,338.X,338.X,TRUE,1,338.1,Agrarwirtschaft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+338.11,338.11,338.1X,338.1X,TRUE,0,338.109,Agrargeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+338.6,338.6,338.X,338.X,TRUE,0,338.6,Produktionsorganisation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+338.9,338.9,338.X,338.X,TRUE,0,338.9,Industrialisierung und Entwicklungshilfe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+339,339,33X,33X,TRUE,0,33X,Sonstige Wirtschaftszweige,"hier 332,333,334, 335,336,339",,,,,,,,,LR* OR LS* OR LT* OR LU* OR LV* OR LW* OR LX* OR LY* OR LZ*,,,,,,,,,,,,,,"lkl=""lr?"" or lkl=""ls?"" or lkl=""lt?"" or lkl=""lu?"" or lkl=""lv?"" or lkl=""lw?"" or lkl=""lx?"" or lkl=""ly?"" or lkl=""lz?""",,,,,"{""fi"":""lkl=\""lr?\"" or lkl=\""ls?\"" or lkl=\""lt?\"" or lkl=\""lu?\"" or lkl=\""lv?\"" or lkl=\""lw?\"" or lkl=\""lx?\"" or lkl=\""ly?\"" or lkl=\""lz?\""""}"
+34*,34X,3XX,3XX,TRUE,5,34*,Recht,,,,,,,,,,N**,,,,,,,,,,,,,,"lkl=""n?""",,,,,"{""fi"":""lkl=\""n?\""""}"
+340,340,34X,34X,TRUE,0,340.A,Allgemeines,"hier auch DDC 348, 349",,,,,,,,,N*,,,,,,,,,,,,,,"lkl=""n?""",,,,,"{""fi"":""lkl=\""n?\""""}"
+341,341,34X,34X,TRUE,0,340.5,Rechtsgeschichte,doppelt aufgeführt,,,,,,,,,NE 000,,,,,,,,,,,,,,"lkl=""ne 000""",,,,,"{""fi"":""lkl=\""ne 000\""""}"
+342,342,34X,34X,TRUE,0,341,Völkerrecht,,,,,,,,,,NQ 000,,,,,,,,,,,,,,"lkl=""nq 000""",,,,,"{""fi"":""lkl=\""nq 000\""""}"
+343,343,34X,34X,TRUE,0,342 OR 344,"Verfassungs- und Verwaltungs-, Arbeits-, Sozial-, und Bildungsrecht",,,,,,,,,,NT 360 OR NT 54* OR NT 550 OR NT 580 OR NT 300 OR NT 70* OR NT 710 OR NT 653,,,,,,,,,,,,,,"lkl=""nt 360"" or lkl=""nt 54?"" or lkl=""nt 550"" or lkl=""nt 580"" or lkl=""nt 300"" or lkl=""nt 70?"" or lkl=""nt 710"" or lkl=""nt 653""",,,,,"{""fi"":""lkl=\""nt 360\"" or lkl=\""nt 54?\"" or lkl=\""nt 550\"" or lkl=\""nt 580\"" or lkl=\""nt 300\"" or lkl=\""nt 70?\"" or lkl=\""nt 710\"" or lkl=\""nt 653\""""}"
+345,345,34X,34X,TRUE,0,34X,Sonstige Rechtsgebiete,"hier auch DDC 343, 346, 347",,,,,,,,,NT* NOT NT 360 OR NT 54* OR NT 55* OR NT 580 OR NT 300 OR NT 70* OR NT 71* OR NT 653,,,,,,,,,,,,,,"lkl=""nt?"" not lkl=""nt 360"" or lkl=""nt 54?"" or lkl=""nt 55?"" or lkl=""nt 580"" or lkl=""nt 300"" or lkl=""nt 70?"" or lkl=""nt 71?"" or lkl=""nt 653""",,,,,"{""fi"":""lkl=\""nt?\"" not lkl=\""nt 360\"" or lkl=\""nt 54?\"" or lkl=\""nt 55?\"" or lkl=\""nt 580\"" or lkl=\""nt 300\"" or lkl=\""nt 70?\"" or lkl=\""nt 71?\"" or lkl=\""nt 653\""""}"
+35*,35X,3XX,3XX,TRUE,3,35*,"Öffentliche Verwaltung, Militär",,,,,,,,,,LG* OR LH*,,,,,,,,,,,,,,"lkl=""lg?"" or lkl=""lh?""",,,,,"{""fi"":""lkl=\""lg?\"" or lkl=\""lh?\""""}"
+352,352,35X,35X,TRUE,0,351 OR 352,Allgemeines zur öffentlichen Verwaltung,,,,,,,,,,LG* OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""lg?"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""lg?\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+353,353,35X,35X,TRUE,0,353.* OR 352.4 OR 354.*,Einzelne Zuständigkeitsbereiche der öffentlichen Verwaltung,,,,,,,,,,LG 050 OR LG 1**-LG 5** OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200 ,,,,,,,,,,,,,,"lkl=""lg 050"" or lkl=""lg 1?-lg 5?"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200 """,,,,,"{""fi"":""lkl=\""lg 050\"" or lkl=\""lg 1?-lg 5?\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200 \""""}"
+355.*,355.X,35X,35X,TRUE,1,355.A,Militärwissenschaft,"hier auch 356,357,358,359",,,,,,,,,LH* OR PNN 200 OR PNO 200 OR PNP 200 OR PNQ 200 OR PNR 200,,,,,,,,,,,,,,"lkl=""lh?"" or lkl=""pnn 200"" or lkl=""pno 200"" or lkl=""pnp 200"" or lkl=""pnq 200"" or lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""lh?\"" or lkl=\""pnn 200\"" or lkl=\""pno 200\"" or lkl=\""pnp 200\"" or lkl=\""pnq 200\"" or lkl=\""pnr 200\""""}"
+355.1*,355.1X,355.X,355.X,TRUE,5,355.009,Militärgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+355.11,355.11,355.1X,355.1X,TRUE,0,355.009 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+355.12,355.12,355.1X,355.1X,TRUE,0,355.009 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+355.13,355.13,355.1X,355.1X,TRUE,0,355.009 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+355.14,355.14,355.1X,355.1X,TRUE,0,355.009 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+355.15,355.15,355.1X,355.1X,TRUE,0,355.009 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+36*,36X,3XX,3XX,TRUE,6,36*,"Soziale Probleme und Sozialdienste, Verbände",,,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LE* OR LI* OR LEE 210,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""le?"" or lkl=""li?"" or lkl=""lee 210""",,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""le?\"" or lkl=\""li?\"" or lkl=\""lee 210\""""}"
+361,361,36X,36X,TRUE,0,361,Soziale Probleme und Sozialarbeit im Allgemeinen,,,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LIM 310 ,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""lim 310 """,,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""lim 310 \""""}"
+362,362,36X,36X,TRUE,0,362,Soziale Probleme und Sozialarbeit für bestimmte Zielgruppen,,,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LI 020 OR LI 030 OR LEE 160 OR LES 860 OR LEW 910,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""li 020"" or lkl=""li 030"" or lkl=""lee 160"" or lkl=""les 860"" or lkl=""lew 910""",,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""li 020\"" or lkl=\""li 030\"" or lkl=\""lee 160\"" or lkl=\""les 860\"" or lkl=\""lew 910\""""}"
+363.*,363.X,36X,36X,TRUE,3,363.*,Spezielle soziale Probleme und Sozialdienste,,,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LIM 310 ,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""lim 310 """,,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""lim 310 \""""}"
+363.2,363.2,363.X,363.X,TRUE,0,363.2,"Öffentliche Sicherheit, Polizei","hier auch DDC 363.1, 363.3",,,,,,,,,NNF 842 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""nnf 842"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""nnf 842\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+363.7,363.7,363.X,363.X,TRUE,0,363.7,"Umweltprobleme, Umweltschutz",,,,,,,,,,QFC 2*-QFC 9* OR VBS 000 OR QDC 800,,,,,,,,,,,,,,"lkl=""qfc 2?-qfc 9?"" or lkl=""vbs 000"" or lkl=""qdc 800""",,,,,"{""fi"":""lkl=\""qfc 2?-qfc 9?\"" or lkl=\""vbs 000\"" or lkl=\""qdc 800\""""}"
+363.9,363.9,363.X,363.X,TRUE,0,363.X,Sonstige soziale Probleme und Sozialdienste,"hier 363.4-6,363.8-9",,,,,,,,,PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300 OR LIM 310,,,,,,,,,,,,,,"lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300"" or lkl=""lim 310""",,,,,"{""fi"":""lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\"" or lkl=\""lim 310\""""}"
+364,364,36X,36X,TRUE,0,364,"Kriminologie, Strafanstalten",hier auch DDC 365,,,,,,,,,LEE 160 OR LEI 460 OR NND*,,,,,,,,,,,,,,"lkl=""lee 160"" or lkl=""lei 460"" or lkl=""nnd?""",,,,,"{""fi"":""lkl=\""lee 160\"" or lkl=\""lei 460\"" or lkl=\""nnd?\""""}"
+368,368,36X,36X,TRUE,0,368,Versicherungswesen,,,,,,,,,,LX*,,,,,,,,,,,,,,"lkl=""lx?""",,,,,"{""fi"":""lkl=\""lx?\""""}"
+369,369,36X,36X,TRUE,0,369,Verbände,hier auch DDC 366 und 367,,,,,,,,,LEE 210 OR PNN 300 OR PNO 300 OR PNP 300 OR PNQ 300 OR PNR 300,,,,,,,,,,,,,,"lkl=""lee 210"" or lkl=""pnn 300"" or lkl=""pno 300"" or lkl=""pnp 300"" or lkl=""pnq 300"" or lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""lee 210\"" or lkl=\""pnn 300\"" or lkl=\""pno 300\"" or lkl=\""pnp 300\"" or lkl=\""pnq 300\"" or lkl=\""pnr 300\""""}"
+37*,37X,3XX,3XX,TRUE,9,37*,Bildung und Erziehung,,,,,,,,,,FK* OR FL* OR FM* OR FN* OR FO* OR FP* OR FQ* OR FR* OR FS* OR FT* OR FU* OR FV*,,,,,,,,,,,,,,"lkl=""fk?"" or lkl=""fl?"" or lkl=""fm?"" or lkl=""fn?"" or lkl=""fo?"" or lkl=""fp?"" or lkl=""fq?"" or lkl=""fr?"" or lkl=""fs?"" or lkl=""ft?"" or lkl=""fu?"" or lkl=""fv?""",,,,,"{""fi"":""lkl=\""fk?\"" or lkl=\""fl?\"" or lkl=\""fm?\"" or lkl=\""fn?\"" or lkl=\""fo?\"" or lkl=\""fp?\"" or lkl=\""fq?\"" or lkl=\""fr?\"" or lkl=\""fs?\"" or lkl=\""ft?\"" or lkl=\""fu?\"" or lkl=\""fv?\""""}"
+370,370,37X,37X,TRUE,0,370.A,Allgemeines,,,,,,,,,,FK* OR FL*,,,,,,,,,,,,,,"lkl=""fk?"" or lkl=""fl?""",,,,,"{""fi"":""lkl=\""fk?\"" or lkl=\""fl?\""""}"
+371,371,37X,37X,TRUE,0,370.9,Bildungsgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+372,372,37X,37X,TRUE,0,371,"Schulen, schulische Tätigkeiten, Sonderpädagogik",,,,,,,,,,FS* NOT FSF 200 OR FP*,,,,,,,,,,,,,,"lkl=""fs?"" not lkl=""fsf 200"" or lkl=""fp?""",,,,,"{""fi"":""lkl=\""fs?\"" not lkl=\""fsf 200\"" or lkl=\""fp?\""""}"
+373,373,37X,37X,TRUE,0,372,Primar- und Elementarbildung,,,,,,,,,,FSJ 100 OR FRH 100 OR FQG 000,,,,,,,,,,,,,,"lkl=""fsj 100"" or lkl=""frh 100"" or lkl=""fqg 000""",,,,,"{""fi"":""lkl=\""fsj 100\"" or lkl=\""frh 100\"" or lkl=\""fqg 000\""""}"
+374,374,37X,37X,TRUE,0,373,Sekundarbildung,,,,,,,,,,FSJ 2**-FSJ 9** OR FRH 2**-FRH 9**,,,,,,,,,,,,,,"lkl=""fsj 2?-fsj 9?"" or lkl=""frh 2?-frh 9?""",,,,,"{""fi"":""lkl=\""fsj 2?-fsj 9?\"" or lkl=\""frh 2?-frh 9?\""""}"
+375,375,37X,37X,TRUE,0,374,Erwachsenenbildung,,,,,,,,,,FV*,,,,,,,,,,,,,,"lkl=""fv?""",,,,,"{""fi"":""lkl=\""fv?\""""}"
+378,378,37X,37X,TRUE,0,375,Curricula,,,,,,,,,,FSF 200,,,,,,,,,,,,,,"lkl=""fsf 200""",,,,,"{""fi"":""lkl=\""fsf 200\""""}"
+379,379,37X,37X,TRUE,0,378,Hochschulbildung,,,,,,,,,,FT*,,,,,,,,,,,,,,"lkl=""ft?""",,,,,"{""fi"":""lkl=\""ft?\""""}"
+37A,37A,37X,37X,TRUE,0,379,Bildungspolitik,,,,,,,,,,FKE 000,,,,,,,,,,,,,,"lkl=""fke 000""",,,,,"{""fi"":""lkl=\""fke 000\""""}"
+38*,38X,3XX,3XX,TRUE,7,38*,"Handel, Kommunikation, Verkehr",,,,,,,,,,LVB* OR LY* OR LQN* OR PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400,,,,,,,,,,,,,,"lkl=""lvb?"" or lkl=""ly?"" or lkl=""lqn?"" or lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""lvb?\"" or lkl=\""ly?\"" or lkl=\""lqn?\"" or lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\""""}"
+381,381,38X,38X,TRUE,0,381,Handel,,,,,,,,,,LVB*,,,,,,,,,,,,,,"lkl=""lvb?""",,,,,"{""fi"":""lkl=\""lvb?\""""}"
+382.*,382.X,38X,38X,TRUE,2,382.A,Internationaler Handel (Außenhandel),,,,,,,,,,QER 930 OR PNN 400 OR PNO 400 OR PNP 400 OR PNQ 400 OR PNR 400,,,,,,,,,,,,,,"lkl=""qer 930"" or lkl=""pnn 400"" or lkl=""pno 400"" or lkl=""pnp 400"" or lkl=""pnq 400"" or lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""qer 930\"" or lkl=\""pnn 400\"" or lkl=\""pno 400\"" or lkl=\""pnp 400\"" or lkl=\""pnq 400\"" or lkl=\""pnr 400\""""}"
+382.1*,382.1X,382.X,382.X,TRUE,5,382.09,Handelsgeschichte (hier auch Ostseehandel),,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+382.11,382.11,382.1X,382.1X,TRUE,0,382.09 AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 400,,,,,,,,,,,,,,"lkl=""pnn 400""",,,,,"{""fi"":""lkl=\""pnn 400\""""}"
+382.12,382.12,382.1X,382.1X,TRUE,0,382.09 AND t0902,Mittelalter,,,,,,,,,,PNO 400,,,,,,,,,,,,,,"lkl=""pno 400""",,,,,"{""fi"":""lkl=\""pno 400\""""}"
+382.13,382.13,382.1X,382.1X,TRUE,0,382.09 AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 400,,,,,,,,,,,,,,"lkl=""pnp 400""",,,,,"{""fi"":""lkl=\""pnp 400\""""}"
+382.14,382.14,382.1X,382.1X,TRUE,0,382.09 AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 400,,,,,,,,,,,,,,"lkl=""pnq 400""",,,,,"{""fi"":""lkl=\""pnq 400\""""}"
+382.15,382.15,382.1X,382.1X,TRUE,0,382.09 AND t0904,20. Jahrhundert,,,,,,,,,,PNR 400,,,,,,,,,,,,,,"lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""pnr 400\""""}"
+382.2,382.2,382.X,382.X,TRUE,0,382.094,Geschichte der Hanse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+384,384,38X,38X,TRUE,0,384,"Kommunikation, Telekommunikation",hier auch 383,,,,,,,,,LQN*,,,,,,,,,,,,,,"lkl=""lqn?""",,,,,"{""fi"":""lkl=\""lqn?\""""}"
+385,385,38X,38X,TRUE,0,385,Schienenverkehr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+387,387,38X,38X,TRUE,0,387,"Schifffahrt, Luftfahrt Raumfahrt",hier auch 386,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.*,388.X,38X,38X,TRUE,5,388,Verkehr und Landverkehr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.1,388.1,388.X,388.X,TRUE,0,388 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.2,388.2,388.X,388.X,TRUE,0,388 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.3,388.3,388.X,388.X,TRUE,0,388 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.4,388.4,388.X,388.X,TRUE,0,388 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+388.5,388.5,388.X,388.X,TRUE,0,388 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+389,389,38X,38X,TRUE,0,389,"Metrologie, Normung",,,,,,,,,,RDB 000 OR RBS 200 OR ZAC 000 OR ZAE 000,,,,,,,,,,,,,,"lkl=""rdb 000"" or lkl=""rbs 200"" or lkl=""zac 000"" or lkl=""zae 000""",,,,,"{""fi"":""lkl=\""rdb 000\"" or lkl=\""rbs 200\"" or lkl=\""zac 000\"" or lkl=\""zae 000\""""}"
+39*,39X,3XX,3XX,TRUE,7,39*,"Brauchtum, Etikette, Folklore",,,,,,,,,,QU* AND QVE 6**,,,,,,,,,,,,,,"lkl=""qu?"" and lkl=""qve 6?""",,,,,"{""fi"":""lkl=\""qu?\"" and lkl=\""qve 6?\""""}"
+390,390,39X,39X,TRUE,0,390,Volkskultur allgemein,,,,,,,,,,QU* AND QVE 6**,,,,,,,,,,,,,,"lkl=""qu?"" and lkl=""qve 6?""",,,,,"{""fi"":""lkl=\""qu?\"" and lkl=\""qve 6?\""""}"
+391,391,39X,39X,TRUE,0,391,"Kleidung, äußeres Erscheinungsbild",,,,,,,,,,QUG* AND QVE 6**,,,,,,,,,,,,,,"lkl=""qug?"" and lkl=""qve 6?""",,,,,"{""fi"":""lkl=\""qug?\"" and lkl=\""qve 6?\""""}"
+392,392,39X,39X,TRUE,0,392,Bräuche des Lebenszyklus und häuslichen Lebens,,,,,,,,,,(QUL* OR QUM* OR QUN* OR QUO*) AND QVE 6**,,,,,,,,,,,,,,"(lkl=""qul?"" or lkl=""qum?"" or lkl=""qun?"" or lkl=""quo?"")"" and lkl=""qve 6?""",,,,,"{""fi"":""(lkl=\""qul?\"" or lkl=\""qum?\"" or lkl=\""qun?\"" or lkl=\""quo?\"")\"" and lkl=\""qve 6?\""""}"
+393,393,39X,39X,TRUE,0,393,Totenrituale (Tod Bräuche),,,,,,,,,,QUL 380,,,,,,,,,,,,,,"lkl=""qul 380""",,,,,"{""fi"":""lkl=\""qul 380\""""}"
+394,394,39X,39X,TRUE,0,394 OR 399,Sonstige Bräuche,,,,,,,,,,QUL* OR QUM* OR QUN* OR QUO* AND QVE 6*,,,,,,,,,,,,,,"lkl=""qul?"" or lkl=""qum?"" or lkl=""qun?"" or lkl=""quo?"" and lkl=""qve 6?""",,,,,"{""fi"":""lkl=\""qul?\"" or lkl=\""qum?\"" or lkl=\""qun?\"" or lkl=\""quo?\"" and lkl=\""qve 6?\""""}"
+395,395,39X,39X,TRUE,0,395,Etikette,,,,,,,,,,QUH 500 AND QVE 6*,,,,,,,,,,,,,,"lkl=""quh 500"" and lkl=""qve 6?""",,,,,"{""fi"":""lkl=\""quh 500\"" and lkl=\""qve 6?\""""}"
+398,398,39X,39X,TRUE,0,398,Folklore und Volksliteratur,,,,,,,,,,(QUQ* OR QUR 1*-QUR 6* OR QUS* OR QUT* OR QUR 780) AND QVE 6* OR (JLN 438 OR JLN 446 OR JLN 538 OR JLN 546),,,,,,,,,,,,,,"(lkl=""quq?"" or lkl=""qur 1?-qur 6?"" or lkl=""qus?"" or lkl=""qut?"" or lkl=""qur 780"")"" and lkl=""qve 6?"" or (lkl=""jln 438"" or lkl=""jln 446"" or lkl=""jln 538"" or lkl=""jln 546"")",,,,,"{""fi"":""(lkl=\""quq?\"" or lkl=\""qur 1?-qur 6?\"" or lkl=\""qus?\"" or lkl=\""qut?\"" or lkl=\""qur 780\"")\"" and lkl=\""qve 6?\"" or (lkl=\""jln 438\"" or lkl=\""jln 446\"" or lkl=\""jln 538\"" or lkl=\""jln 546\"")""}"
+4**,4XX,vifanord-ROOT,vifanord-ROOT,TRUE,6,4**,Sprache,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+40*,40X,4XX,4XX,TRUE,0,400,Sprachen in Nordeuropa und im Baltikum,hier alle sonstigen DDC 4-Stellen,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+41*,41X,4XX,4XX,TRUE,7,439.*,Skandinavische Sprachen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+410,410,41X,41X,TRUE,0,439.5,Skandinavische Sprachen übergreifend,,,,HW 2** OR HW 3**,,,,,,,,,,,,,,"lkl=""hw 2?"" or lkl=""hw 3?""",,,,,,,,,,,"{""sca"":""lkl=\""hw 2?\"" or lkl=\""hw 3?\""""}"
+411.*,411.X,41X,41X,TRUE,4,439.6A*,Altnordisch,hier auch 439.60-439.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+411.1,411.1,411.X,411.X,TRUE,0,439.6Aa,Allgemeines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+411.2,411.2,411.X,411.X,TRUE,0,439.6Ab,Wörterbücher,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+411.3,411.3,411.X,411.X,TRUE,0,439.6Ac,Sprachwissenschaft,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+411.4,411.4,411.X,411.X,TRUE,0,439.6Ad,Sprachgeschichte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+412.*,412.X,41X,41X,TRUE,4,439.690*,Isländisch,,,,,,HWD 2** OR HWD 3** HWB 2** OR HWA 2** OR HWB 3** OR HWA 3**,,,,,,,,,,,,,,"lkl=""hwd 2?"" or lkl=""hwd 3? hwb 2?"" or lkl=""hwa 2?"" or lkl=""hwb 3?"" or lkl=""hwa 3?""",,,,,,,,,"{""ic"":""lkl=\""hwd 2?\"" or lkl=\""hwd 3? hwb 2?\"" or lkl=\""hwa 2?\"" or lkl=\""hwb 3?\"" or lkl=\""hwa 3?\""""}"
+412.1,412.1,412.X,412.X,TRUE,0,439.690a,Allgemeines,,,,,,HWD 2** HWB 2** OR HWA 2**,,,,,,,,,,,,,,"lkl=""hwd 2? hwb 2?"" or lkl=""hwa 2?""",,,,,,,,,"{""ic"":""lkl=\""hwd 2? hwb 2?\"" or lkl=\""hwa 2?\""""}"
+412.2,412.2,412.X,412.X,TRUE,0,439.690b,Wörterbücher,,,,,,HWD 300 OR HWD 352 HWB 300 OR HWB 352 OR HWA 300 OR HWA 352,,,,,,,,,,,,,,"lkl=""hwd 300"" or lkl=""hwd 352 hwb 300"" or lkl=""hwb 352"" or lkl=""hwa 300"" or lkl=""hwa 352""",,,,,,,,,"{""ic"":""lkl=\""hwd 300\"" or lkl=\""hwd 352 hwb 300\"" or lkl=\""hwb 352\"" or lkl=\""hwa 300\"" or lkl=\""hwa 352\""""}"
+412.3,412.3,412.X,412.X,TRUE,0,439.690c,Sprachwissenschaft,,,,,,HWD 3** HWB 3** OR HWA 3**,,,,,,,,,,,,,,"lkl=""hwd 3? hwb 3?"" or lkl=""hwa 3?""",,,,,,,,,"{""ic"":""lkl=\""hwd 3? hwb 3?\"" or lkl=\""hwa 3?\""""}"
+412.4,412.4,412.X,412.X,TRUE,0,439.690d,Sprachgeschichte,,,,,,HWD 321 HWB 321 OR HWA 321 OR HWP 2** OR HWP 3**,,,,,,,,,,,,,,"lkl=""hwd 321 hwb 321"" or lkl=""hwa 321"" or lkl=""hwp 2?"" or lkl=""hwp 3?""",,,,,,,,,"{""ic"":""lkl=\""hwd 321 hwb 321\"" or lkl=\""hwa 321\"" or lkl=\""hwp 2?\"" or lkl=\""hwp 3?\""""}"
+413.*,413.X,41X,41X,TRUE,4,439.699*,Färöisch,,,,HWN 2** OR HWN 3**,,,,,,,,,,,,,,"lkl=""hwn 2?"" or lkl=""hwn 3?""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 2?\"" or lkl=\""hwn 3?\""""}"
+413.1,413.1,413.X,413.X,TRUE,0,439.699a,Allgemeines,,,,HWN 2** ,,,,,,,,,,,,,,"lkl=""hwn 2? """,,,,,,,,,,,"{""sca"":""lkl=\""hwn 2? \""""}"
+413.2,413.2,413.X,413.X,TRUE,0,439.699b,Wörterbücher,,,,HWN 300 OR HWN 352,,,,,,,,,,,,,,"lkl=""hwn 300"" or lkl=""hwn 352""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 300\"" or lkl=\""hwn 352\""""}"
+413.3,413.3,413.X,413.X,TRUE,0,439.699c,Sprachwissenschaft,,,,HWN 3**,,,,,,,,,,,,,,"lkl=""hwn 3?""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 3?\""""}"
+413.4,413.4,413.X,413.X,TRUE,0,439.699d,Sprachgeschichte,,,,HWN 321,,,,,,,,,,,,,,"lkl=""hwn 321""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 321\""""}"
+414.*,414.X,41X,41X,TRUE,4,439.7*,Schwedisch,,,,,,,,HWS*,,,,,,,,,,,,,,"lkl=""hws?""",,,,,,,"{""se"":""lkl=\""hws?\""""}"
+414.1,414.1,414.X,414.X,TRUE,0,439.7a,Allgemeines,,,,,,,,HWS 2**,,,,,,,,,,,,,,"lkl=""hws 2?""",,,,,,,"{""se"":""lkl=\""hws 2?\""""}"
+414.2,414.2,414.X,414.X,TRUE,0,439.7b,Wörterbücher,,,,,,,,HWS 300 OR HWS 352,,,,,,,,,,,,,,"lkl=""hws 300"" or lkl=""hws 352""",,,,,,,"{""se"":""lkl=\""hws 300\"" or lkl=\""hws 352\""""}"
+414.3,414.3,414.X,414.X,TRUE,0,439.7c,Sprachwissenschaft,,,,,,,,HWS 3**,,,,,,,,,,,,,,"lkl=""hws 3?""",,,,,,,"{""se"":""lkl=\""hws 3?\""""}"
+414.4,414.4,414.X,414.X,TRUE,0,439.7d,Sprachgeschichte,,,,,,,,HWS 320 OR HWS 321 OR HWS 323 OR HWS 324,,,,,,,,,,,,,,"lkl=""hws 320"" or lkl=""hws 321"" or lkl=""hws 323"" or lkl=""hws 324""",,,,,,,"{""se"":""lkl=\""hws 320\"" or lkl=\""hws 321\"" or lkl=\""hws 323\"" or lkl=\""hws 324\""""}"
+415.*,415.X,41X,41X,TRUE,4,439.81*,Dänisch,,,,,HWK*,,,,,,,,,,,,,,"lkl=""hwk?""",,,,,,,,,,"{""dk"":""lkl=\""hwk?\""""}"
+415.1,415.1,415.X,415.X,TRUE,0,439.81a,Allgemeines,,,,,HWK 2**,,,,,,,,,,,,,,"lkl=""hwk 2?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 2?\""""}"
+415.2,415.2,415.X,415.X,TRUE,0,439.81b,Wörterbücher,,,,,HWK 300 OR HWK 352,,,,,,,,,,,,,,"lkl=""hwk 300"" or lkl=""hwk 352""",,,,,,,,,,"{""dk"":""lkl=\""hwk 300\"" or lkl=\""hwk 352\""""}"
+415.3,415.3,415.X,415.X,TRUE,0,439.81c,Sprachwissenschaft,,,,,HWK 3**,,,,,,,,,,,,,,"lkl=""hwk 3?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 3?\""""}"
+415.4,415.4,415.X,415.X,TRUE,0,439.81d,Sprachgeschichte,,,,,HWK 320 OR HWK 321 OR HWK 323 OR HWK 324,,,,,,,,,,,,,,"lkl=""hwk 320"" or lkl=""hwk 321"" or lkl=""hwk 323"" or lkl=""hwk 324""",,,,,,,,,,"{""dk"":""lkl=\""hwk 320\"" or lkl=\""hwk 321\"" or lkl=\""hwk 323\"" or lkl=\""hwk 324\""""}"
+416.*,416.X,41X,41X,TRUE,4,439.82*,Norwegisch,,,,,,,,,HWG*,,,,,,,,,,,,,,"lkl=""hwg?""",,,,,,"{""no"":""lkl=\""hwg?\""""}"
+416.1,416.1,416.X,416.X,TRUE,0,439.82a,Allgemeines,,,,,,,,,HWG 2**,,,,,,,,,,,,,,"lkl=""hwg 2?""",,,,,,"{""no"":""lkl=\""hwg 2?\""""}"
+416.2,416.2,416.X,416.X,TRUE,0,439.82b,Wörterbücher,,,,,,,,,HWG 300 OR HWG 352,,,,,,,,,,,,,,"lkl=""hwg 300"" or lkl=""hwg 352""",,,,,,"{""no"":""lkl=\""hwg 300\"" or lkl=\""hwg 352\""""}"
+416.3,416.3,416.X,416.X,TRUE,0,439.82c,Sprachwissenschaft,,,,,,,,,HWG 3**,,,,,,,,,,,,,,"lkl=""hwg 3?""",,,,,,"{""no"":""lkl=\""hwg 3?\""""}"
+416.4,416.4,416.X,416.X,TRUE,0,439.82d,Sprachgeschichte,,,,,,,,,HWG 320 OR HWG 321 OR HWG 323 OR HWG 324,,,,,,,,,,,,,,"lkl=""hwg 320"" or lkl=""hwg 321"" or lkl=""hwg 323"" or lkl=""hwg 324""",,,,,,"{""no"":""lkl=\""hwg 320\"" or lkl=\""hwg 321\"" or lkl=\""hwg 323\"" or lkl=\""hwg 324\""""}"
+42*,42X,4XX,4XX,TRUE,4,491.9*,Baltische Sprachen,,,,,,,,,,,JH*,,,,,,,,,,,,,,"lkl=""jh?""",,,,"{""bal"":""lkl=\""jh?\""""}"
+420,420,42X,42X,TRUE,0,491.9A,"Allgemeines, Baltistik",,,,,,,,,,,JH 2**,,,,,,,,,,,,,,"lkl=""jh 2?""",,,,"{""bal"":""lkl=\""jh 2?\""""}"
+421.*,421.X,42X,42X,TRUE,2,491.91*,Altpreußisch,,,,,,,,,,,JHB*,,,,,,,,,,,,,,"lkl=""jhb?""",,,,"{""bal"":""lkl=\""jhb?\""""}"
+421.1,421.1,421.X,421.X,TRUE,0,491.91a,Allgemeines und Wörterbücher,,,,,,,,,,,JHB 2** OR JHB 300 OR JHB 352,,,,,,,,,,,,,,"lkl=""jhb 2?"" or lkl=""jhb 300"" or lkl=""jhb 352""",,,,"{""bal"":""lkl=\""jhb 2?\"" or lkl=\""jhb 300\"" or lkl=\""jhb 352\""""}"
+421.2,421.2,421.X,421.X,TRUE,0,491.91b,Sprach- und Literaturgeschichte,,,,,,,,,,,JHB 320 OR JHB 321 OR JHB 323 OR JHB 324 OR JHB 580 ,,,,,,,,,,,,,,"lkl=""jhb 320"" or lkl=""jhb 321"" or lkl=""jhb 323"" or lkl=""jhb 324"" or lkl=""jhb 580 """,,,,"{""bal"":""lkl=\""jhb 320\"" or lkl=\""jhb 321\"" or lkl=\""jhb 323\"" or lkl=\""jhb 324\"" or lkl=\""jhb 580 \""""}"
+422.*,422.X,42X,42X,TRUE,4,491.92*,Litauisch,,,,,,,,,,,,,,JHE*,,,,,,,,,,,,,,"lkl=""jhe?""","{""lt"":""lkl=\""jhe?\""""}"
+422.1,422.1,422.X,422.X,TRUE,0,491.92a,"Allgemeines, Lituanistik",,,,,,,,,,,,,,JHE 2**,,,,,,,,,,,,,,"lkl=""jhe 2?""","{""lt"":""lkl=\""jhe 2?\""""}"
+422.2,422.2,422.X,422.X,TRUE,0,491.92b,Wörterbücher,,,,,,,,,,,,,,JHE 300 OR JHE 352,,,,,,,,,,,,,,"lkl=""jhe 300"" or lkl=""jhe 352""","{""lt"":""lkl=\""jhe 300\"" or lkl=\""jhe 352\""""}"
+422.3,422.3,422.X,422.X,TRUE,0,491.92c,Sprachwissenschaft,,,,,,,,,,,,,,JHE 3**,,,,,,,,,,,,,,"lkl=""jhe 3?""","{""lt"":""lkl=\""jhe 3?\""""}"
+422.4,422.4,422.X,422.X,TRUE,0,491.92d,Sprachgeschichte,,,,,,,,,,,,,,JHE 320 OR JHE 321 OR JHE 323 OR JHE 324,,,,,,,,,,,,,,"lkl=""jhe 320"" or lkl=""jhe 321"" or lkl=""jhe 323"" or lkl=""jhe 324""","{""lt"":""lkl=\""jhe 320\"" or lkl=\""jhe 321\"" or lkl=\""jhe 323\"" or lkl=\""jhe 324\""""}"
+423.*,423.X,42X,42X,TRUE,4,491.93*,Lettisch,,,,,,,,,,,,,JHG* ,,,,,,,,,,,,,,"lkl=""jhg? """,,"{""lv"":""lkl=\""jhg? \""""}"
+423.1,423.1,423.X,423.X,TRUE,0,491.93a,"Allgemeines, Lettistik",,,,,,,,,,,,,JHG 2**,,,,,,,,,,,,,,"lkl=""jhg 2?""",,"{""lv"":""lkl=\""jhg 2?\""""}"
+423.2,423.2,423.X,423.X,TRUE,0,491.93b,Wörterbücher,,,,,,,,,,,,,JHG 300 OR JHG 352,,,,,,,,,,,,,,"lkl=""jhg 300"" or lkl=""jhg 352""",,"{""lv"":""lkl=\""jhg 300\"" or lkl=\""jhg 352\""""}"
+423.3,423.3,423.X,423.X,TRUE,0,491.93c,Sprachwissenschaft,,,,,,,,,,,,,JHG 3**,,,,,,,,,,,,,,"lkl=""jhg 3?""",,"{""lv"":""lkl=\""jhg 3?\""""}"
+423.4,423.4,423.X,423.X,TRUE,0,491.93d,Sprachgeschichte,,,,,,,,,,,,,JHG 320 OR JHG 321 OR JHG 323 OR JHG 324,,,,,,,,,,,,,,"lkl=""jhg 320"" or lkl=""jhg 321"" or lkl=""jhg 323"" or lkl=""jhg 324""",,"{""lv"":""lkl=\""jhg 320\"" or lkl=\""jhg 321\"" or lkl=\""jhg 323\"" or lkl=\""jhg 324\""""}"
+43*,43X,4XX,4XX,TRUE,3,494.54*,Ostseefinnische Sprachen,,,,,,,,,,JLM 2** OR JLM 3** OR JLN 3** AND JLS 3** OR JLN 2** AND JLS 2**,,,,,,,,,,,,,,"lkl=""jlm 2?"" or lkl=""jlm 3?"" or lkl=""jln 3?"" and lkl=""jls 3?"" or lkl=""jln 2?"" and lkl=""jls 2?""",,,,,"{""fi"":""lkl=\""jlm 2?\"" or lkl=\""jlm 3?\"" or lkl=\""jln 3?\"" and lkl=\""jls 3?\"" or lkl=\""jln 2?\"" and lkl=\""jls 2?\""""}"
+430,430,43X,43X,TRUE,0,494.54A,Allgemeines,,,,,,,,,,JLM 2** OR JLM 300 OR JLN 300 AND JLS 300 OR JLN 2** AND JLS 2**,,,,,,,,,,,,,,"lkl=""jlm 2?"" or lkl=""jlm 300"" or lkl=""jln 300"" and lkl=""jls 300"" or lkl=""jln 2?"" and lkl=""jls 2?""",,,,,"{""fi"":""lkl=\""jlm 2?\"" or lkl=\""jlm 300\"" or lkl=\""jln 300\"" and lkl=\""jls 300\"" or lkl=\""jln 2?\"" and lkl=\""jls 2?\""""}"
+431.*,431.X,43X,43X,TRUE,4,494.541*,Finnisch,,,,,,,,,,JLN 3** OR JLN 2**,,,,,,,,,,,,,,"lkl=""jln 3?"" or lkl=""jln 2?""",,,,,"{""fi"":""lkl=\""jln 3?\"" or lkl=\""jln 2?\""""}"
+431.1,431.1,431.X,431.X,TRUE,0,494.541a,"Allgemeines, Fennistik",,,,,,,,,,JLN 2** ,,,,,,,,,,,,,,"lkl=""jln 2? """,,,,,"{""fi"":""lkl=\""jln 2? \""""}"
+431.2,431.2,431.X,431.X,TRUE,0,494.541b,Wörterbücher,,,,,,,,,,JLN 300 OR JLN 352,,,,,,,,,,,,,,"lkl=""jln 300"" or lkl=""jln 352""",,,,,"{""fi"":""lkl=\""jln 300\"" or lkl=\""jln 352\""""}"
+431.3,431.3,431.X,431.X,TRUE,0,494.541c,Sprachwissenschaft,,,,,,,,,,JLN 3**,,,,,,,,,,,,,,"lkl=""jln 3?""",,,,,"{""fi"":""lkl=\""jln 3?\""""}"
+431.4,431.4,431.X,431.X,TRUE,0,494.541d,Sprachgeschichte,,,,,,,,,,JLN 320 OR JLN 321OR JLN 323 OR JLN 324,,,,,,,,,,,,,,"lkl=""jln 320"" or lkl=""jln 321or lkl=""jln 323"" or lkl=""jln 324""",,,,,"{""fi"":""lkl=\""jln 320\"" or lkl=\""jln 321or lkl=\""jln 323\"" or lkl=\""jln 324\""""}"
+432.*,432.X,43X,43X,TRUE,4,494.545*,Estnisch,,,,,,,,,,,,JLS 2** OR JLS 3**,,,,,,,,,,,,,,"lkl=""jls 2?"" or lkl=""jls 3?""",,,"{""ee"":""lkl=\""jls 2?\"" or lkl=\""jls 3?\""""}"
+432.1,432.1,432.X,432.X,TRUE,0,494.545a,"Allgemeines, Estnische Philologie",,,,,,,,,,,,JLS 2** ,,,,,,,,,,,,,,"lkl=""jls 2? """,,,"{""ee"":""lkl=\""jls 2? \""""}"
+432.2,432.2,432.X,432.X,TRUE,0,494.545b,Wörterbücher,,,,,,,,,,,,JLS 300 OR JLS 352,,,,,,,,,,,,,,"lkl=""jls 300"" or lkl=""jls 352""",,,"{""ee"":""lkl=\""jls 300\"" or lkl=\""jls 352\""""}"
+432.3,432.3,432.X,432.X,TRUE,0,494.545c,Sprachwissenschaft,,,,,,,,,,,,JLS 3**,,,,,,,,,,,,,,"lkl=""jls 3?""",,,"{""ee"":""lkl=\""jls 3?\""""}"
+432.4,432.4,432.X,432.X,TRUE,0,494.545d,Sprachgeschichte,,,,,,,,,,,,JLS 320 OR JLS 321 OR JLS 323 OR JLS 324,,,,,,,,,,,,,,"lkl=""jls 320"" or lkl=""jls 321"" or lkl=""jls 323"" or lkl=""jls 324""",,,"{""ee"":""lkl=\""jls 320\"" or lkl=\""jls 321\"" or lkl=\""jls 323\"" or lkl=\""jls 324\""""}"
+44*,44X,4XX,4XX,TRUE,0,494.55,Samisch,,,,,,,,,,JLL 2** OR JLL 3**,,,,,,,,,,,,,,"lkl=""jll 2?"" or lkl=""jll 3?""",,,,,"{""fi"":""lkl=\""jll 2?\"" or lkl=\""jll 3?\""""}"
+45*,45X,4XX,4XX,TRUE,0,497.12,Grönländisch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+7**,7XX,vifanord-ROOT,vifanord-ROOT,TRUE,10,7**,Künste und Unterhaltung,,,,,,,,,,G** NOT GU* NOT GY*,,,,,,,,,,,,,,"lkl=""g?"" not lkl=""gu?"" not lkl=""gy?""",,,,,"{""fi"":""lkl=\""g?\"" not lkl=\""gu?\"" not lkl=\""gy?\""""}"
+70*,70X,7XX,7XX,TRUE,3,70*,"Künste, bildende und angewandte Kunst","hier 70*, 73*, 74*, 75*, 76*, 77*",,,,,,,,,GA* OR GE* OR GG* OR GEG* OR GEH* OR GEK* OR GH 300 OR GEM* OR GB*,,,,,,,,,,,,,,"lkl=""ga?"" or lkl=""ge?"" or lkl=""gg?"" or lkl=""geg?"" or lkl=""geh?"" or lkl=""gek?"" or lkl=""gh 300"" or lkl=""gem?"" or lkl=""gb?""",,,,,"{""fi"":""lkl=\""ga?\"" or lkl=\""ge?\"" or lkl=\""gg?\"" or lkl=\""geg?\"" or lkl=\""geh?\"" or lkl=\""gek?\"" or lkl=\""gh 300\"" or lkl=\""gem?\"" or lkl=\""gb?\""""}"
+701,701,70X,70X,TRUE,0,708,Museen und Ausstellungen,hier auch 707.4,,,,,,,,,GEA 100 OR GEA 300,,,,,,,,,,,,,,"lkl=""gea 100"" or lkl=""gea 300""",,,,,"{""fi"":""lkl=\""gea 100\"" or lkl=\""gea 300\""""}"
+702,702,70X,70X,TRUE,0,709.4,Kunstgeschichte allg. u. Epochendarstellungen,,,GED 500,,,,,,,GED 100 OR GED 305,GED 500,,,,,,"lkl=""ged 500""",,,,,,,"lkl=""ged 100"" or lkl=""ged 305""","lkl=""ged 500""",,,,"{""nord"":""lkl=\""ged 500\"""",""fi"":""lkl=\""ged 100\"" or lkl=\""ged 305\"""",""bal"":""lkl=\""ged 500\""""}"
+706,706,70X,70X,TRUE,0,709.2,Einzelne Künstler,hier entgegen DDC Künstler aller Gattungen in einem Alphabet,,GH 300,,,,,,,GH 300,,,,,,,"lkl=""gh 300""",,,,,,,"lkl=""gh 300""",,,,,"{""nord"":""lkl=\""gh 300\"""",""fi"":""lkl=\""gh 300\""""}"
+71*,71X,7XX,7XX,TRUE,0,71*,"Raumplanung, Landschaftsgestaltung, Urbanistik",hier 72* und 71*,,,,,,,,,GEL 820,,,,,,,,,,,,,,"lkl=""gel 820""",,,,,"{""fi"":""lkl=\""gel 820\""""}"
+72*,72X,7XX,7XX,TRUE,4,72*,Architektur,,,,,,,,,,GEL*,,,,,,,,,,,,,,"lkl=""gel?""",,,,,"{""fi"":""lkl=\""gel?\""""}"
+722,722,72X,72X,TRUE,0,72*,Architektur allg.,,,,,,,,,,GEL 100,,,,,,,,,,,,,,"lkl=""gel 100""",,,,,"{""fi"":""lkl=\""gel 100\""""}"
+725,725,72X,72X,TRUE,0,725,Öffentliche Gebäude,hier auch 727,,,,,,,,,GEL 743,,,,,,,,,,,,,,"lkl=""gel 743""",,,,,"{""fi"":""lkl=\""gel 743\""""}"
+726,726,72X,72X,TRUE,0,726,Sakrale Architektur,,,,,,,,,,GEL 700,,,,,,,,,,,,,,"lkl=""gel 700""",,,,,"{""fi"":""lkl=\""gel 700\""""}"
+728,728,72X,72X,TRUE,0,728,"Wohnbauten, Schlösser, Burgen",,,,,,,,,,GEL 757 OR GEL 758 OR GEL 764,,,,,,,,,,,,,,"lkl=""gel 757"" or lkl=""gel 758"" or lkl=""gel 764""",,,,,"{""fi"":""lkl=\""gel 757\"" or lkl=\""gel 758\"" or lkl=\""gel 764\""""}"
+73*,73X,7XX,7XX,TRUE,0,73*,Skulptur (Plastik),hier auch Metall- und Keramikkunst ,,,,,,,,,GEK 100,,,,,,,,,,,,,,"lkl=""gek 100""",,,,,"{""fi"":""lkl=\""gek 100\""""}"
+74*,74X,7XX,7XX,TRUE,0,741 OR 76*,"Zeichnung und Graphik, Druckgraphik","bei 741auch 742 und 743 einordnen, muss wegen RVK mindestens im Baum zusammen",,,,,,,,,GEH 100 OR GEH 720,,,,,,,,,,,,,,"lkl=""geh 100"" or lkl=""geh 720""",,,,,"{""fi"":""lkl=\""geh 100\"" or lkl=\""geh 720\""""}"
+75*,75X,7XX,7XX,TRUE,0,75*,Malerei und Gemälde,,,,,,,,,,GEG 100,,,,,,,,,,,,,,"lkl=""geg 100""",,,,,"{""fi"":""lkl=\""geg 100\""""}"
+76*,76X,7XX,7XX,TRUE,0,745,"Kunsthandwerk, Angewandte Kunst, Design, Inneneinrichtung","hier auch 746,747,748,749,729",,,,,,,,,GEM 100 OR GEM 710 OR GEM 720,,,,,,,,,,,,,,"lkl=""gem 100"" or lkl=""gem 710"" or lkl=""gem 720""",,,,,"{""fi"":""lkl=\""gem 100\"" or lkl=\""gem 710\"" or lkl=\""gem 720\""""}"
+77*,77X,7XX,7XX,TRUE,0,77*,"Photographie, Photokunst, Computerkunst",,,,,,,,,,GEN 200 OR GEN 450,,,,,,,,,,,,,,"lkl=""gen 200"" or lkl=""gen 450""",,,,,"{""fi"":""lkl=\""gen 200\"" or lkl=\""gen 450\""""}"
+78*,78X,7XX,7XX,TRUE,7,78*,Musik,,,,,,,,,,GU* OR GY*,,,,,,,,,,,,,,"lkl=""gu?"" or lkl=""gy?""",,,,,"{""fi"":""lkl=\""gu?\"" or lkl=\""gy?\""""}"
+780,780,78X,78X,TRUE,0,780,Allgemeines ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+781,781,78X,78X,TRUE,0,781.62,Volksmusik,hier auch Interpreten,,,,,,,,,GUK 450,,,,,,,,,,,,,,"lkl=""guk 450""",,,,,"{""fi"":""lkl=\""guk 450\""""}"
+782,782,78X,78X,TRUE,0,781.64,Populäre Musik,"hier Interpreten, die sowohl als Vokal- als auch als Instr.musiker bekannt sind, z.B. Louis Armstrong",,,,,,,,,GUU 000,,,,,,,,,,,,,,"lkl=""guu 000""",,,,,"{""fi"":""lkl=\""guu 000\""""}"
+783,783,78X,78X,TRUE,0,781.7,Geistliche Musik,hier auch Interpreten,,,,,,,,,GUR 520 OR GUR 680,,,,,,,,,,,,,,"lkl=""gur 520"" or lkl=""gur 680""",,,,,"{""fi"":""lkl=\""gur 520\"" or lkl=\""gur 680\""""}"
+784,784,78X,78X,TRUE,0,782,Vokalmusik,"hier auch 783, hier Interpreten, die besonders wegen Vokalmusik bekannt sind, z.B. Beatles",,,,,,,,,GUM 000,,,,,,,,,,,,,,"lkl=""gum 000""",,,,,"{""fi"":""lkl=\""gum 000\""""}"
+785,785,78X,78X,TRUE,0,784,Instrumentalmusik,"784 OR 785 OR 786 OR 787 OT 788, hier auch Interpreten",,,,,,,,,GUN 000,,,,,,,,,,,,,,"lkl=""gun 000""",,,,,"{""fi"":""lkl=\""gun 000\""""}"
+789,789,78X,78X,TRUE,0,789,Komponisten,,,,,,,,,,GY 000,,,,,,,,,,,,,,"lkl=""gy 000""",,,,,"{""fi"":""lkl=\""gy 000\""""}"
+79*,79X,7XX,7XX,TRUE,7,79*,"Freizeitgestaltung, darstellende Künste, Sport",,,,,,,,,,FY* OR FZ* OR FZO 000,,,,,,,,,,,,,,"lkl=""fy?"" or lkl=""fz?"" or lkl=""fzo 000""",,,,,"{""fi"":""lkl=\""fy?\"" or lkl=\""fz?\"" or lkl=\""fzo 000\""""}"
+790,790,79X,79X,TRUE,0,790,Freizeitgestaltung,,,,,,,,,,FZ*,,,,,,,,,,,,,,"lkl=""fz?""",,,,,"{""fi"":""lkl=\""fz?\""""}"
+791,791,79X,79X,TRUE,0,791.A,"Öffentliche Darbietungen (Zirkus, Festumzüge etc.)","hier 791.1,3,5,6,8",,,,,,,,,FZO 000,,,,,,,,,,,,,,"lkl=""fzo 000""",,,,,"{""fi"":""lkl=\""fzo 000\""""}"
+792,792,79X,79X,TRUE,0,791.4,"Film, Hörfunk, Fernsehen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+793,793,79X,79X,TRUE,0,792,"Bühnenkunst, Theater, Ballett","hier auch Aufführungsstätten (Musiktheater, Konzert)",,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+794,794,79X,79X,TRUE,0,793.A,Spiele,"hier auch 794,795",,,,,,,,,FZ*,,,,,,,,,,,,,,"lkl=""fz?""",,,,,"{""fi"":""lkl=\""fz?\""""}"
+795,795,79X,79X,TRUE,0,793.3,Gesellschafts- und Volkstanz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+796,796,79X,79X,TRUE,0,79A,Sport,hier 796-799,,,,,,,,,FY*,,,,,,,,,,,,,,"lkl=""fy?""",,,,,"{""fi"":""lkl=\""fy?\""""}"
+8**,8XX,vifanord-ROOT,vifanord-ROOT,TRUE,5,8**,Literatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+80,80,8X,,TRUE,0,800,Literaturen in Nordeuropa und Baltikum,hier alle sonstigen DDC 8-Stellen,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+81*,81X,8XX,8XX,TRUE,6,839.5,Skandinavische Literaturen übergreifend,,,,HW 4** OR HW 5** OR HW 6**,,,,,,,,,,,,,,"lkl=""hw 4?"" or lkl=""hw 5?"" or lkl=""hw 6?""",,,,,,,,,,,"{""sca"":""lkl=\""hw 4?\"" or lkl=\""hw 5?\"" or lkl=\""hw 6?\""""}"
+811.*,811.X,81X,81X,TRUE,6,839.6A*,Altnordische Literatur,hier 839.60-839.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.1,811.1,811.X,811.X,TRUE,0,839.6Aa,Allgemeines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.2,811.2,811.X,811.X,TRUE,0,839.6Ab,Literaturtheorie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.3,811.3,811.X,811.X,TRUE,0,839.6Ac,Literaturgeschichte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.4,811.4,811.X,811.X,TRUE,0,839.6Ad,Volksdichtung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.5,811.5,811.X,811.X,TRUE,0,839.6Ae,Textsammlungen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+811.6,811.6,811.X,811.X,TRUE,0,839.6Af,Autoren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+812.*,812.X,81X,81X,TRUE,6,839.690*,Isländisch Literatur,,,,,,HWD 4** OR HWD 5** OR HWD 6** OR HWA 4** OR HWA 5 ** OR HWA 6** OR HWB 4** OR HWB 5** OR HWB 6** ,,,,,,,,,,,,,,"lkl=""hwd 4?"" or lkl=""hwd 5?"" or lkl=""hwd 6?"" or lkl=""hwa 4?"" or lkl=""hwa 5 ?"" or lkl=""hwa 6?"" or lkl=""hwb 4?"" or lkl=""hwb 5?"" or lkl=""hwb 6? """,,,,,,,,,"{""ic"":""lkl=\""hwd 4?\"" or lkl=\""hwd 5?\"" or lkl=\""hwd 6?\"" or lkl=\""hwa 4?\"" or lkl=\""hwa 5 ?\"" or lkl=\""hwa 6?\"" or lkl=\""hwb 4?\"" or lkl=\""hwb 5?\"" or lkl=\""hwb 6? \""""}"
+812.1,812.1,812.X,812.X,TRUE,0,839.690a,Allgemeines,,,,,,HWD 5** OR HWA 5** OR HWB 5**,,,,,,,,,,,,,,"lkl=""hwd 5?"" or lkl=""hwa 5?"" or lkl=""hwb 5?""",,,,,,,,,"{""ic"":""lkl=\""hwd 5?\"" or lkl=\""hwa 5?\"" or lkl=\""hwb 5?\""""}"
+812.2,812.2,812.X,812.X,TRUE,0,839.690b,Literaturtheorie,,,,,,HWD 510 OR HWD 512 OR HWA 510 OR HWB 512 ,,,,,,,,,,,,,,"lkl=""hwd 510"" or lkl=""hwd 512"" or lkl=""hwa 510"" or lkl=""hwb 512 """,,,,,,,,,"{""ic"":""lkl=\""hwd 510\"" or lkl=\""hwd 512\"" or lkl=\""hwa 510\"" or lkl=\""hwb 512 \""""}"
+812.3,812.3,812.X,812.X,TRUE,0,839.690c,Literaturgeschichte,,,,,,HWD 580 OR HWA 580 OR HWB 580 ,,,,,,,,,,,,,,"lkl=""hwd 580"" or lkl=""hwa 580"" or lkl=""hwb 580 """,,,,,,,,,"{""ic"":""lkl=\""hwd 580\"" or lkl=\""hwa 580\"" or lkl=\""hwb 580 \""""}"
+812.4,812.4,812.X,812.X,TRUE,0,839.690d,Volksdichtung,,,,,,HWD 438 OR HWD 446 OR HWA 438 OR HWA 446 OR HWB 438 OR HWB 446,,,,,,,,,,,,,,"lkl=""hwd 438"" or lkl=""hwd 446"" or lkl=""hwa 438"" or lkl=""hwa 446"" or lkl=""hwb 438"" or lkl=""hwb 446""",,,,,,,,,"{""ic"":""lkl=\""hwd 438\"" or lkl=\""hwd 446\"" or lkl=\""hwa 438\"" or lkl=\""hwa 446\"" or lkl=\""hwb 438\"" or lkl=\""hwb 446\""""}"
+812.5,812.5,812.X,812.X,TRUE,0,839.690e,Textsammlungen,,,,,,HWD 4** OR HWD 5** OR HWA 4** OR HWA 5 ** OR HWB 4** OR HWB 5** OR ,,,,,,,,,,,,,,"lkl=""hwd 4?"" or lkl=""hwd 5?"" or lkl=""hwa 4?"" or lkl=""hwa 5 ?"" or lkl=""hwb 4?"" or lkl=""hwb 5?"" or lkl=""""",,,,,,,,,"{""ic"":""lkl=\""hwd 4?\"" or lkl=\""hwd 5?\"" or lkl=\""hwa 4?\"" or lkl=\""hwa 5 ?\"" or lkl=\""hwb 4?\"" or lkl=\""hwb 5?\"" or lkl=\""\""""}"
+812.6,812.6,812.X,812.X,TRUE,0,839.690f,Autoren,,,,,,HWD 6** OR HWA 6** OR HWB 6**,,,,,,,,,,,,,,"lkl=""hwd 6?"" or lkl=""hwa 6?"" or lkl=""hwb 6?""",,,,,,,,,"{""ic"":""lkl=\""hwd 6?\"" or lkl=\""hwa 6?\"" or lkl=\""hwb 6?\""""}"
+813.*,813.X,81X,81X,TRUE,6,839.699*,Färöische Literatur,,,,HWN 4** OR HWN 5** OR HWN 6**,,,,,,,,,,,,,,"lkl=""hwn 4?"" or lkl=""hwn 5?"" or lkl=""hwn 6?""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 4?\"" or lkl=\""hwn 5?\"" or lkl=\""hwn 6?\""""}"
+813.1,813.1,813.X,813.X,TRUE,0,839.699a,Allgemeines,,,,HWN 5**,,,,,,,,,,,,,,"lkl=""hwn 5?""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 5?\""""}"
+813.2,813.2,813.X,813.X,TRUE,0,839.699b,Literaturtheorie,,,,HWN 510 OR HWN 512,,,,,,,,,,,,,,"lkl=""hwn 510"" or lkl=""hwn 512""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 510\"" or lkl=\""hwn 512\""""}"
+813.3,813.3,813.X,813.X,TRUE,0,839.699c,Literaturgeschichte,,,,HWN 580,,,,,,,,,,,,,,"lkl=""hwn 580""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 580\""""}"
+813.4,813.4,813.X,813.X,TRUE,0,839.699d,Volksdichtung,,,,HWN 438 OR HWN 446,,,,,,,,,,,,,,"lkl=""hwn 438"" or lkl=""hwn 446""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 438\"" or lkl=\""hwn 446\""""}"
+813.5,813.5,813.X,813.X,TRUE,0,839.699e,Textsammlungen,,,,HWN 4** OR HWN 5** ,,,,,,,,,,,,,,"lkl=""hwn 4?"" or lkl=""hwn 5? """,,,,,,,,,,,"{""sca"":""lkl=\""hwn 4?\"" or lkl=\""hwn 5? \""""}"
+813.6,813.6,813.X,813.X,TRUE,0,839.699f,Autoren,,,,HWN 6**,,,,,,,,,,,,,,"lkl=""hwn 6?""",,,,,,,,,,,"{""sca"":""lkl=\""hwn 6?\""""}"
+814.*,814.X,81X,81X,TRUE,6,839.7*,Schwedische Literatur,,,,,,,,HWS 4** OR HWS 5** OR HWS 6**,,,,,,,,,,,,,,"lkl=""hws 4?"" or lkl=""hws 5?"" or lkl=""hws 6?""",,,,,,,"{""se"":""lkl=\""hws 4?\"" or lkl=\""hws 5?\"" or lkl=\""hws 6?\""""}"
+814.1,814.1,814.X,814.X,TRUE,0,839.7a,Allgemeines,,,,,,,,HWS 5**,,,,,,,,,,,,,,"lkl=""hws 5?""",,,,,,,"{""se"":""lkl=\""hws 5?\""""}"
+814.2,814.2,814.X,814.X,TRUE,0,839.7b,Literaturtheorie,,,,,,,,HWS 510 OR HWS 512,,,,,,,,,,,,,,"lkl=""hws 510"" or lkl=""hws 512""",,,,,,,"{""se"":""lkl=\""hws 510\"" or lkl=\""hws 512\""""}"
+814.3,814.3,814.X,814.X,TRUE,0,839.7c,Literaturgeschichte,,,,,,,,HWS 580,,,,,,,,,,,,,,"lkl=""hws 580""",,,,,,,"{""se"":""lkl=\""hws 580\""""}"
+814.4,814.4,814.X,814.X,TRUE,0,839.7d,Volksdichtung,,,,,,,,HWS 438 OR HWS 446,,,,,,,,,,,,,,"lkl=""hws 438"" or lkl=""hws 446""",,,,,,,"{""se"":""lkl=\""hws 438\"" or lkl=\""hws 446\""""}"
+814.5,814.5,814.X,814.X,TRUE,0,839.7e,Textsammlungen,,,,,,,,HWS 4** OR HWS 5**,,,,,,,,,,,,,,"lkl=""hws 4?"" or lkl=""hws 5?""",,,,,,,"{""se"":""lkl=\""hws 4?\"" or lkl=\""hws 5?\""""}"
+814.6,814.6,814.X,814.X,TRUE,0,839.7f,Autoren,,,,,,,,HWS 6**,,,,,,,,,,,,,,"lkl=""hws 6?""",,,,,,,"{""se"":""lkl=\""hws 6?\""""}"
+815.*,815.X,81X,81X,TRUE,6,839.81*,Dänische Literatur,,,,,HWK 4** OR HWK 5** OR HWK 6**,,,,,,,,,,,,,,"lkl=""hwk 4?"" or lkl=""hwk 5?"" or lkl=""hwk 6?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 4?\"" or lkl=\""hwk 5?\"" or lkl=\""hwk 6?\""""}"
+815.1,815.1,815.X,815.X,TRUE,0,839.81a,Allgemeines,,,,,HWK 5**,,,,,,,,,,,,,,"lkl=""hwk 5?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 5?\""""}"
+815.2,815.2,815.X,815.X,TRUE,0,839.81b,Literaturtheorie,,,,,HWK 510 OR HWK 512,,,,,,,,,,,,,,"lkl=""hwk 510"" or lkl=""hwk 512""",,,,,,,,,,"{""dk"":""lkl=\""hwk 510\"" or lkl=\""hwk 512\""""}"
+815.3,815.3,815.X,815.X,TRUE,0,839.81c,Literaturgeschichte,,,,,HWK 580,,,,,,,,,,,,,,"lkl=""hwk 580""",,,,,,,,,,"{""dk"":""lkl=\""hwk 580\""""}"
+815.4,815.4,815.X,815.X,TRUE,0,839.81d,Volksdichtung,,,,,HWK 438 OR HWK 446,,,,,,,,,,,,,,"lkl=""hwk 438"" or lkl=""hwk 446""",,,,,,,,,,"{""dk"":""lkl=\""hwk 438\"" or lkl=\""hwk 446\""""}"
+815.5,815.5,815.X,815.X,TRUE,0,839.81e,Textsammlungen,,,,,HWK 4** OR HWK 5**,,,,,,,,,,,,,,"lkl=""hwk 4?"" or lkl=""hwk 5?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 4?\"" or lkl=\""hwk 5?\""""}"
+815.6,815.6,815.X,815.X,TRUE,0,839.81f,Autoren,,,,,HWK 6**,,,,,,,,,,,,,,"lkl=""hwk 6?""",,,,,,,,,,"{""dk"":""lkl=\""hwk 6?\""""}"
+816.*,816.X,81X,81X,TRUE,6,839.82*,Norwegische Literatur,,,,,,,,,HWG 4** OR HWG 5** OR HWG 6**,,,,,,,,,,,,,,"lkl=""hwg 4?"" or lkl=""hwg 5?"" or lkl=""hwg 6?""",,,,,,"{""no"":""lkl=\""hwg 4?\"" or lkl=\""hwg 5?\"" or lkl=\""hwg 6?\""""}"
+816.1,816.1,816.X,816.X,TRUE,0,839.82a,Allgemeines,,,,,,,,,HWG 5**,,,,,,,,,,,,,,"lkl=""hwg 5?""",,,,,,"{""no"":""lkl=\""hwg 5?\""""}"
+816.2,816.2,816.X,816.X,TRUE,0,839.82b,Literaturtheorie,,,,,,,,,HWG 510 OR HWG 512,,,,,,,,,,,,,,"lkl=""hwg 510"" or lkl=""hwg 512""",,,,,,"{""no"":""lkl=\""hwg 510\"" or lkl=\""hwg 512\""""}"
+816.3,816.3,816.X,816.X,TRUE,0,839.82c,Literaturgeschichte,,,,,,,,,HWG 580,,,,,,,,,,,,,,"lkl=""hwg 580""",,,,,,"{""no"":""lkl=\""hwg 580\""""}"
+816.4,816.4,816.X,816.X,TRUE,0,839.82d,Volksdichtung,,,,,,,,,HWG 438 OR HWG 446,,,,,,,,,,,,,,"lkl=""hwg 438"" or lkl=""hwg 446""",,,,,,"{""no"":""lkl=\""hwg 438\"" or lkl=\""hwg 446\""""}"
+816.5,816.5,816.X,816.X,TRUE,0,839.82e,Textsammlungen,,,,,,,,,HWG 4** OR HWG 5**,,,,,,,,,,,,,,"lkl=""hwg 4?"" or lkl=""hwg 5?""",,,,,,"{""no"":""lkl=\""hwg 4?\"" or lkl=\""hwg 5?\""""}"
+816.6,816.6,816.X,816.X,TRUE,0,839.82f,Autoren,,,,,,,,,HWG 6**,,,,,,,,,,,,,,"lkl=""hwg 6?""",,,,,,"{""no"":""lkl=\""hwg 6?\""""}"
+82*,82X,8XX,8XX,TRUE,4,891*,Baltische Literaturen,,,,,,,,,,,JH 4** OR JH 5** OR JH 6**,,,,,,,,,,,,,,"lkl=""jh 4?"" or lkl=""jh 5?"" or lkl=""jh 6?""",,,,"{""bal"":""lkl=\""jh 4?\"" or lkl=\""jh 5?\"" or lkl=\""jh 6?\""""}"
+820,820,82X,82X,TRUE,0,891.9A,"Allgemeines, Literaturgeschichte",,,,,,,,,,,JH 500 OR JH 580,,,,,,,,,,,,,,"lkl=""jh 500"" or lkl=""jh 580""",,,,"{""bal"":""lkl=\""jh 500\"" or lkl=\""jh 580\""""}"
+821.*,821.X,82X,82X,TRUE,2,891.91*,Altpreußische Literatur,,,,,,,,,,,JHB 4** OR JHB 5** OR JHB 6**,,,,,,,,,,,,,,"lkl=""jhb 4?"" or lkl=""jhb 5?"" or lkl=""jhb 6?""",,,,"{""bal"":""lkl=\""jhb 4?\"" or lkl=\""jhb 5?\"" or lkl=\""jhb 6?\""""}"
+821.1,821.1,821.X,821.X,TRUE,0,891.91a,Allgemeines,,,,,,,,,,,JHB 5**,,,,,,,,,,,,,,"lkl=""jhb 5?""",,,,"{""bal"":""lkl=\""jhb 5?\""""}"
+821.2,821.2,821.X,821.X,TRUE,0,891.91b,Sprach- und Literaturgeschichte,,,,,,,,,,,JHB 321 OR JHB 580,,,,,,,,,,,,,,"lkl=""jhb 321"" or lkl=""jhb 580""",,,,"{""bal"":""lkl=\""jhb 321\"" or lkl=\""jhb 580\""""}"
+822.*,822.X,82X,82X,TRUE,6,891.92*,Litauische Literatur,,,,,,,,,,,,,,JHE 4** OR JHE 5** OR JHE 6**,,,,,,,,,,,,,,"lkl=""jhe 4?"" or lkl=""jhe 5?"" or lkl=""jhe 6?""","{""lt"":""lkl=\""jhe 4?\"" or lkl=\""jhe 5?\"" or lkl=\""jhe 6?\""""}"
+822.1,822.1,822.X,822.X,TRUE,0,891.92a,Allgemeines,,,,,,,,,,,,,,JHE 5**,,,,,,,,,,,,,,"lkl=""jhe 5?""","{""lt"":""lkl=\""jhe 5?\""""}"
+822.2,822.2,822.X,822.X,TRUE,0,891.92b,Literaturtheorie,,,,,,,,,,,,,,JHE 510 OR JHE 512,,,,,,,,,,,,,,"lkl=""jhe 510"" or lkl=""jhe 512""","{""lt"":""lkl=\""jhe 510\"" or lkl=\""jhe 512\""""}"
+822.3,822.3,822.X,822.X,TRUE,0,891.92c,Literaturgeschichte,,,,,,,,,,,,,,JHE 580,,,,,,,,,,,,,,"lkl=""jhe 580""","{""lt"":""lkl=\""jhe 580\""""}"
+822.4,822.4,822.X,822.X,TRUE,0,891.92d,Volksdichtung,,,,,,,,,,,,,,JHE 438 OR JHE 446,,,,,,,,,,,,,,"lkl=""jhe 438"" or lkl=""jhe 446""","{""lt"":""lkl=\""jhe 438\"" or lkl=\""jhe 446\""""}"
+822.5,822.5,822.X,822.X,TRUE,0,891.92e,Textsammlungen,,,,,,,,,,,,,,JHE 4** OR JHE 5** ,,,,,,,,,,,,,,"lkl=""jhe 4?"" or lkl=""jhe 5? ""","{""lt"":""lkl=\""jhe 4?\"" or lkl=\""jhe 5? \""""}"
+822.6,822.6,822.X,822.X,TRUE,0,891.92f,Primär- und Sekundätliteratur zu einzelnen Autoren,,,,,,,,,,,,,,JHE 6**,,,,,,,,,,,,,,"lkl=""jhe 6?""","{""lt"":""lkl=\""jhe 6?\""""}"
+823.*,823.X,82X,82X,TRUE,6,891.93*,Lettische Literatur,,,,,,,,,,,,,JHG 4** OR JHG 5** OR JHG 6**,,,,,,,,,,,,,,"lkl=""jhg 4?"" or lkl=""jhg 5?"" or lkl=""jhg 6?""",,"{""lv"":""lkl=\""jhg 4?\"" or lkl=\""jhg 5?\"" or lkl=\""jhg 6?\""""}"
+823.1,823.1,823.X,823.X,TRUE,0,891.93a,Allgemeines,,,,,,,,,,,,,JHG 5**,,,,,,,,,,,,,,"lkl=""jhg 5?""",,"{""lv"":""lkl=\""jhg 5?\""""}"
+823.2,823.2,823.X,823.X,TRUE,0,891.93b,Literaturtheorie,,,,,,,,,,,,,JHG 510 OR JHG 512,,,,,,,,,,,,,,"lkl=""jhg 510"" or lkl=""jhg 512""",,"{""lv"":""lkl=\""jhg 510\"" or lkl=\""jhg 512\""""}"
+823.3,823.3,823.X,823.X,TRUE,0,891.93c,Literaturgeschichte,,,,,,,,,,,,,JHG 580,,,,,,,,,,,,,,"lkl=""jhg 580""",,"{""lv"":""lkl=\""jhg 580\""""}"
+823.4,823.4,823.X,823.X,TRUE,0,891.93d,Volksdichtung,,,,,,,,,,,,,JHG 438 OR JHG 446,,,,,,,,,,,,,,"lkl=""jhg 438"" or lkl=""jhg 446""",,"{""lv"":""lkl=\""jhg 438\"" or lkl=\""jhg 446\""""}"
+823.5,823.5,823.X,823.X,TRUE,0,891.93e,Textsammlungen,,,,,,,,,,,,,JHG 4** OR JHG 5** ,,,,,,,,,,,,,,"lkl=""jhg 4?"" or lkl=""jhg 5? """,,"{""lv"":""lkl=\""jhg 4?\"" or lkl=\""jhg 5? \""""}"
+823.6,823.6,823.X,823.X,TRUE,0,891.93f,Primär- und Sekundärliteratur zu einzelnen Autoren,,,,,,,,,,,,,JHE 6**,,,,,,,,,,,,,,"lkl=""jhe 6?""",,"{""lv"":""lkl=\""jhe 6?\""""}"
+83*,83X,8XX,8XX,TRUE,3,894.54*,Ostseefinnische Literaturen,,,,,,,,,,JLM 4** OR JLM 5** OR JLS 4** AND JLN 4** OR JLS 5** AND JLN 5**,,,,,,,,,,,,,,"lkl=""jlm 4?"" or lkl=""jlm 5?"" or lkl=""jls 4?"" and lkl=""jln 4?"" or lkl=""jls 5?"" and lkl=""jln 5?""",,,,,"{""fi"":""lkl=\""jlm 4?\"" or lkl=\""jlm 5?\"" or lkl=\""jls 4?\"" and lkl=\""jln 4?\"" or lkl=\""jls 5?\"" and lkl=\""jln 5?\""""}"
+830,830,83X,83X,TRUE,0,894.54A,"Allgemeines, Literaturgeschichte",,,,,,,,,,JLM 500 OR JLM 580 OR JLS 500 AND JLN 500 OR JLS 580 AND JLN 580,,,,,,,,,,,,,,"lkl=""jlm 500"" or lkl=""jlm 580"" or lkl=""jls 500"" and lkl=""jln 500"" or lkl=""jls 580"" and lkl=""jln 580""",,,,,"{""fi"":""lkl=\""jlm 500\"" or lkl=\""jlm 580\"" or lkl=\""jls 500\"" and lkl=\""jln 500\"" or lkl=\""jls 580\"" and lkl=\""jln 580\""""}"
+831.*,831.X,83X,83X,TRUE,6,894.541*,Finnische Literatur,,,,,,,,,,JLN 4** OR JLN 5** OR JLN 6**,,,,,,,,,,,,,,"lkl=""jln 4?"" or lkl=""jln 5?"" or lkl=""jln 6?""",,,,,"{""fi"":""lkl=\""jln 4?\"" or lkl=\""jln 5?\"" or lkl=\""jln 6?\""""}"
+831.1,831.1,831.X,831.X,TRUE,0,894.541a,Allgemeines,,,,,,,,,,JLN 5**,,,,,,,,,,,,,,"lkl=""jln 5?""",,,,,"{""fi"":""lkl=\""jln 5?\""""}"
+831.2,831.2,831.X,831.X,TRUE,0,894.541b,Literaturtheorie,,,,,,,,,,JLN 510 OR JLN 512,,,,,,,,,,,,,,"lkl=""jln 510"" or lkl=""jln 512""",,,,,"{""fi"":""lkl=\""jln 510\"" or lkl=\""jln 512\""""}"
+831.3,831.3,831.X,831.X,TRUE,0,894.541c,Literaturgeschichte,,,,,,,,,,JLN 580,,,,,,,,,,,,,,"lkl=""jln 580""",,,,,"{""fi"":""lkl=\""jln 580\""""}"
+831.4,831.4,831.X,831.X,TRUE,0,894.541d,Volksdichtung,,,,,,,,,,JLN 438 OR JLN 446 OR JLN 538 OR JLN 546,,,,,,,,,,,,,,"lkl=""jln 438"" or lkl=""jln 446"" or lkl=""jln 538"" or lkl=""jln 546""",,,,,"{""fi"":""lkl=\""jln 438\"" or lkl=\""jln 446\"" or lkl=\""jln 538\"" or lkl=\""jln 546\""""}"
+831.5,831.5,831.X,831.X,TRUE,0,894.541e,Textsammlungen,,,,,,,,,,JLN 4** OR JLN 5** ,,,,,,,,,,,,,,"lkl=""jln 4?"" or lkl=""jln 5? """,,,,,"{""fi"":""lkl=\""jln 4?\"" or lkl=\""jln 5? \""""}"
+831.6*,831.6X,831.X,831.X,TRUE,2,894.541f,Primär- und Sekundärliteratur zu einzelnen Autoren,,,,,,,,,,JLN 6**,,,,,,,,,,,,,,"lkl=""jln 6?""",,,,,"{""fi"":""lkl=\""jln 6?\""""}"
+831.61,831.61,831.6X,831.6X,TRUE,0,894.541f,Primärliteratur von einzelnen Autoren,,,,,,,,,,JLN 610 OR JLN 620 OR JLN 630 ,,,,,,,,,,,,,,"lkl=""jln 610"" or lkl=""jln 620"" or lkl=""jln 630 """,,,,,"{""fi"":""lkl=\""jln 610\"" or lkl=\""jln 620\"" or lkl=\""jln 630 \""""}"
+831.62,831.62,831.6X,831.6X,TRUE,0,894.541g,Sekundärliteratur zu einzelnen Autoren,,,,,,,,,,JLN 640 OR JLN 650 OR JLN 660 OR JLN 662 OR JLN 664 OR JLN 666 OR JLN 668 ,,,,,,,,,,,,,,"lkl=""jln 640"" or lkl=""jln 650"" or lkl=""jln 660"" or lkl=""jln 662"" or lkl=""jln 664"" or lkl=""jln 666"" or lkl=""jln 668 """,,,,,"{""fi"":""lkl=\""jln 640\"" or lkl=\""jln 650\"" or lkl=\""jln 660\"" or lkl=\""jln 662\"" or lkl=\""jln 664\"" or lkl=\""jln 666\"" or lkl=\""jln 668 \""""}"
+832.*,832.X,83X,83X,TRUE,6,894.545*,Estnische Literatur,,,,,,,,,,,,JLS 4** OR JLS 5** OR JLS 6**,,,,,,,,,,,,,,"lkl=""jls 4?"" or lkl=""jls 5?"" or lkl=""jls 6?""",,,"{""ee"":""lkl=\""jls 4?\"" or lkl=\""jls 5?\"" or lkl=\""jls 6?\""""}"
+832.1,832.1,832.X,832.X,TRUE,0,894.545a,Allgemeines,,,,,,,,,,,,JLS 5** ,,,,,,,,,,,,,,"lkl=""jls 5? """,,,"{""ee"":""lkl=\""jls 5? \""""}"
+832.2,832.2,832.X,832.X,TRUE,0,894.545b,Literaturtheorie,,,,,,,,,,,,JLS 510 OR JLS 512,,,,,,,,,,,,,,"lkl=""jls 510"" or lkl=""jls 512""",,,"{""ee"":""lkl=\""jls 510\"" or lkl=\""jls 512\""""}"
+832.3,832.3,832.X,832.X,TRUE,0,894.545c,Literaturgeschichte,,,,,,,,,,,,JLS 580,,,,,,,,,,,,,,"lkl=""jls 580""",,,"{""ee"":""lkl=\""jls 580\""""}"
+832.4,832.4,832.X,832.X,TRUE,0,894.545d,Volksdichtung,,,,,,,,,,,,JLS 446 OR JLS 438 OR JLS 546 OR JLS 538,,,,,,,,,,,,,,"lkl=""jls 446"" or lkl=""jls 438"" or lkl=""jls 546"" or lkl=""jls 538""",,,"{""ee"":""lkl=\""jls 446\"" or lkl=\""jls 438\"" or lkl=\""jls 546\"" or lkl=\""jls 538\""""}"
+832.5,832.5,832.X,832.X,TRUE,0,894.545e,Textsammlungen,,,,,,,,,,,,JLS 4**,,,,,,,,,,,,,,"lkl=""jls 4?""",,,"{""ee"":""lkl=\""jls 4?\""""}"
+832.6,832.6,832.X,832.X,TRUE,0,894.545f,Primär- und Sekundärliteratur zu einzelnen Autoren,,,,,,,,,,,,JLS 6** ,,,,,,,,,,,,,,"lkl=""jls 6? """,,,"{""ee"":""lkl=\""jls 6? \""""}"
+84*,84X,8XX,8XX,TRUE,0,894.55,Samische Literatur,,,,,,,,,,JLL 4** OR JLL 5** OR JLL 6**,,,,,,,,,,,,,,"lkl=""jll 4?"" or lkl=""jll 5?"" or lkl=""jll 6?""",,,,,"{""fi"":""lkl=\""jll 4?\"" or lkl=\""jll 5?\"" or lkl=\""jll 6?\""""}"
+85*,85X,8XX,8XX,TRUE,0,897.12,Grönländische Literatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+9**,9XX,vifanord-ROOT,vifanord-ROOT,TRUE,4,9**,Geschichte und Geografie,,,,,,,,,,PNN* OR PNO* OR PNP* OR PNQ* OR PNR* OR QGC 5**,,,,,,,,,,,,,,"lkl=""pnn?"" or lkl=""pno?"" or lkl=""pnp?"" or lkl=""pnq?"" or lkl=""pnr?"" or lkl=""qgc 5?""",,,,,"{""fi"":""lkl=\""pnn?\"" or lkl=\""pno?\"" or lkl=\""pnp?\"" or lkl=\""pnq?\"" or lkl=\""pnr?\"" or lkl=\""qgc 5?\""""}"
+91*,91X,9XX,9XX,TRUE,6,91*,"Geografie, Reisen",,,,,,,,,,QGC 5** OR QHG 230,,,,,,,,,,,,,,"lkl=""qgc 5?"" or lkl=""qhg 230""",,,,,"{""fi"":""lkl=\""qgc 5?\"" or lkl=\""qhg 230\""""}"
+910,910,91X,91X,TRUE,0,910,Allgemeines,,,QGC 0** OR QGC 100,,QGC 2**,QGC 6**,,QGC 4**,QGC 3**,QGC 5** OR QHG 230,,,,,,,"lkl=""qgc 0?"" or lkl=""qgc 100""",,"lkl=""qgc 2?""","lkl=""qgc 6?""",,"lkl=""qgc 4?""","lkl=""qgc 3?""","lkl=""qgc 5?"" or lkl=""qhg 230""",,,,,"{""nord"":""lkl=\""qgc 0?\"" or lkl=\""qgc 100\"""",""dk"":""lkl=\""qgc 2?\"""",""ic"":""lkl=\""qgc 6?\"""",""se"":""lkl=\""qgc 4?\"""",""no"":""lkl=\""qgc 3?\"""",""fi"":""lkl=\""qgc 5?\"" or lkl=\""qhg 230\""""}"
+911.*,911.X,91X,91X,TRUE,5,911,Historische Geografie,,,,,,,,,,QEK 000,,,,,,,,,,,,,,"lkl=""qek 000""",,,,,"{""fi"":""lkl=\""qek 000\""""}"
+911.1,911.1,911.X,911.X,TRUE,0,911 AND t0900,Zeitlich übergreifend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+911.2,911.2,911.X,911.X,TRUE,0,911 AND t0902,Mittelalter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+911.3,911.3,911.X,911.X,TRUE,0,911 AND t0903,Frühe Neuzeit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+911.4,911.4,911.X,911.X,TRUE,0,911 AND t09034,19. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+911.5,911.5,911.X,911.X,TRUE,0,911 AND t0904,20. Jahrhundert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+912,912,91X,91X,TRUE,0,912,"Atlanten, Karten, Pläne",,,,,,,,,,URC 5** OR URG 51* OR UQQ 720 ,,,,,,,,,,,,,,"lkl=""urc 5?"" or lkl=""urg 51?"" or lkl=""uqq 720 """,,,,,"{""fi"":""lkl=\""urc 5?\"" or lkl=\""urg 51?\"" or lkl=\""uqq 720 \""""}"
+914.*,914.X,91X,91X,TRUE,1,914a,Physische Geographie,,,,,,,,,,QD 000,,,,,,,,,,,,,,"lkl=""qd 000""",,,,,"{""fi"":""lkl=\""qd 000\""""}"
+914.1*,914.1X,914.X,914.X,TRUE,3,551.46,Meereskunde,,UKC 1** OR UKC 2**,,,,,,,,,,,,,,"lkl=""ukc 1?"" or lkl=""ukc 2?""",,,,,,,,,,,,,"{""all"":""lkl=\""ukc 1?\"" or lkl=\""ukc 2?\""""}"
+914.11,914.11,914.1X,914.1X,TRUE,0,551.46132,Nordpolarmeer und europäisches Nordmeer,,QGZ 710 OR QGZ 720,,,,,,,,,,,,,,"lkl=""qgz 710"" or lkl=""qgz 720""",,,,,,,,,,,,,"{""all"":""lkl=\""qgz 710\"" or lkl=\""qgz 720\""""}"
+914.12,914.12,914.1X,914.1X,TRUE,0,551.461334,Ostsee ,,QGZ 740,,,,,,,,,,,,,,"lkl=""qgz 740""",,,,,,,,,,,,,"{""all"":""lkl=\""qgz 740\""""}"
+914.13,914.13,914.1X,914.1X,TRUE,0,551.461336,Nordsee,,QGZ 730,,,,,,,,,,,,,,"lkl=""qgz 730""",,,,,,,,,,,,,"{""all"":""lkl=\""qgz 730\""""}"
+915.*,915.X,91X,91X,TRUE,6,914b,Anthropogeographie,,,,,,,,,,QE 000,,,,,,,,,,,,,,"lkl=""qe 000""",,,,,"{""fi"":""lkl=\""qe 000\""""}"
+915.1,915.1,915.X,915.X,TRUE,0,914ba,Sozialgeographie,,,,,,,,,,QEA*,,,,,,,,,,,,,,"lkl=""qea?""",,,,,"{""fi"":""lkl=\""qea?\""""}"
+915.2,915.2,915.X,915.X,TRUE,0,914bb,Bevölkerungsgeographie,,,,,,,,,,QEG*,,,,,,,,,,,,,,"lkl=""qeg?""",,,,,"{""fi"":""lkl=\""qeg?\""""}"
+915.3,915.3,915.X,915.X,TRUE,0,914bc,Siedlungsgeographie,,,,,,,,,,QEN 000,,,,,,,,,,,,,,"lkl=""qen 000""",,,,,"{""fi"":""lkl=\""qen 000\""""}"
+915.4,915.4,915.X,915.X,TRUE,0,914bd,Wirtschaftsgeographie,,,,,,,,,,QER 000,,,,,,,,,,,,,,"lkl=""qer 000""",,,,,"{""fi"":""lkl=\""qer 000\""""}"
+915.5,915.5,915.X,915.X,TRUE,0,914be,"Verkehrsgeographie, Tourismus",,,,,,,,,,QER 800,,,,,,,,,,,,,,"lkl=""qer 800""",,,,,"{""fi"":""lkl=\""qer 800\""""}"
+915.6,915.6,915.X,915.X,TRUE,0,914bf,Politische Geographie (Geopolitik),,,,,,,,,,QEI 000,,,,,,,,,,,,,,"lkl=""qei 000""",,,,,"{""fi"":""lkl=\""qei 000\""""}"
+916.*,916.X,91X,91X,TRUE,2,914c,Angewandte Geographie,,,,,,,,,,QF 000,,,,,,,,,,,,,,"lkl=""qf 000""",,,,,"{""fi"":""lkl=\""qf 000\""""}"
+916.1,916.1,916.X,916.X,TRUE,0,333.7,"Umweltforschung, Umweltschutz, Landschaftspflege",,,,,,,,,,QFC 400 OR QFC 480,,,,,,,,,,,,,,"lkl=""qfc 400"" or lkl=""qfc 480""",,,,,"{""fi"":""lkl=\""qfc 400\"" or lkl=\""qfc 480\""""}"
+916.2,916.2,916.X,916.X,TRUE,0,71*,"Raumordnung, Raumplanung",,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+92*,92X,9XX,9XX,TRUE,0,92*,Biographische Nachschlagewerke,,,,,,,,,,PNN 800 OR PNO 800 OR PNP 800 OR PNQ 800 OR PNR 800,,,,,,,,,,,,,,"lkl=""pnn 800"" or lkl=""pno 800"" or lkl=""pnp 800"" or lkl=""pnq 800"" or lkl=""pnr 800""",,,,,"{""fi"":""lkl=\""pnn 800\"" or lkl=\""pno 800\"" or lkl=\""pnp 800\"" or lkl=\""pnq 800\"" or lkl=\""pnr 800\""""}"
+93*,93X,9XX,9XX,TRUE,2,93*,"Archäologie, Ur- und Frühgeschichte ",,,,,,,,,,OKC 1** OR PEF 000 OR PEF 200 OR PEF 400 OR PEF 600,,,,,,,,,,,,,,"lkl=""okc 1?"" or lkl=""pef 000"" or lkl=""pef 200"" or lkl=""pef 400"" or lkl=""pef 600""",,,,,"{""fi"":""lkl=\""okc 1?\"" or lkl=\""pef 000\"" or lkl=\""pef 200\"" or lkl=\""pef 400\"" or lkl=\""pef 600\""""}"
+930,930,93X,93X,TRUE,0,930,Archäologie - Theorie und Methoden,,,,,,,,,,O 2**,,,,,,,,,,,,,,"lkl=""o 2?""",,,,,"{""fi"":""lkl=\""o 2?\""""}"
+936,936,93X,93X,TRUE,0,936,Ur- und Frühgeschichte - Darstellungen,,,,,,,,,,PEF 090 OR PEF 290 OR PEF 490 OR PEF 690,,,,,,,,,,,,,,"lkl=""pef 090"" or lkl=""pef 290"" or lkl=""pef 490"" or lkl=""pef 690""",,,,,"{""fi"":""lkl=\""pef 090\"" or lkl=\""pef 290\"" or lkl=\""pef 490\"" or lkl=\""pef 690\""""}"
+94*,94X,9XX,9XX,TRUE,21,94*,Geschichte,,,,,,,,,,PNN OR PNO OR PNP OR PNQ OR PNR,,,,,,,,,,,,,,"lkl=""pnn"" or lkl=""pno"" or lkl=""pnp"" or lkl=""pnq"" or lkl=""pnr""",,,,,"{""fi"":""lkl=\""pnn\"" or lkl=\""pno\"" or lkl=\""pnp\"" or lkl=\""pnq\"" or lkl=\""pnr\""""}"
+940,940,94X,94X,TRUE,0,907,"Ausbildung, Forschung, Geschichtswissenschaft ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+941.*,941.X,94X,94X,TRUE,4,929,Historische Hilfswissenschaften,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+941.1,941.1,941.X,941.X,TRUE,0,020a,Archivwesen,,,,,,,,,,PDB 270,,,,,,,,,,,,,,"lkl=""pdb 270""",,,,,"{""fi"":""lkl=\""pdb 270\""""}"
+941.2,941.2,941.X,941.X,TRUE,0,929.A,Genealogie ,929.2 OR 929.3 OR 929.7,,,,,,,,,PDI 607 OR PDI 217,,,,,,,,,,,,,,"lkl=""pdi 607"" or lkl=""pdi 217""",,,,,"{""fi"":""lkl=\""pdi 607\"" or lkl=\""pdi 217\""""}"
+941.3,941.3,941.X,941.X,TRUE,0,929.B,"Wappenkunde, Siegel, Orden, Fahnen",929.6 OR 929.8 OR 929.9,,,,,,,,,PDL 307,,,,,,,,,,,,,,"lkl=""pdl 307""",,,,,"{""fi"":""lkl=\""pdl 307\""""}"
+941.4,941.4,941.X,941.X,TRUE,0,737,Numismatik,,,,,,,,,,PDN 507,,,,,,,,,,,,,,"lkl=""pdn 507""",,,,,"{""fi"":""lkl=\""pdn 507\""""}"
+942.*,942.X,94X,94X,TRUE,7,94*a,Quellen,"948 - Skandinavien, 947.9 Baltikum anstatt * als einzelne DDCs in Liste aufnehmen",,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+942.1,942.1,942.X,942.X,TRUE,0,94*a AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 100 OR PNN 150,,,,,,,,,,,,,,"lkl=""pnn 100"" or lkl=""pnn 150""",,,,,"{""fi"":""lkl=\""pnn 100\"" or lkl=\""pnn 150\""""}"
+942.2,942.2,942.X,942.X,TRUE,0,94*a AND t0902,Mittelalter,,,,,,,,,,PNO 100 OR PNO 150,,,,,,,,,,,,,,"lkl=""pno 100"" or lkl=""pno 150""",,,,,"{""fi"":""lkl=\""pno 100\"" or lkl=\""pno 150\""""}"
+942.3,942.3,942.X,942.X,TRUE,0,94*a AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 100 OR PNP 150,,,,,,,,,,,,,,"lkl=""pnp 100"" or lkl=""pnp 150""",,,,,"{""fi"":""lkl=\""pnp 100\"" or lkl=\""pnp 150\""""}"
+942.4,942.4,942.X,942.X,TRUE,0,94*a AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 100 OR PNQ 150,,,,,,,,,,,,,,"lkl=""pnq 100"" or lkl=""pnq 150""",,,,,"{""fi"":""lkl=\""pnq 100\"" or lkl=\""pnq 150\""""}"
+942.5,942.5,942.X,942.X,TRUE,0,94*a AND (t09040 OR t09041 OR t09042 OR t09043) ,20. Jahrhundert - 1. Hälfte,,,,,,,,,,PNR 100 OR PNR 150,,,,,,,,,,,,,,"lkl=""pnr 100"" or lkl=""pnr 150""",,,,,"{""fi"":""lkl=\""pnr 100\"" or lkl=\""pnr 150\""""}"
+942.6,942.6,942.X,942.X,TRUE,0,94*a AND t09044,Zweiter Weltkrieg,,,,,,,,,,PNR 100 OR PNR 150,,,,,,,,,,,,,,"lkl=""pnr 100"" or lkl=""pnr 150""",,,,,"{""fi"":""lkl=\""pnr 100\"" or lkl=\""pnr 150\""""}"
+942.7,942.7,942.X,942.X,TRUE,0,94*a AND (t0905 OR t09045 OR t09046 OR t09047 OR t09048 OR t09049) ,Seit 1945,,,,,,,,,,PNN 100 OR PNN 150,,,,,,,,,,,,,,"lkl=""pnn 100"" or lkl=""pnn 150""",,,,,"{""fi"":""lkl=\""pnn 100\"" or lkl=\""pnn 150\""""}"
+943.*,943.X,94X,94X,TRUE,7,94*b,Darstellungen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+943.1,943.1,943.X,943.X,TRUE,0,94*b AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 200,,,,,,,,,,,,,,"lkl=""pnn 200""",,,,,"{""fi"":""lkl=\""pnn 200\""""}"
+943.2,943.2,943.X,943.X,TRUE,0,94*b AND t0902,Mittelalter,,,,,,,,,,PNO 200,,,,,,,,,,,,,,"lkl=""pno 200""",,,,,"{""fi"":""lkl=\""pno 200\""""}"
+943.3,943.3,943.X,943.X,TRUE,0,94*b AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 200,,,,,,,,,,,,,,"lkl=""pnp 200""",,,,,"{""fi"":""lkl=\""pnp 200\""""}"
+943.4,943.4,943.X,943.X,TRUE,0,94*b AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 200,,,,,,,,,,,,,,"lkl=""pnq 200""",,,,,"{""fi"":""lkl=\""pnq 200\""""}"
+943.5,943.5,943.X,943.X,TRUE,0,94*a AND (t09040 OR t09041 OR t09042 OR t09043) ,20. Jahrhundert - 1. Hälfte,,,,,,,,,,PNR 200,,,,,,,,,,,,,,"lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnr 200\""""}"
+943.6,943.6,943.X,943.X,TRUE,0,94*a AND t09044,Zweiter Weltkrieg,,,,,,,,,,PNR 200,,,,,,,,,,,,,,"lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnr 200\""""}"
+943.7,943.7,943.X,943.X,TRUE,0,94*a AND (t0905 OR t09045 OR t09046 OR t09047 OR t09048 OR t09049) ,Seit 1945,,,,,,,,,,PNR 200,,,,,,,,,,,,,,"lkl=""pnr 200""",,,,,"{""fi"":""lkl=\""pnr 200\""""}"
+944.*,944.X,94X,94X,TRUE,6,94*c,Persönlichkeiten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+944.1,944.1,944.X,944.X,TRUE,0,94*c AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 800,,,,,,,,,,,,,,"lkl=""pnn 800""",,,,,"{""fi"":""lkl=\""pnn 800\""""}"
+944.2,944.2,944.X,944.X,TRUE,0,94*c AND t0902,Mittelalter,,,,,,,,,,PNO 800,,,,,,,,,,,,,,"lkl=""pno 800""",,,,,"{""fi"":""lkl=\""pno 800\""""}"
+944.3,944.3,944.X,944.X,TRUE,0,94*c AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 800,,,,,,,,,,,,,,"lkl=""pnp 800""",,,,,"{""fi"":""lkl=\""pnp 800\""""}"
+944.4,944.4,944.X,944.X,TRUE,0,94*c AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 800,,,,,,,,,,,,,,"lkl=""pnq 800""",,,,,"{""fi"":""lkl=\""pnq 800\""""}"
+944.5,944.5,944.X,944.X,TRUE,0,94*c AND (t09040 OR t09041 OR t09042 OR t09043) ,20. Jahrhundert - 1. Hälfte,,,,,,,,,,PNR 800,,,,,,,,,,,,,,"lkl=""pnr 800""",,,,,"{""fi"":""lkl=\""pnr 800\""""}"
+944.6,944.6,944.X,944.X,TRUE,0,94*c AND (t0905 OR t09045 OR t09046 OR t09047 OR t09048 OR t09049) ,Seit 1945,,,,,,,,,,PNR 800,,,,,,,,,,,,,,"lkl=""pnr 800""",,,,,"{""fi"":""lkl=\""pnr 800\""""}"
+945.*,945.X,94X,94X,TRUE,5,94*d,Kulturgeschichte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+945.1,945.1,945.X,945.X,TRUE,0,94*d AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 500,,,,,,,,,,,,,,"lkl=""pnn 500""",,,,,"{""fi"":""lkl=\""pnn 500\""""}"
+945.2,945.2,945.X,945.X,TRUE,0,94*d AND t0902,Mittelalter,,,,,,,,,,PNO 500,,,,,,,,,,,,,,"lkl=""pno 500""",,,,,"{""fi"":""lkl=\""pno 500\""""}"
+945.3,945.3,945.X,945.X,TRUE,0,94*d AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 500,,,,,,,,,,,,,,"lkl=""pnp 500""",,,,,"{""fi"":""lkl=\""pnp 500\""""}"
+945.4,945.4,945.X,945.X,TRUE,0,94*d AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 500,,,,,,,,,,,,,,"lkl=""pnq 500""",,,,,"{""fi"":""lkl=\""pnq 500\""""}"
+945.5,945.5,945.X,945.X,TRUE,0,94*d AND t0904,20. Jahrhundert,,,,,,,,,,PNR 500,,,,,,,,,,,,,,"lkl=""pnr 500""",,,,,"{""fi"":""lkl=\""pnr 500\""""}"
+946.*,946.X,94X,94X,TRUE,5,94*e,Regionalgeschichte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+946.1,946.1,946.X,946.X,TRUE,0,94*e AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 600,,,,,,,,,,,,,,"lkl=""pnn 600""",,,,,"{""fi"":""lkl=\""pnn 600\""""}"
+946.2,946.2,946.X,946.X,TRUE,0,94*e AND t0902,Mittelalter,,,,,,,,,,PNO 600,,,,,,,,,,,,,,"lkl=""pno 600""",,,,,"{""fi"":""lkl=\""pno 600\""""}"
+946.3,946.3,946.X,946.X,TRUE,0,94*e AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 600,,,,,,,,,,,,,,"lkl=""pnp 600""",,,,,"{""fi"":""lkl=\""pnp 600\""""}"
+946.4,946.4,946.X,946.X,TRUE,0,94*e AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 600,,,,,,,,,,,,,,"lkl=""pnq 600""",,,,,"{""fi"":""lkl=\""pnq 600\""""}"
+946.5,946.5,946.X,946.X,TRUE,0,94*e AND t0904,20. Jahrhundert,,,,,,,,,,PNR 600,,,,,,,,,,,,,,"lkl=""pnr 600""",,,,,"{""fi"":""lkl=\""pnr 600\""""}"
+947.*,947.X,94X,94X,TRUE,5,94*f,Stadt- und Ortsgeschichte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+947.1,947.1,947.X,947.X,TRUE,0,94*f AND t0900,Zeitlich übergreifend,,,,,,,,,,PNN 700,,,,,,,,,,,,,,"lkl=""pnn 700""",,,,,"{""fi"":""lkl=\""pnn 700\""""}"
+947.2,947.2,947.X,947.X,TRUE,0,94*f AND t0902,Mittelalter,,,,,,,,,,PNO 700,,,,,,,,,,,,,,"lkl=""pno 700""",,,,,"{""fi"":""lkl=\""pno 700\""""}"
+947.3,947.3,947.X,947.X,TRUE,0,94*f AND t0903,Frühe Neuzeit,,,,,,,,,,PNP 700,,,,,,,,,,,,,,"lkl=""pnp 700""",,,,,"{""fi"":""lkl=\""pnp 700\""""}"
+947.4,947.4,947.X,947.X,TRUE,0,94*f AND t09034,19. Jahrhundert,,,,,,,,,,PNQ 700,,,,,,,,,,,,,,"lkl=""pnq 700""",,,,,"{""fi"":""lkl=\""pnq 700\""""}"
+947.5,947.5,947.X,947.X,TRUE,0,94*f AND t0904,20. Jahrhundert,,,,,,,,,,PNR 700,,,,,,,,,,,,,,"lkl=""pnr 700""",,,,,"{""fi"":""lkl=\""pnr 700\""""}"
+948.*,948.X,94X,94X,TRUE,5,274,Geschichte des Christentums in Europa,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+948.1,948.1,948.X,948.X,TRUE,0,274 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+948.2,948.2,948.X,948.X,TRUE,0,274 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+948.3,948.3,948.X,948.X,TRUE,0,274 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+948.4,948.4,948.X,948.X,TRUE,0,274 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+948.5,948.5,948.X,948.X,TRUE,0,274 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+949.*,949.X,94X,94X,TRUE,2,306.09,Sozialgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+949.01,949.01,94X,94X,TRUE,0,306.09 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,PNN 300,,,,,,,,,,,,,,"lkl=""pnn 300""",,,,,"{""fi"":""lkl=\""pnn 300\""""}"
+949.02,949.02,94X,94X,TRUE,0,306.09 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,PNO 300,,,,,,,,,,,,,,"lkl=""pno 300""",,,,,"{""fi"":""lkl=\""pno 300\""""}"
+949.03,949.03,94X,94X,TRUE,0,306.09 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,PNP 300,,,,,,,,,,,,,,"lkl=""pnp 300""",,,,,"{""fi"":""lkl=\""pnp 300\""""}"
+949.04,949.04,94X,94X,TRUE,0,306.09 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,PNQ 300,,,,,,,,,,,,,,"lkl=""pnq 300""",,,,,"{""fi"":""lkl=\""pnq 300\""""}"
+949.05,949.05,94X,94X,TRUE,0,306.09 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,PNR 300,,,,,,,,,,,,,,"lkl=""pnr 300""",,,,,"{""fi"":""lkl=\""pnr 300\""""}"
+949.1,949.1,949.X,949.X,TRUE,0,305.409,Geschichte der Frau,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+949.2,949.2,949.X,949.X,TRUE,0,305.56209,Geschichte der Arbeiterbewegung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.*,94A.X,94X,94X,TRUE,8,330.90,Wirtschaftsgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.4,94A.4,94A.X,94A.X,TRUE,0,330.90 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,PNN 400,,,,,,,,,,,,,,"lkl=""pnn 400""",,,,,"{""fi"":""lkl=\""pnn 400\""""}"
+94A.5,94A.5,94A.X,94A.X,TRUE,0,330.90 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,PNO 400,,,,,,,,,,,,,,"lkl=""pno 400""",,,,,"{""fi"":""lkl=\""pno 400\""""}"
+94A.6,94A.6,94A.X,94A.X,TRUE,0,330.90 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,PNP 400,,,,,,,,,,,,,,"lkl=""pnp 400""",,,,,"{""fi"":""lkl=\""pnp 400\""""}"
+94A.7,94A.7,94A.X,94A.X,TRUE,0,330.90 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,PNQ 400,,,,,,,,,,,,,,"lkl=""pnq 400""",,,,,"{""fi"":""lkl=\""pnq 400\""""}"
+94A.8,94A.8,94A.X,94A.X,TRUE,0,330.90 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,PNR 400,,,,,,,,,,,,,,"lkl=""pnr 400""",,,,,"{""fi"":""lkl=\""pnr 400\""""}"
+94A.1,94A.1,94A.X,94A.X,TRUE,0,338.109,Agrargeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.2*,94A.2X,94A.X,94A.X,TRUE,5,382.09,Handelsgeschichte (hier auch Ostseehandel),doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.21,94A.21,94A.2X,94A.2X,TRUE,0,382.09 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.22,94A.22,94A.2X,94A.2X,TRUE,0,382.09 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.23,94A.23,94A.2X,94A.2X,TRUE,0,382.09 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.24,94A.24,94A.2X,94A.2X,TRUE,0,382.09 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.25,94A.25,94A.2X,94A.2X,TRUE,0,382.09 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94A.3,94A.3,94A.X,94A.X,TRUE,0,382.094,Geschichte der Hanse,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94B,94B,94X,94X,TRUE,0,340.5,Rechtsgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.*,94C.X,94X,94X,TRUE,5,355.009,Militärgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.1,94C.1,94C.X,94C.X,TRUE,0,355.009 AND t0900,Zeitlich übergreifend,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.2,94C.2,94C.X,94C.X,TRUE,0,355.009 AND t0902,Mittelalter,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.3,94C.3,94C.X,94C.X,TRUE,0,355.009 AND t0903,Frühe Neuzeit,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.4,94C.4,94C.X,94C.X,TRUE,0,355.009 AND t09034,19. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94C.5,94C.5,94C.X,94C.X,TRUE,0,355.009 AND t0904,20. Jahrhundert,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94D,94D,94X,94X,TRUE,0,370.9,Bildungsgeschichte,doppelt aufgeführt,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94E,94E,94X,94X,TRUE,0,609,"Technikgeschichte (Erfindungen, Schiffbau etc.)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+94F,94F,94X,94X,TRUE,0,908.04924,Jüdische Geschichte,,,,PYC 260 OR PYD 260 OR PYE 260 OR PYF 260 OR PYG 260,,,,,,,PYC 550,,,,,,,"lkl=""pyc 260"" or lkl=""pyd 260"" or lkl=""pye 260"" or lkl=""pyf 260"" or lkl=""pyg 260""",,,,,,,"lkl=""pyc 550""",,,,"{""sca"":""lkl=\""pyc 260\"" or lkl=\""pyd 260\"" or lkl=\""pye 260\"" or lkl=\""pyf 260\"" or lkl=\""pyg 260\"""",""bal"":""lkl=\""pyc 550\""""}"
+A*,AX,vifanord-ROOT,vifanord-ROOT,TRUE,4,1** OR 5** OR 6**,Andere Fachgebiete,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{}
+A1,A1,AX,AX,TRUE,0,10*,Philosophie,"hier auch DDC 11*, 12*, 14*, 16*, 17*, 18*, 19*",,,,,,,,,D**,,,,,,,,,,,,,,"lkl=""d?""",,,,,"{""fi"":""lkl=\""d?\""""}"
+A2,A2,AX,AX,TRUE,0,15*,Psychologie,hier auch DDC 13*,,,,,,,,,FA* OR FB* OR FC* OR FD* OR FE* OR FF* OR FG* OR FH* OR FI 000,,,,,,,,,,,,,,"lkl=""fa?"" or lkl=""fb?"" or lkl=""fc?"" or lkl=""fd?"" or lkl=""fe?"" or lkl=""ff?"" or lkl=""fg?"" or lkl=""fh?"" or lkl=""fi 000""",,,,,"{""fi"":""lkl=\""fa?\"" or lkl=\""fb?\"" or lkl=\""fc?\"" or lkl=\""fd?\"" or lkl=\""fe?\"" or lkl=\""ff?\"" or lkl=\""fg?\"" or lkl=\""fh?\"" or lkl=\""fi 000\""""}"
+A5,A5,AX,AX,TRUE,0,5**,Naturwissenschaften und Mathematik,,,,,,,,,,R** OR E*** NOT reg * NOT rel *,,,,,,,,,,,,,,"lkl=""r?"" or lkl=""e?"" not lkl=""reg ?"" not lkl=""rel ?""",,,,,"{""fi"":""lkl=\""r?\"" or lkl=\""e?\"" not lkl=\""reg ?\"" not lkl=\""rel ?\""""}"
+A6,A6,AX,AX,TRUE,0,6**,"Technik, Technologie, Medizin",,,,,,,,,,Z** OR M**,,,,,,,,,,,,,,"lkl=""z?"" or lkl=""m?""",,,,,"{""fi"":""lkl=\""z?\"" or lkl=\""m?\""""}"
