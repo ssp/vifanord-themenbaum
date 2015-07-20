@@ -1,0 +1,14 @@
+{
+  "name": "vifanord-themenbaum",
+  "version": "1.0.0",
+  "description": "Bearbeitung der Daten für den vifanord Themenbaum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "csv-parse": "latest"
+  },
+  "author": "Sven-S. Porst <ssp-web@earthlingsoft.net>",
+  "license": "MIT"
+}
