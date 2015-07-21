@@ -1,0 +1,562 @@
+id;parent;name_DE;query;name_EN
+001;00X;Wissen und Wissenschaftskunde;"(ddc=""001"")";Knowledge and Knowledge lore
+002;00X;Buchkunde;"(ddc=""002"")";Bibliology
+004;00X;Informatik;"(ddc=""004"")";Computer Science
+00X;0XX;Informatik, Wissen, das Buch;"(ddc=""00?"")";Computer Science, Knowledge, The book
+01X;0XX;Allgemeinbibliografien (nicht themenbezogen);"(ddc=""01?"")";General bibliographies (not theme-orientated)
+020;02X;Allgemeines;"(ddc=""020"")";General works
+021;02X;Beziehungen zwischen Bibliotheken;"(ddc=""021"")";Relationships of libraries
+022;02X;Verwaltung von Bibliotheksgebäuden;"(ddc=""022"")";Administration of physical plant
+023;02X;Personalwesen;"(ddc=""023"")";Personnel management
+025;02X;Bibliothekarische Tätigkeiten;"(ddc=""025"")";Library operations
+026;02X;Spezialbibliotheken;"(ddc=""026"")";Libraries devoted to specific subjects
+027;02X;Allgemeinbibliotheken;"(ddc=""027"")";General libraries
+028;02X;Lesen und Nutzung anderer Informationsmedien;"(ddc=""028"")";Reading and use of other information media
+02X;0XX;Bibliotheks- und Informationswissenschaften;"(ddc=""02?"")";Library and information sciences
+03X;0XX;Enzyklopädien;"(ddc=""03?"")";Encyclopedic works
+05X;0XX;Zeitschriften, allgemeine fortlaufende Sammelwerke;"(ddc=""05?"")";Periodicals, General serial publications
+060;06X;Allgemeine Organisationen;"(ddc=""06a"")";General organizations
+069;06X;Museumswissenschaft;"(ddc=""069"")";Museology
+06X;0XX;Allgemeine Organisationen, Museumswissenschaft;"(ddc=""06?"")";General organizations, Museology
+07X;0XX;Publizistische Medien, Journalismus, Verlagswesen;"(ddc=""07?"")";News media, Journalism, Publishing
+08X;0XX;Allgemeine Sammelwerke, Zitatensammlungen;"(ddc=""08?"")";General collections, Collections of quotations
+0XX;vifanord-ROOT;Allgemeines und Informationswesen;"(ddc=""0?"")";Information, general works
+20X;2XX;Allgemeines;"(ddc=""20?"")";Generalities
+22X;2XX;Die Bibel;"(ddc=""22?"")";The Bible
+251;25X;Zeitlich übergreifend;"(ddc=""262"" and ddc-t=""0900"")";Temporally unspecific
+252;25X;Mittelalter;"(ddc=""262"" and ddc-t=""0902"")";Middle Ages
+253;25X;Frühe Neuzeit;"(ddc=""262"" and ddc-t=""0903"")";Modern history
+254;25X;19. Jahrhundert;"(ddc=""262"" and ddc-t=""09034"")";19th century
+255;25X;20. Jahrhundert;"(ddc=""262"" and ddc-t=""0904"")";20th century
+25X;2XX;Kirchenorganisation;"(ddc=""262"")";Church organization
+26X;2XX;Mission;"(ddc=""266"")";Missions
+271;27X;Zeitlich übergreifend;"(ddc=""274"" and ddc-t=""0900"")";Temporally unspecific
+272;27X;Mittelalter;"(ddc=""274"" and ddc-t=""0902"")";Middle Ages
+273;27X;Frühe Neuzeit;"(ddc=""274"" and ddc-t=""0903"")";Modern history
+274;27X;19. Jahrhundert;"(ddc=""274"" and ddc-t=""09034"")";19th century
+275;27X;20. Jahrhundert;"(ddc=""274"" and ddc-t=""0904"")";20th century
+27X;2XX;Geschichte des Christentums in Europa;"(ddc=""274"")";History of christianity in Europe
+281;28X;Alte Kirche, Ostkirche;"(ddc=""281"")";Early church, Eastern church
+282;28X;Katholische Kirche;"(ddc=""282"")";Roman Catholic Church
+284;28X;Protestantische Konfession;"(ddc=""284"")";Protestant denomination
+289;28X;Andere christliche Konfessionen und Sekten;"(ddc=""289"")";Other christian denominations and sects
+28X;2XX;Christliche Konfessionen;"(ddc=""280"")";Denominations of Christian church
+29X;2XX;Andere Religionen, Mythologie;"(ddc=""29?"")";Other religions, Mythology
+2XX;vifanord-ROOT;Religion, Mythologie;"(ddc=""2?"")";Religion, Mythology
+300;30X;Allgemeines;"(ddc=""300"")";General works
+301;30X;Soziologie, Anthropologie, Länderanalysen;"(ddc=""301"")";Sociology, Anthropology, Analyses of states
+302;30X;Soziale Interaktion;"(ddc=""302"")";Social interaction
+303;30X;Gesellschaftliche Prozesse;"(ddc=""303"")";Social processes
+304;30X;Das Sozialverhalten beeinflussende Faktoren;"(ddc=""304.?"")";Factors effecting social behaviour
+304.1;304;Allgemeines, Umwelt, Soziobiologie;"(ddc=""304.a"")";General works, Environment, Sociobiology
+304.61;304.6X;Zeitlich übergreifend;"(ddc=""304.6"" and ddc-t=""0900"")";Temporally unspecific
+304.62;304.6X;Mittelalter;"(ddc=""304.6"" and ddc-t=""0902"")";Middle Ages
+304.63;304.6X;Frühe Neuzeit;"(ddc=""304.6"" and ddc-t=""0903"")";Modern history
+304.64;304.6X;19. Jahrhundert;"(ddc=""304.6"" and ddc-t=""09034"")";19th century
+304.65;304.6X;20. Jahrhundert;"(ddc=""304.6"" and ddc-t=""0904"")";20th century
+304.6X;304;Bevölkerung, Demographie;"(ddc=""304.6"")";Population, Demography
+304.81;304.8X;Zeitlich übergreifend;"(ddc=""304.8"" and ddc-t=""0900"")";Temporally unspecific
+304.82;304.8X;Mittelalter;"(ddc=""304.8"" and ddc-t=""0902"")";Middle Ages
+304.83;304.8X;Frühe Neuzeit;"(ddc=""304.8"" and ddc-t=""0903"")";Modern History
+304.84;304.8X;19. Jahrhundert;"(ddc=""304.8"" and ddc-t=""09034"")";19th century
+304.85;304.8X;20. Jahrhundert;"(ddc=""304.8"" and ddc-t=""0904"")";20th century
+304.8X;304;Migration;"(ddc=""304.8"")";Migration
+304.X;30X;;"(ddc=""304.?"")";
+305.1;305.X;Allgemeines;"(ddc=""305.a"")";General works
+305.21;305.2X;Zeitlich übergreifend;"(ddc=""305.5"" and ddc-t=""0900"")";Temporally unspecific
+305.22;305.2X;Mittelalter;"(ddc=""305.5"" and ddc-t=""0902"")";Middle Ages
+305.23;305.2X;Frühe Neuzeit;"(ddc=""305.5"" and ddc-t=""0903"")";Modern history
+305.24;305.2X;19. Jahrhundert;"(ddc=""305.5"" and ddc-t=""09034"")";19th century
+305.25;305.2X;20. Jahrhundert;"(ddc=""305.5"" and ddc-t=""0904"")";20th century
+305.2X;305.X;Schichten, Klassen, Milieu;"(ddc=""305.5"")";Social classes, Milieu
+305.3;305.X;Altersgruppen;"(ddc=""305.2"")";Age groups
+305.41;305.4X;Zeitlich übergreifend;"(ddc=""305.3"" and ddc-t=""0900"")";Temporally unspecific
+305.42;305.4X;Mittelalter;"(ddc=""305.3"" and ddc-t=""0902"")";Middle Ages
+305.43;305.4X;Frühe Neuzeit;"(ddc=""305.3"" and ddc-t=""0903"")";Modern history
+305.44;305.4X;19. Jahrhundert;"(ddc=""305.3"" and ddc-t=""09034"")";19th century
+305.45;305.4X;20. Jahrhundert;"(ddc=""305.3"" and ddc-t=""0904"")";20th century
+305.46;305.4X;Geschichte der Frau;"(ddc=""305.409"")";History of women
+305.4X;305.X;Männer und Frauen, Geschlechterrolle;"(ddc=""305.3"")";Men and women, Sex role
+305.81;305.8X;Zeitlich übergreifend;"(ddc=""305.8"" and ddc-t=""0900"")";Temporally unspecific
+305.82;305.8X;Mittelalter;"(ddc=""305.8"" and ddc-t=""0902"")";Middle Ages
+305.83;305.8X;Frühe Neuzeit;"(ddc=""305.8"" and ddc-t=""0903"")";Modern history
+305.84;305.8X;19. Jahrhundert;"(ddc=""305.8"" and ddc-t=""09034"")";19th century
+305.85;305.8X;20. Jahrhundert;"(ddc=""305.8"" and ddc-t=""0904"")";20th century
+305.8X;305.X;Nationale und ethnische Gruppen;"(ddc=""305.8"")";National and ethnic groups
+305.91;305.9X;Zeitlich übergreifend;"(ddc=""305.x"" and ddc-t=""0900"")";Temporally unspecific
+305.92;305.9X;Mittelalter;"(ddc=""305.x"" and ddc-t=""0902"")";Middle Ages
+305.93;305.9X;Frühe Neuzeit;"(ddc=""305.x"" and ddc-t=""0903"")";Modern history
+305.94;305.9X;19. Jahrhundert;"(ddc=""305.x"" and ddc-t=""09034"")";19th century
+305.95;305.9X;20. Jahrhundert;"(ddc=""305.x"" and ddc-t=""0904"")";20th century
+305.9X;305.X;Randgruppen, Sonstige Gruppen;"(ddc=""305.x"")";Fringe groups, Miscellaneous groups
+305.X;30X;Gesellschaftliche Gruppen;"(ddc=""305.?"")";Social groups
+306.11;306.1X;Zeitlich übergreifend;"(ddc=""306.09"" and ddc-t=""0900"")";Temporally unspecific
+306.12;306.1X;Mittelalter;"(ddc=""306.09"" and ddc-t=""0902"")";Middle Ages
+306.13;306.1X;Frühe Neuzeit;"(ddc=""306.09"" and ddc-t=""0903"")";Modern history
+306.14;306.1X;19. Jahrhundert;"(ddc=""306.09"" and ddc-t=""09034"")";19th century
+306.15;306.1X;20. Jahrhundert;"(ddc=""306.09"" and ddc-t=""0904"")";20th century
+306.1X;306.X;Sozialgeschichte;"(ddc=""306.09"")";Social history
+306.2;306.X;Politische Soziologie;"(ddc=""306.2"")";Poitical sociology
+306.3;306.X;Wirtschaftssoziologie;"(ddc=""306.3"")";Economic sociology
+306.4;306.X;Kultursoziologie (Wissen, Religion, Bildung, Kunst, Sprache etc.);"(ddc=""306.4"")";Cultural sociology (Knowledge, Religion, Education, Art, Language etc.)
+306.7;306.X;Sexualität;"(ddc=""306.7"")";Sex
+306.8;306.X;Familiensoziologie;"(ddc=""306.8"")";Family sociology
+306.9;306.X;Sonstiges;"(ddc=""306.x"")";Miscellaneous
+306.X;30X;Kultur und Institutionen;"(ddc=""306.?"")";Culture and institutions
+307;30X;Gemeinden, Gemeinschaften, Stadtsoziologie;"(ddc=""307"")";Communities, Urban sociology
+30X;3XX;Soziologie, Gesellschaft;"(ddc=""30?"")";Sociology, Society
+31*;31X;Statistik;"(ddc=""314"")";Statistics
+31X;3XX;;"(ddc=""314"")";
+320.01;320.0X;Zeitlich übergreifend;"(ddc=""320.?"" and ddc-t=""0900"")";Temporally unspecific
+320.02;320.0X;Mittelalter;"(ddc=""320.?"" and ddc-t=""0902"")";Middle Ages
+320.03;320.0X;Frühe Neuzeit;"(ddc=""320.?"" and ddc-t=""0903"")";Modern history
+320.04;320.0X;19. Jahrhundert;"(ddc=""320.?"" and ddc-t=""09034"")";19th century
+320.05;320.0X;20. Jahrhundert;"(ddc=""320.?"" and ddc-t=""0904"")";20th century
+320.0X;320.X;nach Zeit;();according to time
+320.1;320.X;Politische Theorie;"(ddc=""320.a"")";Political theory
+320.41;320.4X;Zeitlich übergreifend;"(ddc=""320.4"" and ddc-t=""0900"")";Temporally unspecific
+320.42;320.4X;Mittelalter;"(ddc=""320.4"" and ddc-t=""0902"")";Middle Ages
+320.43;320.4X;Frühe Neuzeit;"(ddc=""320.4"" and ddc-t=""0903"")";Modern history
+320.44;320.4X;19. Jahrhundert;"(ddc=""320.4"" and ddc-t=""09034"")";19th century
+320.45;320.4X;20. Jahrhundert;"(ddc=""320.4"" and ddc-t=""0904"")";20th century
+320.4X;320.X;Regierung;"(ddc=""320.4"")";Government
+320.5;320.X;Politische Ideologien;"(ddc=""320.5"")";Political ideologies
+320.8;320.X;Kommunalpolitik, regionale Politik;"(ddc=""320.8"")";Local government
+320.9;320.X;Politische Lage und Verhältnisse, Innenpolitik, Politikfelder ;"(ddc=""320.9"")";Political situation and conditions, Home policy, Policy fields
+320.X;32X;Politisches System und Staat allgemein;"(ddc=""320.?"")";Political system and state on general
+321.1;321.X;Zeitlich übergreifend;"(ddc=""321"" and ddc-t=""0900"")";Temporally unspecific
+321.2;321.X;Mittelalter;"(ddc=""321"" and ddc-t=""0902"")";Middle Ages
+321.3;321.X;Frühe Neuzeit;"(ddc=""321"" and ddc-t=""0903"")";Modern history
+321.4;321.X;19. Jahrhundert;"(ddc=""321"" and ddc-t=""09034"")";19th century
+321.5;321.X;20. Jahrhundert;"(ddc=""321"" and ddc-t=""0904"")";20th century
+321.X;32X;Staatsformen und Regierungssysteme;"(ddc=""321"")";Systems of government and states
+322.11;322.1X;Zeitlich übergreifend;"(ddc=""322.1"" and ddc-t=""0900"")";Temporally unspecific
+322.12;322.1X;Mittelalter;"(ddc=""322.1"" and ddc-t=""0902"")";Middle Ages
+322.13;322.1X;Frühe Neuzeit;"(ddc=""322.1"" and ddc-t=""0903"")";Modern history
+322.14;322.1X;19. Jahrhundert;"(ddc=""322.1"" and ddc-t=""09034"")";19th century
+322.15;322.1X;20. Jahrhundert;"(ddc=""322.1"" and ddc-t=""0904"")";20th century
+322.1X;322.X;Kirche und Staat;"(ddc=""322.1"")";Church and state
+322.X;32X;Beziehungen des Staats zu organisierten Gruppen;"(ddc=""322"")";Relation of the state to organized groups
+323.0;323.X;Allgemeines, Menschenrechte;"(ddc=""323.a"")";General works, Human rights
+323.1;323.X;Minderheitenfragen;"(ddc=""323.1"")";Minority matters
+323.4;323.X;Meinungs- und Informationsfreiheit;"(ddc=""323.4"")";Freedom of opinion and information
+323.6;323.X;Staatsbürgerschaft;"(ddc=""323.6"")";Citizenship
+323.X;32X;Grundrechte und politische Rechte;"(ddc=""323.?"")";Civil and political rights
+324.2;324.X;Politische Parteien;"(ddc=""324.2"")";Political parties
+324.4;324.X;Interessengruppen;"(ddc=""324.4"")";Interest groups
+324.6;324.X;Wahlsysteme;"(ddc=""324.6"")";Election systems
+324.X;32X;Der politische Prozess, politischer Einfluss;"(ddc=""324.?"")";The political process, political influence
+325;32X;Internationale Migration;"(ddc=""325"")";International migration
+327.1;327.X;Zeitlich übergreifend;"(ddc=""327"" and ddc-t=""0900"")";Temporally unspecific
+327.2;327.X;Mittelalter;"(ddc=""327"" and ddc-t=""0902"")";Middle Ages
+327.3;327.X;Frühe Neuzeit;"(ddc=""327"" and ddc-t=""0903"")";Modern history
+327.4;327.X;19. Jahrhundert;"(ddc=""327"" and ddc-t=""09034"")";19th century
+327.5;327.X;20. Jahrhundert;"(ddc=""327"" and ddc-t=""0904"")";20th century
+327.X;32X;Internationale Beziehungen, Außenpolitik;"(ddc=""327"")";International relations, Foreign policy
+328;32X;Parlamente, gesetzgebende Körperschaften, Gesetzgebungsprozess;"(ddc=""328"")";Parliaments, legislative bodies, legislative process
+32X;3XX;Politikwissenschaft;"(ddc=""32?"")";Political science
+330.1;330.X;Zeitlich übergreifend;"(ddc=""330.90"" and ddc-t=""0900"")";Temporally unspecific
+330.2;330.X;Mittelalter;"(ddc=""330.90"" and ddc-t=""0902"")";Middle Ages
+330.3;330.X;Frühe Neuzeit;"(ddc=""330.90"" and ddc-t=""0903"")";Modern history
+330.4;330.X;19. Jahrhundert;"(ddc=""330.90"" and ddc-t=""09034"")";19th century
+330.5;330.X;20. Jahrhundert;"(ddc=""330.90"" and ddc-t=""0904"")";20th century
+330.X;33X;Wirtschaftsgeschichte;"(ddc=""330.90"")";Economic history
+331.1;331.X;Zeitlich übergreifend;"(ddc=""330.91"" and ddc-t=""0900"")";Temporally unspecific
+331.2;331.X;Mittelalter;"(ddc=""330.91"" and ddc-t=""0902"")";Middle Ages
+331.3;331.X;Frühe Neuzeit;"(ddc=""330.91"" and ddc-t=""0903"")";Modern history
+331.4;331.X;19. Jahrhundert;"(ddc=""330.91"" and ddc-t=""09034"")";19th century
+331.5;331.X;20. Jahrhundert;"(ddc=""330.91"" and ddc-t=""0904"")";20th century
+331.X;33X;Allgemeines, wirtschaftliche Lage;"(ddc=""330.91"")";General works, economic situation
+332;33X;Arbeitsökonomie, Arbeitsmarkt;"(ddc=""331"")";Labor economics, labor market
+337.1;337.X;Zeitlich übergreifend;"(ddc=""337"" and ddc-t=""0900"")";Temporally unspecific
+337.2;337.X;Mittelalter;"(ddc=""337"" and ddc-t=""0902"")";Middle Ages
+337.3;337.X;Frühe Neuzeit;"(ddc=""337"" and ddc-t=""0903"")";Modern history
+337.4;337.X;19. Jahrhundert;"(ddc=""337"" and ddc-t=""09034"")";19th century
+337.5;337.X;20. Jahrhundert;"(ddc=""337"" and ddc-t=""0904"")";20th century
+337.X;33X;Weltwirtschaft, Internationale Wirtschaftsbeziehungen;"(ddc=""337"")";International economics, international economic relations
+338.11;338.1X;Agrargeschichte;"(ddc=""338.109"")";History of agriculture
+338.1X;338.X;Agrarwirtschaft, Fischerei, Forstwirtschaft;"(ddc=""338.1"")";Agriculture, Fishery, Forestry
+338.6;338.X;Produktionsorganisation (Betriebswirtschaftslehre);"(ddc=""338.6"")";Organization of production
+338.9;338.X;Industrialisierung und Entwicklungshilfe;"(ddc=""338.9"")";Industrialization and development assistance
+338.X;33X;Produktion;"(ddc=""338"")";Production
+339;33X;Sonstige Wirtschaftsfragen;"(ddc=""33x"")";Miscellaneous economic issues
+33X;3XX;Wirtschaft;"(ddc=""33?"")";Economics
+340;34X;Allgemeines;"(ddc=""340.a"")";General works
+341;34X;Rechtsgeschichte;"(ddc=""340.5"")";Legal history
+342;34X;Völkerrecht;"(ddc=""341"")";Law of nations
+343;34X;Verfassungs- und Verwaltungs-, Arbeits-, Sozial-, und Bildungsrecht;"(ddc=""342"" or ddc=""344"")";Constitutional and administrative law, labour, social service, education law 
+345;34X;Sonstige Rechtsgebiete;"(ddc=""34x"")";Miscellaneous branches of law
+34X;3XX;Recht;"(ddc=""34?"")";Law
+352;35X;Allgemeines zur öffentlichen Verwaltung;"(ddc=""351"" or ddc=""352"")";General considerations of public administration
+353;35X;Einzelne Zuständigkeitsbereiche der öffentlichen Verwaltung;"(ddc=""353.?"" or ddc=""352.4"" or ddc=""354.?"")";Specific fields of responsibility of public administration
+355.11;355.1X;Zeitlich übergreifend;"(ddc=""355.009"" and ddc-t=""0900"")";Temporally unspecific
+355.12;355.1X;Mittelalter;"(ddc=""355.009"" and ddc-t=""0902"")";Middle Ages
+355.13;355.1X;Frühe Neuzeit;"(ddc=""355.009"" and ddc-t=""0903"")";Modern history
+355.14;355.1X;19. Jahrhundert;"(ddc=""355.009"" and ddc-t=""09034"")";19th century
+355.15;355.1X;20. Jahrhundert;"(ddc=""355.009"" and ddc-t=""0904"")";20th century
+355.1X;355.X;Militärgeschichte;"(ddc=""355.009"")";Military history
+355.X;35X;Militärwissenschaft;"(ddc=""355.a"")";Military science
+35X;3XX;Öffentliche Verwaltung, Militär;"(ddc=""35?"")";Public administration and military science
+361;36X;Soziale Probleme und Sozialarbeit im Allgemeinen;"(ddc=""361"")";Social problems and social welfare in general
+362;36X;Soziale Probleme und Sozialarbeit für bestimmte Zielgruppen;"(ddc=""362"")";Social problems and social welfare for specific target groups
+363.2;363.X;Öffentliche Sicherheit, Polizei;"(ddc=""363.a"")";Public safety, police
+363.7;363.X;Umweltprobleme, Umweltschutz;"(ddc=""363.7"")";Environmental problems, environmental protection
+363.9;363.X;Sonstige soziale Probleme und Sozialdienste;"(ddc=""363.x"")";Other socialproblems and social welfare services
+363.X;36X;Spezielle soziale Probleme und Sozialdienste;"(ddc=""363.?"")";Specific social problems and social welfare services
+364;36X;Kriminologie, Strafanstalten;"(ddc=""364"")";Criminology, Convict stations 
+368;36X;Versicherungswesen;"(ddc=""368"")";Insurance
+369;36X;Verbände;"(ddc=""369"")";Associations
+36X;3XX;Soziale Probleme und Sozialdienste, Verbände;"(ddc=""36?"")";Social problems and services, associations
+370;37X;Allgemeines;"(ddc=""370.a"")";General works
+371;37X;Bildungsgeschichte;"(ddc=""370.9"")";History of education
+372;37X;Schulen, schulische Tätigkeiten, Sonderpädagogik;"(ddc=""371"")";Schools and their activities, special education
+373;37X;Primar- und Elementarbildung;"(ddc=""372"")";Elementary education
+374;37X;Sekundarbildung;"(ddc=""373"")";Secondary education
+375;37X;Erwachsenenbildung;"(ddc=""374"")";Adult education
+378;37X;Curricula;"(ddc=""375"")";Curricula
+379;37X;Hochschulbildung;"(ddc=""378"")";Higher education
+37A;37X;Bildungspolitik;"(ddc=""379"")";Public policy issues in education
+37X;3XX;Bildung und Erziehung;"(ddc=""37?"")";Education
+381;38X;Handel;"(ddc=""381"")";Trade
+382.11;382.1X;Zeitlich übergreifend;"(ddc=""382.09"" and ddc-t=""0900"")";Temporally unspecific
+382.12;382.1X;Mittelalter;"(ddc=""382.09"" and ddc-t=""0902"")";Middle Ages
+382.13;382.1X;Frühe Neuzeit;"(ddc=""382.09"" and ddc-t=""0903"")";Modern history
+382.14;382.1X;19. Jahrhundert;"(ddc=""382.09"" and ddc-t=""09034"")";19th century
+382.15;382.1X;20. Jahrhundert;"(ddc=""382.09"" and ddc-t=""0904"")";20th century
+382.1X;382.X;Handelsgeschichte (hier auch Ostseehandel);"(ddc=""382.09"")";History of trade (here also Baltic trade)
+382.2;382.X;Geschichte der Hanse;"(ddc=""382.094"")";History of the Hanseatic league
+382.X;38X;Internationaler Handel (Außenhandel);"(ddc=""382.a"")";International commerce (Foreign trade)
+384;38X;Kommunikation, Telekommunikation, Post;"(ddc=""384"")";Communications, Telecommunication, Post
+385;38X;Schienenverkehr;"(ddc=""385"")";Railroad transportation
+387;38X;Schifffahrt, Luftfahrt, Raumfahrt;"(ddc=""387"")";Water, air, space transportation
+388.1;388.X;Zeitlich übergreifend;"(ddc=""388"" and ddc-t=""0900"")";Temporally unspecific
+388.2;388.X;Mittelalter;"(ddc=""388"" and ddc-t=""0902"")";Middle Ages
+388.3;388.X;Frühe Neuzeit;"(ddc=""388"" and ddc-t=""0903"")";Modern history
+388.4;388.X;19. Jahrhundert;"(ddc=""388"" and ddc-t=""09034"")";19th century
+388.5;388.X;20. Jahrhundert;"(ddc=""388"" and ddc-t=""0904"")";20th century
+388.X;38X;Verkehr und Landverkehr;"(ddc=""388"")";Transportation and Ground transportation
+389;38X;Metrologie, Normung;"(ddc=""389"")";Metrology, standardization
+38X;3XX;Handel, Kommunikation, Verkehr;"(ddc=""38?"")";Commerce, communications, transportation
+390;39X;Volkskultur, Brauchtum allgemein;"(ddc=""390"")";Folk culture, Tradition on general
+391;39X;Kleidung, äußeres Erscheinungsbild;"(ddc=""391"")";Costume, personal appearance
+392;39X;Bräuche des Lebenszyklus und häuslichen Lebens;"(ddc=""392"")";Customs of life cycle and domestic life
+393;39X;Totenrituale (Tod Bräuche);"(ddc=""393"")";Death customs
+394;39X;Sonstige Bräuche;"(ddc=""394"" or ddc=""399"")";General customs
+395;39X;Etikette;"(ddc=""395"")";Etiquette
+398;39X;Folklore und Volksliteratur;"(ddc=""398"")";Folklore and folk literature
+39X;3XX;Brauchtum, Folklore;"(ddc=""39?"")";Tradition, folklore
+3XX;vifanord-ROOT;Sozial- und Staatswissenschaften;"(ddc=""3?"")";Social sciences and Public Policy
+40X;4XX;Sprachen in Nordeuropa und im Baltikum;"(ddc=""400"")";Languages in Northern Europe and in the Baltic States
+410;41X;Skandinavische Sprachen allgemein, Skandinavistik;"(ddc=""439.5"")";North Germanic languages in general, Scandinavian studies
+411.1;411.X;Allgemeines;"(ddc=""439.6aa"")";General works
+411.2;411.X;Wörterbücher;"(ddc=""439.6ab"")";Dictionaries
+411.3;411.X;Sprachwissenschaft;"(ddc=""439.6ac"")";Linguistics
+411.4;411.X;Sprachgeschichte;"(ddc=""439.6ad"")";Language history
+411.X;41X;Altnordisch;"(ddc=""439.6a?"")";Old Norse
+412.1;412.X;Allgemeines;"(ddc=""439.690a"")";General works
+412.2;412.X;Wörterbücher;"(ddc=""439.690b"")";Dictionaries
+412.3;412.X;Sprachwissenschaft;"(ddc=""439.690c"")";Linguistics
+412.4;412.X;Sprachgeschichte;"(ddc=""439.690d"")";Language history
+412.X;41X;Isländisch;"(ddc=""439.690?"")";Icelandic
+413.1;413.X;Allgemeines;"(ddc=""439.699a"")";General works
+413.2;413.X;Wörterbücher;"(ddc=""439.699b"")";Dictionaries
+413.3;413.X;Sprachwissenschaft;"(ddc=""439.699c"")";Linguistics
+413.4;413.X;Sprachgeschichte;"(ddc=""439.699d"")";Language history
+413.X;41X;Färöisch;"(ddc=""439.699?"")";Faeroese
+414.1;414.X;Allgemeines;"(ddc=""439.7a"")";General works
+414.2;414.X;Wörterbücher;"(ddc=""439.7b"")";Dictionaries
+414.3;414.X;Sprachwissenschaft;"(ddc=""439.7c"")";Linguistics
+414.4;414.X;Sprachgeschichte;"(ddc=""439.7d"")";Language history
+414.X;41X;Schwedisch;"(ddc=""439.7?"")";Swedish
+415.1;415.X;Allgemeines;"(ddc=""439.81a"")";General works
+415.2;415.X;Wörterbücher;"(ddc=""439.81b"")";Dictionaries
+415.3;415.X;Sprachwissenschaft;"(ddc=""439.81c"")";Linguistics
+415.4;415.X;Sprachgeschichte;"(ddc=""439.81d"")";Language history
+415.X;41X;Dänisch;"(ddc=""439.81?"")";Danish
+416.1;416.X;Allgemeines;"(ddc=""439.82a"")";General works
+416.2;416.X;Wörterbücher;"(ddc=""439.82b"")";Dictionaries
+416.3;416.X;Sprachwissenschaft;"(ddc=""439.82c"")";Linguistics
+416.4;416.X;Sprachgeschichte;"(ddc=""439.82d"")";Language history
+416.X;41X;Norwegisch;"(ddc=""439.82?"")";Norwegian
+41X;4XX;Skandinavische Sprachen;"(ddc=""439.?"")";North Germanic languages
+420;42X;Allgemeines, Baltistik;"(ddc=""491.9a"")";General works, Baltic studies
+421.1;421.X;Allgemeines und Wörterbücher;"(ddc=""491.91a"")";General works and dictionaries
+421.2;421.X;Sprach- und Literaturgeschichte;"(ddc=""491.91b"")";History of language and literature
+421.X;42X;Altpreußisch;"(ddc=""491.91?"")";Old Prussian
+422.1;422.X;Allgemeines, Lituanistik;"(ddc=""491.92a"")";General works, Lithuanian studies
+422.2;422.X;Wörterbücher;"(ddc=""491.92b"")";Dictionaries
+422.3;422.X;Sprachwissenschaft;"(ddc=""491.92c"")";Linguistics
+422.4;422.X;Sprachgeschichte;"(ddc=""491.92d"")";Language history
+422.X;42X;Litauisch;"(ddc=""491.92?"")";Lithuanian
+423.1;423.X;Allgemeines, Lettistik;"(ddc=""491.93a"")";General works, Latvian studies
+423.2;423.X;Wörterbücher;"(ddc=""491.93b"")";Dictionaries
+423.3;423.X;Sprachwissenschaft;"(ddc=""491.93c"")";Linguistics
+423.4;423.X;Sprachgeschichte;"(ddc=""491.93d"")";Language history
+423.X;42X;Lettisch;"(ddc=""491.93?"")";Latvian
+42X;4XX;Baltische Sprachen;"(ddc=""491.9?"")";Baltic languages
+430;43X;Allgemeines;"(ddc=""494.54a"")";General works
+431.1;431.X;Allgemeines, Fennistik;"(ddc=""494.541a"")";General works, Fennistics
+431.2;431.X;Wörterbücher;"(ddc=""494.541b"")";Dictionaries
+431.3;431.X;Sprachwissenschaft;"(ddc=""494.541c"")";Linguistics
+431.4;431.X;Sprachgeschichte;"(ddc=""494.541d"")";Language history
+431.X;43X;Finnisch;"(ddc=""494.541?"")";Finnish
+432.1;432.X;Allgemeines, Estnische Philologie;"(ddc=""494.545a"")";General works, Estonian philology
+432.2;432.X;Wörterbücher;"(ddc=""494.545b"")";Dictionaries
+432.3;432.X;Sprachwissenschaft;"(ddc=""494.545c"")";Linguistics
+432.4;432.X;Sprachgeschichte;"(ddc=""494.545d"")";Language history
+432.X;43X;Estnisch;"(ddc=""494.545?"")";Estonian
+43X;4XX;Ostseefinnische Sprachen;"(ddc=""494.54?"")";Finnish, Estonian
+44X;4XX;Saamisch;"(ddc=""494.55"")";Sami
+45X;4XX;Grönländisch;"(ddc=""497.12"")";Greenlandic
+4XX;vifanord-ROOT;Sprache;"(ddc=""4?"")";Language
+701;70X;Museen und Ausstellungen;"(ddc=""708"")";Museums and exhibitions
+702;70X;Kunstgeschichte allg. u. Epochendarstellungen;"(ddc=""709.4"")";Art history on general and depiction of epoches
+703;70X;Einzelne Künstler;"(ddc=""709.2"")";Single artists
+706;70X;;"(ddc=""709.2"")";
+70X;7XX;Künste, bildende und angewandte Kunst;"(ddc=""70?"")";The arts, fine and decorative arts
+71X;7XX;Raumplanung, Landschaftsgestaltung, Urbanistik;"(ddc=""71?"")";Civic and landscape art, urbanism
+722;72X;Architektur allg. und nach Orten;"(ddc=""72?"")";Architecture on general and according to places
+725;72X;Öffentliche Gebäude;"(ddc=""725"")";Public structures
+726;72X;Sakrale Architektur;"(ddc=""726"")";Sacral Architecture
+728;72X;Wohnbauten, Schlösser, Burgen;"(ddc=""728"")";Residential buildings, chateaux, castles 
+72X;7XX;Architektur;"(ddc=""72?"")";Architecture
+73X;7XX;Skulptur (Plastik);"(ddc=""73?"")";Sculpture (Plastic arts)
+74X;7XX;Zeichnung und Graphik, Druckgraphik;"(ddc=""741"" or ddc=""76?"")";Drawing and graphic arts, printmaking
+75X;7XX;Malerei und Gemälde;"(ddc=""75?"")";Painting and paintings
+76X;7XX;Kunsthandwerk, Angewandte Kunst, Design, Inneneinrichtung;"(ddc=""745"")";Craftwork, decorative arts, design, interior decoration
+77X;7XX;Photographie, Photokunst, Computerkunst;"(ddc=""77?"")";Photography, fine art photography, computer art
+780;78X;Allgemeines ;"(ddc=""780"")";General works
+781;78X;Volksmusik;"(ddc=""781.62"")";Folk music
+782;78X;Populäre Musik;"(ddc=""781.64"")";Popular music
+783;78X;Geistliche Musik;"(ddc=""781.7"")";Sacred music
+784;78X;Vokalmusik;"(ddc=""782"")";Vocal music
+785;78X;Instrumentalmusik;"(ddc=""784"")";Instrumental music
+789;78X;Komponisten;"(ddc=""789"")";Composers
+78X;7XX;Musik;"(ddc=""78?"")";Music
+790;79X;Freizeitgestaltung;"(ddc=""790"")";Recreational activities
+791;79X;Öffentliche Darbietungen (Zirkus, Festumzüge etc.);"(ddc=""791.a"")";Public performances (circuses, pageants etc.)
+792;79X;Film, Hörfunk, Fernsehen;"(ddc=""791.4"")";Motion pictures, radio, television
+793;79X;Bühnenkunst, Theater, Ballett;"(ddc=""792"")";Stage presentations, theater, ballet
+794;79X;Spiele;"(ddc=""793.a"")";Games
+795;79X;Gesellschafts- und Volkstanz;"(ddc=""793.3"")";Social and folk dancing
+796;79X;Sport;"(ddc=""79a"")";Sports
+79X;7XX;Freizeitgestaltung, darstellende Künste, Sport;"(ddc=""79?"")";Recreational and performing arts
+7XX;vifanord-ROOT;Künste und Unterhaltung;"(ddc=""7?"")";The arts, entertainment
+80;8X;;"(ddc=""800"")";
+80X;8XX;Literaturen in Nordeuropa und Baltikum;"(ddc=""800"")";Literatures in Northern Europe and the Baltic states
+810;81X;Skandinavische Literaturen übergreifend (ohne Einzelsprachen);"(ddc=""839.5"")";Comprehensive North Germanic literatures (no specific language)
+811.1;811.X;Allgemeines;"(ddc=""839.6aa"")";General works
+811.2;811.X;Literaturtheorie;"(ddc=""839.6ab"")";Literary theory
+811.3;811.X;Literaturgeschichte;"(ddc=""839.6ac"")";History of literature
+811.4;811.X;Volksdichtung;"(ddc=""839.6ad"")";Folk poetry
+811.5;811.X;Textsammlungen;"(ddc=""839.6ae"")";Collections of texts
+811.6;811.X;Autoren;"(ddc=""839.6af"")";Authors
+811.X;81X;Altnordische Literatur;"(ddc=""839.6a?"")";Old Norse literature
+812.1;812.X;Allgemeines;"(ddc=""839.690a"")";General works
+812.2;812.X;Literaturtheorie;"(ddc=""839.690b"")";Literary theory
+812.3;812.X;Literaturgeschichte;"(ddc=""839.690c"")";History of literature
+812.4;812.X;Volksdichtung;"(ddc=""839.690d"")";Folk poetry
+812.5;812.X;Textsammlungen;"(ddc=""839.690e"")";Collections of texts
+812.6;812.X;Autoren, einzelne Textdenkmäler;"(ddc=""839.690f"")";Authors, single textual monuments
+812.X;81X;Isländische Literatur;"(ddc=""839.690?"")";Icelandic literature
+813.1;813.X;Allgemeines;"(ddc=""839.699a"")";General works
+813.2;813.X;Literaturtheorie;"(ddc=""839.699b"")";Literary theory 
+813.3;813.X;Literaturgeschichte;"(ddc=""839.699c"")";History of literature
+813.4;813.X;Volksdichtung;"(ddc=""839.699d"")";Folk poetry
+813.5;813.X;Textsammlungen;"(ddc=""839.699e"")";Collections of texts
+813.6;813.X;Autoren;"(ddc=""839.699f"")";Authors
+813.X;81X;Färöische Literatur;"(ddc=""839.699?"")";Faeroese literature
+814.1;814.X;Allgemeines;"(ddc=""839.7a"")";General works
+814.2;814.X;Literaturtheorie;"(ddc=""839.7b"")";Literary theory
+814.3;814.X;Literaturgeschichte;"(ddc=""839.7c"")";History of literature
+814.4;814.X;Volksdichtung;"(ddc=""839.7d"")";Folk poetry
+814.5;814.X;Textsammlungen;"(ddc=""839.7e"")";Collections of texts
+814.6;814.X;Autoren;"(ddc=""839.7f"")";Authors
+814.X;81X;Schwedische Literatur;"(ddc=""839.7?"")";Swedish literature
+815.1;815.X;Allgemeines;"(ddc=""839.81a"")";General works
+815.2;815.X;Literaturtheorie;"(ddc=""839.81b"")";Literary theory
+815.3;815.X;Literaturgeschichte;"(ddc=""839.81c"")";History of literature
+815.4;815.X;Volksdichtung;"(ddc=""839.81d"")";Folk poetry
+815.5;815.X;Textsammlungen;"(ddc=""839.81e"")";Collections of texts
+815.6;815.X;Autoren;"(ddc=""839.81f"")";Authors
+815.X;81X;Dänische Literatur;"(ddc=""839.81?"")";Danish literature
+816.1;816.X;Allgemeines;"(ddc=""839.82a"")";General works
+816.2;816.X;Literaturtheorie;"(ddc=""839.82b"")";Literary theory
+816.3;816.X;Literaturgeschichte;"(ddc=""839.82c"")";History of literature
+816.4;816.X;Volksdichtung;"(ddc=""839.82d"")";Folk poetry
+816.5;816.X;Textsammlungen;"(ddc=""839.82e"")";Collections of texts
+816.6;816.X;Autoren;"(ddc=""839.82f"")";Authors
+816.X;81X;Norwegische Literatur;"(ddc=""839.82?"")";Norwegian literature
+81X;8XX;Skandinavische Literaturen gesamt;"(ddc=""839.?"")";North Germanic literatures on the whole
+820;82X;Allgemeines, Literaturgeschichte;"(ddc=""891.9a"")";General works, History of literature
+821.1;821.X;Allgemeines;"(ddc=""891.91a"")";General works
+821.2;821.X;Sprach- und Literaturgeschichte;"(ddc=""891.91b"")";Language and literary history
+821.X;82X;Altpreußische Literatur;"(ddc=""891.91?"")";Old Prussian literature
+822.1;822.X;Allgemeines;"(ddc=""891.92a"")";General works
+822.2;822.X;Literaturtheorie;"(ddc=""891.92b"")";Literary theory
+822.3;822.X;Literaturgeschichte;"(ddc=""891.92c"")";History of literature
+822.4;822.X;Volksdichtung;"(ddc=""891.92d"")";Folk poetry
+822.5;822.X;Textsammlungen;"(ddc=""891.92e"")";Collections of texts
+822.6;822.X;Primär- und Sekundärliteratur zu einzelnen Autoren;"(ddc=""891.92f"")";Primary and Secondary Literature on single authors
+822.X;82X;Litauische Literatur;"(ddc=""891.92?"")";Lithuanian Literature
+823.1;823.X;Allgemeines;"(ddc=""891.93a"")";General works
+823.2;823.X;Literaturtheorie;"(ddc=""891.93b"")";Literary theory
+823.3;823.X;Literaturgeschichte;"(ddc=""891.93c"")";History of literature
+823.4;823.X;Volksdichtung;"(ddc=""891.93d"")";Folk poetry
+823.5;823.X;Textsammlungen;"(ddc=""891.93e"")";Collections of texts
+823.6;823.X;Primär- und Sekundärliteratur zu einzelnen Autoren;"(ddc=""891.93f"")";Primary and Secondary literature on single authors
+823.X;82X;Lettische Literatur;"(ddc=""891.93?"")";Latvian literature
+82X;8XX;Baltische Literaturen;"(ddc=""891?"")";Baltic literatures
+830;83X;Allgemeines, Literaturgeschichte;"(ddc=""894.54a"")";General works, History of literature
+831.1;831.X;Allgemeines;"(ddc=""894.541a"")";General works
+831.2;831.X;Literaturtheorie;"(ddc=""894.541b"")";Literary theory
+831.3;831.X;Literaturgeschichte;"(ddc=""894.541c"")";History of literature
+831.4;831.X;Volksdichtung;"(ddc=""894.541d"")";Folk poetry
+831.5;831.X;Textsammlungen;"(ddc=""894.541e"")";Collections of texts
+831.61;831.6X;Primärliteratur von einzelnen Autoren;"(ddc=""894.541f"")";Primary literature on single authors
+831.62;831.6X;Sekundärliteratur zu einzelnen Autoren;"(ddc=""894.541g"")";Secondary literature on single authors
+831.6X;831.X;Primär- und Sekundärliteratur zu einzelnen Autoren;"(ddc=""894.541f"")";Primary and Secondary literature on single authors
+831.X;83X;Finnische Literatur;"(ddc=""894.541?"")";Finnish literature
+832.1;832.X;Allgemeines;"(ddc=""894.545a"")";General works
+832.2;832.X;Literaturtheorie;"(ddc=""894.545b"")";Literary theory
+832.3;832.X;Literaturgeschichte;"(ddc=""894.545c"")";History of literature
+832.4;832.X;Volksdichtung;"(ddc=""894.545d"")";Folk poetry
+832.5;832.X;Textsammlungen;"(ddc=""894.545e"")";Collections of texts
+832.6;832.X;;"(ddc=""894.545f"")";
+832.61;832.6X;Primärliteratur von einzelnen Autoren;"(ddc=""894.545f"")";Primary literature on single authors
+832.62;832.6X;Sekundarliteratur zu einzelnen Autoren;"(ddc=""894.545g"")";Secondary literature on single authors
+832.6X;832.X;Primär- und Sekundärliteratur zu einzelnen Autoren;"(ddc=""894.545f"")";Primary and Secondary literature on single authors
+832.X;83X;Estnische Literatur;"(ddc=""894.545?"")";Estonian literature
+83X;8XX;Ostseefinnische Literaturen;"(ddc=""894.54?"")";Finnic literatures
+84X;8XX;Saamische Literatur;"(ddc=""894.55"")";Sami literature
+85X;8XX;Grönländische Literatur;"(ddc=""897.12"")";Greenlandic literature
+8XX;vifanord-ROOT;Literatur;"(ddc=""8?"")";Literature
+910;91X;Allgemeines;"(ddc=""910"")";General works
+911.1;911.X;Zeitlich übergreifend;"(ddc=""911"" and ddc-t=""0900"")";Temporally unspecific
+911.2;911.X;Mittelalter;"(ddc=""911"" and ddc-t=""0902"")";Middle Ages
+911.3;911.X;Frühe Neuzeit;"(ddc=""911"" and ddc-t=""0903"")";Modern history
+911.4;911.X;19. Jahrhundert;"(ddc=""911"" and ddc-t=""09034"")";19th century
+911.5;911.X;20. Jahrhundert;"(ddc=""911"" and ddc-t=""0904"")";20th century
+911.X;91X;Historische Geografie;"(ddc=""911"")";Historical geography
+912;91X;Atlanten, Karten, Pläne;"(ddc=""912"")";Atlases, maps, plans
+914.11;914.1X;Nordpolarmeer und europäisches Nordmeer;"(ddc=""551.46132"")";Arctic Ocean and European North Polar Sea
+914.12;914.1X;Ostsee ;"(ddc=""551.461334"")";Baltic Sea
+914.13;914.1X;Nordsee;"(ddc=""551.461336"")";North Sea
+914.1X;914.X;Meereskunde allgemein;"(ddc=""551.46"")";Oceanography in general
+914.X;91X;Physische Geographie;"(ddc=""914a"")";Physical geography
+915.1;915.X;Sozialgeographie;"(ddc=""914ba"")";Social geography
+915.2;915.X;Bevölkerungsgeographie;"(ddc=""914bb"")";Population geography
+915.3;915.X;Siedlungsgeographie;"(ddc=""914bc"")";Settlement geography
+915.4;915.X;Wirtschaftsgeographie;"(ddc=""914bd"")";Economic geography
+915.5;915.X;Verkehrsgeographie, Tourismus;"(ddc=""914be"")";Transport geography, tourism
+915.6;915.X;Politische Geographie (Geopolitik);"(ddc=""914bf"")";Political geography (Geopolitics)
+915.X;91X;Anthropogeographie;"(ddc=""914b"")";Human geography
+916.1;916.X;Umweltforschung, Umweltschutz, Landschaftspflege;"(ddc=""333.7"")";Environmental research, Environmental protection, Landscape conservation 
+916.2;916.X;Raumordnung, Raumplanung;"(ddc=""71?"")";Regional planning, Area planning
+916.X;91X;Angewandte Geographie;"(ddc=""914c"")";Applied geography
+91X;9XX;Geografie, Reisen;"(ddc=""91?"")";Geography, Travel
+92X;9XX;Biographien und biographische Nachschlagewerke;"(ddc=""92?"")";Biography, biographical reference books
+930;93X;Archäologie, Theorie und Methoden;"(ddc=""930"")";Archeology, Theory and procedures
+936;93X;Ur- und Frühgeschichte: Darstellungen;"(ddc=""936"")";Early history: Studies
+93X;9XX;Archäologie und Ur- und Frühgeschichte;"(ddc=""93?"")";Archaeology and Early history
+940;94X;Ausbildung, Forschung, Geschichtswissenschaft;"(ddc=""907"")";Education, research, history
+941.1;941.X;Archivwesen;"(ddc=""020a"")";Archival science
+941.2;941.X;Genealogie ;"(ddc=""929.a"")";Genealogy
+941.3;941.X;Epigraphik, Wappenkunde, Siegel, Orden, Fahnen;"(ddc=""929.b"")";Epigraphy, heraldry, seals, orders, flags
+941.4;941.X;Numismatik;"(ddc=""737"")";Numismatics
+941.X;94X;Historische Hilfswissenschaften;"(ddc=""929"")";Auxiliary Sciences of History
+942.1;942.X;Zeitlich übergreifend;"(ddc=""94?a"" and ddc-t=""0900"")";Temporally unspecific
+942.2;942.X;;"(ddc=""94?a"" and ddc-t=""0902"")";
+942.3;942.X;Mittelalter;"(ddc=""94?a"" and ddc-t=""0902"")";Middle Ages
+942.4;942.X;Frühe Neuzeit;"(ddc=""94?a"" and ddc-t=""0903"")";Modern history
+942.5;942.X;19. Jahrhundert;"(ddc=""94?a"" and ddc-t=""09034"")";19th century
+942.6;942.X;20. Jahrhundert - 1. Hälfte;"(ddc=""94?a"" and (ddc-t=""09040"" or ddc-t=""09041"" or ddc-t=""09042"" or ddc-t=""09043"") "")";20th century - First half
+942.7;942.X;Zweiter Weltkrieg;"(ddc=""94?a"" and ddc-t=""09044"")";World War II
+942.8;942.X;Seit 1945;"(ddc=""94?a"" and (ddc-t=""0905"" or ddc-t=""09045"" or ddc-t=""09046"" or ddc-t=""09047"" or ddc-t=""09048"" or ddc-t=""09049"") "")";from 1945
+942.X;94X;Geschichte: Quellen;"(ddc=""94?a"")";History: Primary sources
+943.1;943.X;Zeitlich übergreifend;"(ddc=""94?b"" and ddc-t=""0900"")";Temporally unspecific
+943.2;943.X;Mittelalter;"(ddc=""94?b"" and ddc-t=""0902"")";Middle Ages
+943.3;943.X;Frühe Neuzeit;"(ddc=""94?b"" and ddc-t=""0903"")";Modern history
+943.4;943.X;19. Jahrhundert;"(ddc=""94?b"" and ddc-t=""09034"")";19th century
+943.5;943.X;20. Jahrhundert - 1. Hälfte;"(ddc=""94?b"" and (ddc-t=""09040"" or ddc-t=""09041"" or ddc-t=""09042"" or ddc-t=""09043"") "")";20th century - first half
+943.6;943.X;Zweiter Weltkrieg;"(ddc=""94?b"" and ddc-t=""09044"")";World War II
+943.7;943.X;Seit 1945;"(ddc=""94?b"" and (ddc-t=""0905"" or ddc-t=""09045"" or ddc-t=""09046"" or ddc-t=""09047"" or ddc-t=""09048"" or ddc-t=""09049"") "")";from 1945
+943.X;94X;Geschichte: Darstellungen;"(ddc=""94?b"")";History: Studies
+944.1;944.X;Zeitlich übergreifend;"(ddc=""94?c"" and ddc-t=""0900"")";Temporally unspecific
+944.2;944.X;Mittelalter;"(ddc=""94?c"" and ddc-t=""0902"")";Middle Ages
+944.3;944.X;Frühe Neuzeit;"(ddc=""94?c"" and ddc-t=""0903"")";Modern history
+944.4;944.X;19. Jahrhundert;"(ddc=""94?c"" and ddc-t=""09034"")";19th century
+944.5;944.X;20. Jahrhundert - 1. Hälfte;"(ddc=""94?c"" and (ddc-t=""09040"" or ddc-t=""09041"" or ddc-t=""09042"" or ddc-t=""09043"") "")";20th century - first half
+944.6;944.X;Seit 1945;"(ddc=""94?c"" and (ddc-t=""0905"" or ddc-t=""09045"" or ddc-t=""09046"" or ddc-t=""09047"" or ddc-t=""09048"" or ddc-t=""09049"") "")";from 1945
+944.X;94X;Persönlichkeiten;"(ddc=""94?c"")";Persons
+945.1;945.X;Zeitlich übergreifend;"(ddc=""94?d"" and ddc-t=""0900"")";Temporally unspecific
+945.2;945.X;Mittelalter;"(ddc=""94?d"" and ddc-t=""0902"")";Middle Ages
+945.3;945.X;Frühe Neuzeit;"(ddc=""94?d"" and ddc-t=""0903"")";Modern history
+945.4;945.X;19. Jahrhundert;"(ddc=""94?d"" and ddc-t=""09034"")";19th century
+945.5;945.X;20. Jahrhundert;"(ddc=""94?d"" and ddc-t=""0904"")";20th century
+945.X;94X;Kulturgeschichte;"(ddc=""94?d"")";Cultural history
+946.1;946.X;Zeitlich übergreifend;"(ddc=""94?e"" and ddc-t=""0900"")";Temporally unspecific
+946.2;946.X;Mittelalter;"(ddc=""94?e"" and ddc-t=""0902"")";Middle Ages
+946.3;946.X;Frühe Neuzeit;"(ddc=""94?e"" and ddc-t=""0903"")";Modern history
+946.4;946.X;19. Jahrhundert;"(ddc=""94?e"" and ddc-t=""09034"")";19th century
+946.5;946.X;20. Jahrhundert;"(ddc=""94?e"" and ddc-t=""0904"")";20th century
+946.X;94X;Regionalgeschichte;"(ddc=""94?e"")";Regional history
+947.1;947.X;Zeitlich übergreifend;"(ddc=""94?f"" and ddc-t=""0900"")";Temporally unspecific
+947.2;947.X;Mittelalter;"(ddc=""94?f"" and ddc-t=""0902"")";Middle Ages
+947.3;947.X;Frühe Neuzeit;"(ddc=""94?f"" and ddc-t=""0903"")";Modern history
+947.4;947.X;19. Jahrhundert;"(ddc=""94?f"" and ddc-t=""09034"")";19th century
+947.5;947.X;20. Jahrhundert;"(ddc=""94?f"" and ddc-t=""0904"")";20th century
+947.X;94X;Stadt- und Ortsgeschichte;"(ddc=""94?f "")";History of cities and places
+948.1;948.X;Zeitlich übergreifend;"(ddc=""274"" and ddc-t=""0900"")";Temporally unspecific
+948.2;948.X;Mittelalter;"(ddc=""274"" and ddc-t=""0902"")";Middle Ages
+948.3;948.X;Frühe Neuzeit;"(ddc=""274"" and ddc-t=""0903"")";Modern history
+948.4;948.X;19. Jahrhundert;"(ddc=""274"" and ddc-t=""09034"")";19th century
+948.5;948.X;20. Jahrhundert;"(ddc=""274"" and ddc-t=""0904"")";20th century
+948.X;94X;Religions- und Kirchengeschichte;"(ddc=""274"")";History of religion and Church history
+949.01;949.0X;Zeitlich übergreifend;"(ddc=""306.09"" and ddc-t=""0900"")";Temporally unspecific
+949.02;949.0X;Mittelalter;"(ddc=""306.09"" and ddc-t=""0902"")";Middle Ages
+949.03;949.0X;Frühe Neuzeit;"(ddc=""306.09"" and ddc-t=""0903"")";Modern history
+949.04;949.0X;19. Jahrhundert;"(ddc=""306.09"" and ddc-t=""09034"")";19th century
+949.05;949.0X;20. Jahrhundert;"(ddc=""306.09"" and ddc-t=""0904"")";20th century
+949.0X;949.X;Sozialgeschichte allgemein;();Social history in general
+949.1;949.X;Geschichte der Frau;"(ddc=""305.409"")";History of women
+949.2;949.X;Geschichte der Arbeiterbewegung;"(ddc=""305.56209"")";History of labour movement
+949.X;94X;Sozialgeschichte;"(ddc=""306.09"")";Social history
+94A.01;94A.0X;Zeitlich übergreifend;"(ddc=""330.90"" and ddc-t=""0900"")";Temporally unspecific
+94A.02;94A.0X;Mittelalter;"(ddc=""330.90"" and ddc-t=""0902"")";Middle Ages
+94A.03;94A.0X;Frühe Neuzeit;"(ddc=""330.90"" and ddc-t=""0903"")";Modern history
+94A.04;94A.0X;19. Jahrhundert;"(ddc=""330.90"" and ddc-t=""09034"")";19th century
+94A.05;94A.0X;20. Jahrhundert;"(ddc=""330.90"" and ddc-t=""0904"")";20th century
+94A.0X;94A.X;Wirtschaftsgeschichte allgemein;();Economic history in general
+94A.1;94A.X;Agrargeschichte;"(ddc=""338.109"")";History of agriculture
+94A.21;94A.2X;Zeitlich übergreifend;"(ddc=""382.09"" and ddc-t=""0900"")";Inter-time
+94A.22;94A.2X;Mittelalter;"(ddc=""382.09"" and ddc-t=""0902"")";Middle Ages
+94A.23;94A.2X;Frühe Neuzeit;"(ddc=""382.09"" and ddc-t=""0903"")";Modern history
+94A.24;94A.2X;19. Jahrhundert;"(ddc=""382.09"" and ddc-t=""09034"")";19th century
+94A.25;94A.2X;20. Jahrhundert;"(ddc=""382.09"" and ddc-t=""0904"")";20th century
+94A.2X;94A.X;Handelsgeschichte (hier auch Ostseehandel);"(ddc=""382.09"")";History of trade (here also Baltic Sea trade)
+94A.3;94A.X;Geschichte der Hanse;"(ddc=""382.094"")";History of the Hanseatic League
+94A.4;94A.X;;"(ddc=""330.90"" and ddc-t=""0900"")";
+94A.5;94A.X;;"(ddc=""330.90"" and ddc-t=""0902"")";
+94A.6;94A.X;;"(ddc=""330.90"" and ddc-t=""0903"")";
+94A.7;94A.X;;"(ddc=""330.90"" and ddc-t=""09034"")";
+94A.8;94A.X;;"(ddc=""330.90"" and ddc-t=""0904"")";
+94A.X;94X;Wirtschaftsgeschichte;"(ddc=""330.90"")";Economic history
+94B;94X;Rechtsgeschichte;"(ddc=""340.5"")";Law history
+94C.1;94C.X;Zeitlich übergreifend;"(ddc=""355.009"" and ddc-t=""0900"")";Inter-time
+94C.2;94C.X;Mittelalter;"(ddc=""355.009"" and ddc-t=""0902"")";Middle Ages
+94C.3;94C.X;Frühe Neuzeit;"(ddc=""355.009"" and ddc-t=""0903"")";Modern history
+94C.4;94C.X;19. Jahrhundert;"(ddc=""355.009"" and ddc-t=""09034"")";19th century
+94C.5;94C.X;20. und 21. Jahrhundert;"(ddc=""355.009"" and ddc-t=""0904"")";20th and 21st century
+94C.X;94X;Militärgeschichte;"(ddc=""355.009"")";Military history
+94D;94X;Bildungsgeschichte;"(ddc=""370.9"")";Education history
+94E;94X;Technikgeschichte (Erfindungen, Schiffbau etc.);"(ddc=""609"")";History of technology (inventions, shipbuilding etc.)
+94F;94X;Jüdische Geschichte;"(ddc=""908.04924"")";World history of Jews
+94X;9XX;Geschichte;"(ddc=""94?"")";History
+9XX;vifanord-ROOT;Geschichte und Geowissenschaften;"(ddc=""9?"")";History and Geoscience
+A1;AX;Philosophie;"(ddc=""10?"")";Philosophy
+A2;AX;Psychologie;"(ddc=""15?"")";Psychology
+A5;AX;Naturwissenschaften und Mathematik;"(ddc=""5?"")";Natural sciences and mathematics
+A6;AX;Medizin, Technik, Technologie;"(ddc=""6?"")";Medicine, Engeneering, Technology
+AX;vifanord-ROOT;Andere Fachgebiete;"(ddc=""1?"" or ddc=""5?"" or ddc=""6?"")";Other subject areas
+vifanord-ROOT;;;();

@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "csv-parse": "latest"
+    "csv": "latest",
+    "stream-array": "latest"
   },
   "author": "Sven-S. Porst <ssp-web@earthlingsoft.net>",
   "license": "MIT"
