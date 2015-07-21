@@ -92,10 +92,19 @@ var addQueriesToLine = function (line, library, libraryQueries) {
 	Object.keys(line.search).forEach(function(region) {
 		var libraryLine = libraryQueries[line.id];
 		if (libraryLine) {
-			var picaQuery = libraryLine[region + '_ori'];
-			if (picaQuery && picaQuery.length > 1) {
-				picaQuery.replace(/\s+/, ' ');
-				line.search[region][library] = makePazpar2Query(picaQuery, queryTypes[library]);
+			var picaQuery;
+			if (library === 'kiel') {
+				picaQuery = libraryLine[region];
+				if (picaQuery && picaQuery.length > 1 && !picaQuery.match('#')) {
+					line.search[region][library] = picaQuery.replace(/\*/, '?');
+				}
+			}
+			else {
+				var picaQuery = libraryLine[region + '_ori'];
+				if (picaQuery && picaQuery.length > 1) {
+					picaQuery.replace(/\s+/, ' ');
+					line.search[region][library] = makePazpar2Query(picaQuery, queryTypes[library]);
+				}				
 			}
 		}
 	});
@@ -123,7 +132,7 @@ var processData = function () {
 			} else {
 				tree[key] = line;
 			}
-			addQueriesToLine(line, 'sub', subData);
+			addQueriesToLine(tree[key], 'sub', subData);
 		} 
 	});
 	
@@ -140,7 +149,7 @@ var processData = function () {
 			} else {
 				tree[key] = line;
 			}
-			addQueriesToLine(line, 'kiel', subData);
+			addQueriesToLine(tree[key], 'kiel', kielData);
 		} 	
 	});
 	
