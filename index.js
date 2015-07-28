@@ -4,7 +4,11 @@ var fs = require('fs');
 var csv = require('csv');
 var streamify = require('stream-array');
 
-var queryTypes = {hgw:'lklhgw', sub:'lkl', kiel:'kiss'};
+var queryTypes = {
+	//hgw:'lklhgw',
+	sub:'lkl',
+	kiel:'kiss'
+};
 var folder = __dirname + '/data/';
 
 var hgwData = {};
@@ -66,10 +70,10 @@ var makeBaseLine = function (value) {
 			'ic': {},
 			'gro': {},
 			'fae': {},
-			'bal': {},
-			'ee': {},
-			'lv': {},
-			'lt': {},
+			//'bal': {},
+			//'ee': {},
+			//'lv': {},
+			//'lt': {},
 		},
 	};
 };
@@ -159,7 +163,7 @@ var processData = function () {
 
 
 var makeDDCQuery = function(ddc) {
-	var query =  makePazpar2Query(ddc, 'ddc');
+	var query = makePazpar2Query(ddc, 'ddc');
 	return query.replace(/ddc="([tg])/g, 'ddc-$1="');
 }; 
 
@@ -177,13 +181,13 @@ var mergeQueries = function (entry) {
 			var hgw = queries.hgw;
 			var kiel = queries.kiel;
 			if (sub) queryParts.push(sub);
-			if (hgw) queryParts.push(hgw);
+			//if (hgw) queryParts.push(hgw);
 			if (kiel) queryParts.push(kiel);
 		}
 		if (result.ddc) queryParts.push(makeDDCQuery(result.ddc));
 
 		var fullQuery = queryParts.length ? '(' + queryParts.join(') or (') + ')' : '';
-		result.query[region] = fullQuery;
+		result.query[region] = fullQuery.replace(/"/g, "'");
 	});
 	delete result.search;
 	delete result.ddc;
@@ -196,7 +200,7 @@ var createCSV = function () {
 	var results = Object.keys(tree).sort().map(function(key) {
 		return mergeQueries(tree[key])
 	});
-	
+
 	var stringifier = csv.stringify({delimiter: ';'});
 	var writeStream = fs.createWriteStream(folder + 'vifanord.csv');
 	streamify(results).pipe(stringifier).pipe(writeStream);
