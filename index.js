@@ -12,6 +12,49 @@ var kielData = {};
 var tree = {};
 
 
+var kielRegionSearch = {
+	'fi': ['reg 25.3*'],
+	'se': ['reg 25.6*'],
+	'no': ['reg 25.5*'],
+	'dk': ['reg 25.2', 'reg 25.21*', 'reg 25.22*', 'reg 25.23*'],
+	'ic': ['reg 25.4*'],
+	'gro': ['reg 25.25*'],
+	'fae': ['reg 25.24*']
+};
+
+// zum Umordnen: alte ID -> neue ID
+var IDMapping = {
+	'4XX': 'vn11',
+	'8XX': 'vn12',
+	'9XX': 'vn2',
+	'3XX': 'vn3',
+	'2XX': 'vn4',
+	'7XX': 'vn5',
+	'AX': 'vn6',
+	'A1': 'vn61',
+	'A2': 'vn62',
+	'A5': 'vn63',
+	'A6': 'vn64',
+	'0XX': 'vn65',
+};
+
+// neues Elternelement einfügen: ID -> neues Elternelement
+var parentRemapping = {
+	'vn11': 'vn1',
+	'vn12': 'vn1',
+	'vn65': 'vn6',
+};
+
+var extraLines = [
+	{
+		'id': 'vn1',
+		'parent': 'vifanord-ROOT',
+		'name_DE': 'Philologie und Literatur',
+		'query': '',
+		'name_EN': 'Language and Literature'
+	}
+];
+
 var makeParser = function (resultObject, next) {
 	var parser = csv.parse({columns: true, delimiter: ','});
 	var line = 0;
@@ -43,16 +86,6 @@ var readFileIntoObject = function (fileName, targetObject, next) {
 	var filePath = folder + fileName;
 	fs.createReadStream(filePath).pipe(parser);
 }
-
-var kielRegionSearch = {
-	'fi': ['reg 25.3*'],
-	'se': ['reg 25.6*'],
-	'no': ['reg 25.5*'],
-	'dk': ['reg 25.2', 'reg 25.21*', 'reg 25.22*', 'reg 25.23*'],
-	'ic': ['reg 25.4*'],
-	'gro': ['reg 25.25*'],
-	'fae': ['reg 25.24*']
-};
 
 
 var makeBaseLine = function (value) {
@@ -101,12 +134,10 @@ var addQueriesToLine = function (line, library, libraryQueries) {
 				if (picaQuery && picaQuery.length > 1) {
 					picaQuery = picaQuery.replace(/\s+/, ' ').replace(/^\s+/, '');
 					line.search.goe[region] = makePazpar2Query(picaQuery, '7');
-					console.log(line.search.goe[region]);
 				}				
 			});
 		}
 	}
-	console.log(line);
 };
 
 
@@ -151,7 +182,7 @@ var processData = function () {
 			addQueriesToLine(tree[key], 'kiel', kielData);
 		} 	
 	});
-	
+
 	createCSV();
 };
 
@@ -163,20 +194,45 @@ var makeDDCQuery = function(ddc) {
 
 
 // Ergebnis ausgeben
-var mergeQueries = function (entry) {
+var cleanQueries = function (entry) {
 	var result = JSON.parse(JSON.stringify(entry));
-	result.query = entry.search;
+
+	var replacementID = IDMapping[result.id];
+	if (replacementID) {
+		result.id = replacementID;
+	}
+	var replacementParentID = parentRemapping[result.id] || IDMapping[result.parent];
+	if (replacementParentID) {
+		result.parent = replacementParentID;
+	}
+
+	if (Object.keys(entry.search.goe).length === 0) {
+		delete entry.search.goe;
+	}
+	if (entry.search.kiel.length === 0)  {
+		delete entry.search.kiel;
+	}
+	
+	if (Object.keys(entry.search).length > 0) {
+		result.query = JSON.stringify(entry.search);
+	}
+
 	delete result.search;
 	delete result.ddc;
 	delete result.display;
+
 	return result;
 };
 
 
 var createCSV = function () {
-	var results = Object.keys(tree).sort().map(function(key) {
-		return mergeQueries(tree[key])
-	});
+	var results = extraLines.concat(
+		Object.keys(tree).sort().map(function(key) {
+			var clean = cleanQueries(tree[key]);
+
+			return clean;
+		})
+	);
 
 	var stringifier = csv.stringify({delimiter: ';'});
 	var writeStream = fs.createWriteStream(folder + 'vifanord.csv');
