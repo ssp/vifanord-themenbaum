@@ -4,15 +4,10 @@ var fs = require('fs');
 var csv = require('csv');
 var streamify = require('stream-array');
 
-var queryTypes = {
-	//hgw:'lklhgw',
-	sub:'lkl',
-	kiel:'kiss'
-};
 var folder = __dirname + '/data/';
 
 var hgwData = {};
-var subData = {};
+var goeData = {};
 var kielData = {};
 var tree = {};
 
@@ -49,6 +44,16 @@ var readFileIntoObject = function (fileName, targetObject, next) {
 	fs.createReadStream(filePath).pipe(parser);
 }
 
+var kielRegionSearch = {
+	'fi': ['reg 25.3*'],
+	'se': ['reg 25.6*'],
+	'no': ['reg 25.5*'],
+	'dk': ['reg 25.2', 'reg 25.21*', 'reg 25.22*', 'reg 25.23*'],
+	'ic': ['reg 25.4*'],
+	'gro': ['reg 25.25*'],
+	'fae': ['reg 25.24*']
+};
+
 
 var makeBaseLine = function (value) {
 	return {
@@ -60,33 +65,21 @@ var makeBaseLine = function (value) {
 		display: value.display,
 		ddc: value.ddc,
 		search: {
-			'all': {},
-			'nord': {},
-			'sca': {},
-			'fi': {},
-			'se': {},
-			'no': {},
-			'dk': {},
-			'ic': {},
-			'gro': {},
-			'fae': {},
-			//'bal': {},
-			//'ee': {},
-			//'lv': {},
-			//'lt': {},
+			'goe': {},
+			'kiel': []
 		},
 	};
 };
 
 
 // Abfragen umschreiben
-var makePazpar2Query = function (picaQuery, querytype) {
+var makePazpar2Query = function (picaQuery, library) {
     var pazpar2Query = picaQuery 
       	? picaQuery
 			.toLowerCase() // Kleinschreibung
 			.replace(/[*?]+/g, "?") // Trunkierung mit ? und nur einfach
-			.replace(/(or (?!\()|not (?!\()|and (?!\()|\(|^)/g, "$1" + querytype + "=\"") // öffnende Klammern
-			.replace(/(\)( |$)| or| not| and|$)/g, "\"$1") // schließende Klammern
+			.replace(/(or (?!\()|not (?!\()|and (?!\()|\(|^)/g, "$1" + " lsg='" + library + " ") // öffnende Klammern
+			.replace(/(\)( |$)| or| not| and|$)/g, "'$1") // schließende Klammern
 	  		.replace(/\)"$/, ")") // ")" am Ende des Ausdrucks kompensieren
 		: "";
 	return pazpar2Query;
@@ -94,25 +87,26 @@ var makePazpar2Query = function (picaQuery, querytype) {
 
 
 var addQueriesToLine = function (line, library, libraryQueries) {
-	Object.keys(line.search).forEach(function(region) {
-		var libraryLine = libraryQueries[line.id];
-		if (libraryLine) {
-			var picaQuery;
-			if (library === 'kiel') {
-				picaQuery = libraryLine[region];
-				if (picaQuery && picaQuery.length > 1 && !picaQuery.match('#')) {
-					line.search[region][library] = picaQuery.replace(/\*/, '?');
-				}
-			}
-			else {
-				var picaQuery = libraryLine[region + '_ori'];
-				if (picaQuery && picaQuery.length > 1) {
-					picaQuery = picaQuery.replace(/\s+/, ' ');
-					line.search[region][library] = makePazpar2Query(picaQuery, queryTypes[library]);
-				}				
+	var libraryLine = libraryQueries[line.id];
+	if (libraryLine) {
+		if (library === 'kiel') {
+			var kissArrayString = libraryLine['kiss_array'];
+			if (kissArrayString) {
+				line.search.kiel = JSON.parse(libraryLine['kiss_array'].replace(/'/g, "\""));			
 			}
 		}
-	});
+		else {
+			Object.keys(kielRegionSearch).forEach(function(region) {
+				var picaQuery = libraryLine[region + '_ori'];
+				if (picaQuery && picaQuery.length > 1) {
+					picaQuery = picaQuery.replace(/\s+/, ' ').replace(/^\s+/, '');
+					line.search.goe[region] = makePazpar2Query(picaQuery, '7');
+					console.log(line.search.goe[region]);
+				}				
+			});
+		}
+	}
+	console.log(line);
 };
 
 
@@ -120,12 +114,12 @@ var processData = function () {
 	Object.keys(hgwData).forEach(function(key) {
 	    var value = hgwData[key];
 	    var line = makeBaseLine(value);
-	  	addQueriesToLine(line, 'hgw', hgwData);	
+	  	// addQueriesToLine(line, 'hgw', hgwData);	
 		tree[key] = line;	  
 	});
 	
-	Object.keys(subData).forEach(function(key) {
-		var value = subData[key];
+	Object.keys(goeData).forEach(function(key) {
+		var value = goeData[key];
 		if (value) {
 		    var line = makeBaseLine(value);
 			if (tree[key]) {
@@ -137,7 +131,7 @@ var processData = function () {
 			} else {
 				tree[key] = line;
 			}
-			addQueriesToLine(tree[key], 'sub', subData);
+			addQueriesToLine(tree[key], 'goe', goeData);
 		} 
 	});
 	
@@ -171,24 +165,7 @@ var makeDDCQuery = function(ddc) {
 // Ergebnis ausgeben
 var mergeQueries = function (entry) {
 	var result = JSON.parse(JSON.stringify(entry));
-	result.query = {};
-	
-	Object.keys(result.search).forEach(function(region) {
-		var queryParts = [];
-		var queries = result.search[region];
-		if (queries) {
-			var sub = queries.sub;
-			var hgw = queries.hgw;
-			var kiel = queries.kiel;
-			if (sub) queryParts.push(sub);
-			//if (hgw) queryParts.push(hgw);
-			if (kiel) queryParts.push(kiel);
-		}
-		if (result.ddc) queryParts.push(makeDDCQuery(result.ddc));
-
-		var fullQuery = queryParts.length ? '(' + queryParts.join(') or (') + ')' : '';
-		result.query[region] = fullQuery.replace(/"/g, "'");
-	});
+	result.query = entry.search;
 	delete result.search;
 	delete result.ddc;
 	delete result.display;
@@ -212,7 +189,7 @@ var readKiel = function () {
 };
 
 var readSUB = function () {
-	readFileIntoObject('SUB.csv', subData, readKiel);
+	readFileIntoObject('SUB.csv', goeData, readKiel);
 };
 
 var readHGW = function () {

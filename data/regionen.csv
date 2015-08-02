@@ -1,11 +1,10 @@
 NE;ROOT;;;
 vn-geo;NE;Nordische Länder;;Nordic Countries
-vn-geo-310;vn-geo;Skandinavien;region=sca;Scandinavia
-vn-geo-311;vn-geo-310;Dänemark;region=dk;Denmark
-vn-geo-312;vn-geo-310;Grönland;region=gro;Greenland
-vn-geo-313;vn-geo-310;Färöer;region=fae;Faroe Islands
-vn-geo-314;vn-geo-310;Island;region=ic;Iceland
-vn-geo-315;vn-geo-310;Norwegen;region=no;Norway
-vn-geo-316;vn-geo-310;Schweden;region=se;Sweden
-vn-geo-320;vn-geo;Finnland;;Finland
-vn-geo-321;vn-geo-320;Finnland;region=fi;Finland
+vn-geo-100;vn-geo;Nordische Länder;region=sca;Nordic Countries
+vn-geo-110;vn-geo-100;Finnland;region=fi;Finland
+vn-geo-120;vn-geo-100;Norwegen;region=no;Norway
+vn-geo-130;vn-geo-100;Schweden;region=se;Sweden
+vn-geo-140;vn-geo-100;Dänemark;region=dk;Denmark
+vn-geo-150;vn-geo-100;Grönland;region=gro;Greenland
+vn-geo-160;vn-geo-100;Färöer;region=fae;Faroe Islands
+vn-geo-170;vn-geo-100;Island;region=ic;Iceland
