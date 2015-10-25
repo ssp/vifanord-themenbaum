@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Bearbeitung der Daten für den vifanord Themenbaum",
   "main": "index.js",
+  "main2": "index2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
