@@ -126,17 +126,23 @@ let next = function () {
 	
 	// ausgeben
 	let resultLines = [];
-	for (var id in lines) {
+	let sortedKeys = Object.keys(lines).sort();
+	for (var index in sortedKeys) {
+		let id = sortedKeys[index];
 		let line = lines[id];
-		let resultLine = {
-			id: line['ID'],
-			parent: line['parent ID'],
-			de: line['DE merge'],
-			query: JSON.stringify(line['fullquery']).replace(/\s*"/g, '"').replace(/\*/g, '?'),
-			en: line['EN merge']
+		if (line && line['ID']) {
+			let resultLine = {
+				id: line['ID'],
+				parent: line['parent ID'],
+				de: line['DE merge'],
+				query: JSON.stringify(line['fullquery']).replace(/\s*"/g, '"').replace(/\*/g, '?'),
+				en: line['EN merge']
+			};
+			resultLines.push(resultLine);
 		}
-		resultLines.push(resultLine);
-		console.log(resultLine);
+		else {
+			console.log('Zeile für ID ' + id + ' funktioniert nicht: ' + JSON.stringify(line));
+		}
 	}
 	
 	let stringifier = csv.stringify({delimiter: ';'});
