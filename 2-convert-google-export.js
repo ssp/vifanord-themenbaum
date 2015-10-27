@@ -91,7 +91,11 @@ let hierarchicallyImproveGoe = function (line) {
 	}
 
 	if (goequery) {
-		return JSON.parse(goequery);
+		let parsed = JSON.parse(goequery);
+		for (var region in parsed) {
+			parsed[region] = parsed[region].replace(/'/g, '"');
+		}
+		return parsed;
 	}
 
 	return null;
