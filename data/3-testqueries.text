@@ -1,0 +1,3891 @@
+001: Wissen und Wissenschaftskunde
+init -> Session ID 937134593
+search »(lsg="7 agr 100")« ->
+OK
+
+002: Buchkunde
+init -> Session ID 937134594
+search »((lsg="8 kom 885?" or lsg="8 kom 896?" or lsg="8 kom 901?" or lsg="8 kom 918.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+002: Buchkunde
+init -> Session ID 937134851
+search »(lsg="7 ar?" or lsg="7 as?")« ->
+OK
+
+00X: Informatik, Wissen, das Buch
+init -> Session ID 937134852
+search »((lsg="8 kom 885?" or lsg="8 kom 896?" or lsg="8 kom 901?" or lsg="8 kom 918.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+00X: Informatik, Wissen, das Buch
+init -> Session ID 937135109
+search »(lsg="7 ah?" or lsg="7 agr 100" or lsg="7 ar?" or lsg="7 as?")« ->
+OK
+
+01X: Allgemeinbibliografien (nicht themenbezogen)
+init -> Session ID 937135110
+search »((lsg="8 ska 003.000" or lsg="8 ska 015.000" or lsg="8 ska 033.000" or lsg="8 ska 035.000" or lsg="8 ska 037.000" or lsg="8 ska 048.000" or lsg="8 ska 077.000" or lsg="8 ska 146.700" or lsg="8 ska 153.000" or lsg="8 ska 161.000" or lsg="8 ska 163.000" or lsg="8 ska 168.000" or lsg="8 ska 670.000" or lsg="8 ska 870.000" or lsg="8 ska 914.000" or lsg="8 lan 543.000" or lsg="8 kom 842?" or lsg="8 kom 841k" or lsg="8 kom 876?" or lsg="8 ska 222.000" or lsg="8 jus 941.100" or lsg="8 jus 942.000" or lsg="8 jus 949.000" or lsg="8 jus 954.000" or lsg="8 jus 956.000") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+01X: Allgemeinbibliografien (nicht themenbezogen)
+init -> Session ID 937135111
+search »(lsg="8 nor 001?" or lsg="8 nor 210.000" or lsg="8 nor 251.200" or lsg="8 nor 280.200" or lsg="8 nor 340.000" or lsg="8 nor 460.000" or lsg="8 nor 500.000" or lsg="8 nor 610.000")« ->
+OK
+
+01X: Allgemeinbibliografien (nicht themenbezogen)
+init -> Session ID 937135368
+search »(lsg="7 aj?" or lsg="7 ak?" or lsg="7 al?" or lsg="7 am?")« ->
+OK
+
+020: Allgemeines
+init -> Session ID 937135369
+search »((lsg="8 kom 474?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+020: Allgemeines
+init -> Session ID 937135626
+search »(lsg="7 aw?" or lsg="7 ax?" or lsg="7 ag?")« ->
+OK
+
+021: Beziehungen zwischen Bibliotheken
+init -> Session ID 937135627
+search »(lsg="7 awd 700")« ->
+OK
+
+022: Verwaltung von Bibliotheksgebäuden
+init -> Session ID 937135884
+search »(lsg="7 awn 000" or lsg="7 awn 600" or lsg="7 awd 100")« ->
+OK
+
+023: Personalwesen
+init -> Session ID 937135885
+search »(lsg="7 awa 5?-awa 8?")« ->
+OK
+
+025: Bibliothekarische Tätigkeiten
+init -> Session ID 937135886
+search »(lsg="7 awd?" or lsg="7 awf?" or lsg="7 awg?" or lsg="7 awh?" or lsg="7 awk?" not lsg="7 awd 0?" not lsg="7 awd 11?")« ->
+OK
+
+026: Spezialbibliotheken
+init -> Session ID 937136143
+search »(lsg="7 awp 150")« ->
+OK
+
+027: Allgemeinbibliotheken
+init -> Session ID 937136144
+search »((lsg="8 kom 495?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+027: Allgemeinbibliotheken
+init -> Session ID 937136401
+search »(lsg="7 awp? ( lsg="7" not lsg="7 awp 150")")« ->
+OK
+
+02X: Bibliotheks- und Informationswissenschaften
+init -> Session ID 937136402
+search »((lsg="8 kom 474?" or lsg="8 kom 495?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+02X: Bibliotheks- und Informationswissenschaften
+init -> Session ID 937136659
+search »(lsg="7 aw?" or lsg="7 ax?" or lsg="7 ag?")« ->
+OK
+
+03X: Enzyklopädien
+init -> Session ID 937136660
+search »((lsg="8 ska 015.080" or lsg="8 ska 048.080" or lsg="8 ska 077.080" or lsg="8 lan 543.092" or lsg="8 all 38?" or lsg="8 all 39?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+03X: Enzyklopädien
+init -> Session ID 937136661
+search »(lsg="8 nor 251.300")« ->
+OK
+
+03X: Enzyklopädien
+init -> Session ID 937136918
+search »(lsg="7 aaa?")« ->
+OK
+
+05X: Zeitschriften, allgemeine fortlaufende Sammelwerke
+init -> Session ID 937136919
+search »((lsg="8 all 2?" or lsg="8 all 300" or lsg="8 all 33?" or lsg="8 all 340?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+05X: Zeitschriften, allgemeine fortlaufende Sammelwerke
+init -> Session ID 937137176
+search »(lsg="8 nor 208?")« ->
+OK
+
+05X: Zeitschriften, allgemeine fortlaufende Sammelwerke
+init -> Session ID 937137177
+search »(lsg="7 arl 19?-arl 22?" or lsg="7 arm 370")« ->
+OK
+
+060: Allgemeine Organisationen
+init -> Session ID 937137434
+search »(lsg="7 ada 000")« ->
+OK
+
+069: Museumswissenschaft
+init -> Session ID 937137435
+search »(lsg="7 ad 000 ")« ->
+OK
+
+06X: Allgemeine Organisationen, Museumswissenschaft
+init -> Session ID 937137436
+search »(lsg="7 ad 000" or lsg="7 ada 000" or lsg="7 adb 000" or lsg="7 adf 000" or lsg="7 adn 000")« ->
+OK
+
+07X: Publizistische Medien, Journalismus, Verlagswesen
+init -> Session ID 937137693
+search »((lsg="8 kom 740.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+07X: Publizistische Medien, Journalismus, Verlagswesen
+init -> Session ID 937137694
+search »(lsg="7 bb 1?" or lsg="7 bba 1?" or lsg="7 bbb" or lsg="7 bc 1?" or lsg="7 au? ")« ->
+OK
+
+08X: Allgemeine Sammelwerke, Zitatensammlungen
+init -> Session ID 937137951
+search »(lsg="7 arl 040")« ->
+OK
+
+20X: Allgemeines
+init -> Session ID 937137952
+search »((lsg="8 ska 357?" or lsg="8 ska 476?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+20X: Allgemeines
+init -> Session ID 937137953
+search »(lsg="7 ca?")« ->
+OK
+
+251: Zeitlich übergreifend
+init -> Session ID 937138210
+search »((lsg="8 ska 212?" or lsg="8 ska 213?" or lsg="8 ska 214?" or lsg="8 ska 220?" or lsg="8 jus 944.5" or lsg="8 jus 950.200" or lsg="8 jus 957.200" or lsg="8 jus 953.200" or lsg="8 jus 955.250") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+252: Mittelalter
+init -> Session ID 937138211
+search »((lsg="8 ska 347?" or lsg="8 ska 348?" or lsg="8 ska 349?" or lsg="8 ska 355?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+253: Frühe Neuzeit
+init -> Session ID 937138468
+search »((lsg="8 ska 481?" or lsg="8 ska 483?" or lsg="8 ska 487?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+254: 19. Jahrhundert
+init -> Session ID 937138469
+search »((lsg="8 ska 656?" or lsg="8 ska 658?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+255: 20. Jahrhundert
+init -> Session ID 937138470
+search »((lsg="8 ska 656?" or lsg="8 ska 865?" or lsg="8 ska 658?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+25X: Kirchenorganisation
+init -> Session ID 937138727
+search »((lsg="8 ska 212?" or lsg="8 ska 213?" or lsg="8 ska 214?" or lsg="8 ska 220?" or lsg="8 jus 944.5" or lsg="8 jus 950.200" or lsg="8 jus 957.200" or lsg="8 jus 953.200" or lsg="8 jus 955.250" or lsg="8 ska 347?" or lsg="8 ska 348?" or lsg="8 ska 349?" or lsg="8 ska 355?" or lsg="8 ska 481?" or lsg="8 ska 483?" or lsg="8 ska 487?" or lsg="8 ska 656?" or lsg="8 ska 658?" or lsg="8 ska 656?" or lsg="8 ska 865?" or lsg="8 ska 658?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+26X: Mission
+init -> Session ID 937138728
+search »((lsg="8 ska 486?" or lsg="8 ska 664?" or lsg="8 ska 867.200" or lsg="8 ska 867.600" or lsg="8 ska 867.800" or lsg="8 gsd 495?" or lsg="8 gsd 503?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+26X: Mission
+init -> Session ID 937138985
+search »(lsg="7 cza 000")« ->
+OK
+
+271: Zeitlich übergreifend
+init -> Session ID 937138986
+search »((lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 ska 209.800" or lsg="8 ska 218?" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+272: Mittelalter
+init -> Session ID 937138987
+search »((lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 343?" or lsg="8 ska 344?" or lsg="8 ska 984?" or lsg="8 rel 491:bir 3" or lsg="8 gsd 475?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+273: Frühe Neuzeit
+init -> Session ID 937139244
+search »((lsg="8 ska 489?" or lsg="8 ska 984?" or lsg="8 gsd 475?" or lsg="8 gsd 485?" or lsg="8 gsd 970.40") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+274: 19. Jahrhundert
+init -> Session ID 937139245
+search »((lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 gsd 485?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+275: 20. Jahrhundert
+init -> Session ID 937139502
+search »((lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 864?" or lsg="8 ska 869?" or lsg="8 ska 867.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+27X: Geschichte des Christentums in Europa
+init -> Session ID 937139503
+search »((lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 ska 209.800" or lsg="8 ska 218?" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60" or lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 343?" or lsg="8 ska 344?" or lsg="8 ska 984?" or lsg="8 rel 491:bir 3" or lsg="8 gsd 475?" or lsg="8 ska 489?" or lsg="8 ska 984?" or lsg="8 gsd 475?" or lsg="8 gsd 485?" or lsg="8 gsd 970.40" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 gsd 485?" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 864?" or lsg="8 ska 869?" or lsg="8 ska 867.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+27X: Geschichte des Christentums in Europa
+init -> Session ID 937139504
+search »(lsg="7 ci?" or lsg="7 qum 700")« ->
+OK
+
+281: Alte Kirche, Ostkirche
+init -> Session ID 937139761
+search »(lsg="7 civ 360")« ->
+OK
+
+282: Katholische Kirche
+init -> Session ID 937139762
+search »((lsg="8 ska 220.100" or lsg="8 ska 353?" or lsg="8 ska 479?" or lsg="8 ska 661?" or lsg="8 ska 866.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+282: Katholische Kirche
+init -> Session ID 937140019
+search »(lsg="7 cih 000")« ->
+OK
+
+284: Protestantische Konfession
+init -> Session ID 937140020
+search »((lsg="8 ska 479?" or lsg="8 rel 719?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+284: Protestantische Konfession
+init -> Session ID 937140277
+search »(lsg="7 cik 100")« ->
+OK
+
+289: Andere christliche Konfessionen und Sekten
+init -> Session ID 937140278
+search »((lsg="8 ska 221?" or lsg="8 ska 488?" or lsg="8 ska 662?" or lsg="8 ska 866.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+289: Andere christliche Konfessionen und Sekten
+init -> Session ID 937140279
+search »(lsg="7 cix 000")« ->
+OK
+
+28X: Christliche Konfessionen
+init -> Session ID 937140536
+search »((lsg="8 ska 220.100" or lsg="8 ska 353?" or lsg="8 ska 479?" or lsg="8 ska 661?" or lsg="8 ska 866.100" or lsg="8 ska 479?" or lsg="8 rel 719?" or lsg="8 ska 221?" or lsg="8 ska 488?" or lsg="8 ska 662?" or lsg="8 ska 866.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+28X: Christliche Konfessionen
+init -> Session ID 937140537
+search »(( lsg="7 civ 360") or ( lsg="7 cih 000") or ( lsg="7 cik 100") or ( lsg="7 cix 000"))« ->
+OK
+
+29X: Andere Religionen, Mythologie
+init -> Session ID 937140794
+search »(lsg="7 cb?")« ->
+OK
+
+300: Allgemeines
+init -> Session ID 937140795
+search »((lsg="8 ska 800?" or lsg="8 soz 212?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+300: Allgemeines
+init -> Session ID 937140796
+search »(lsg="7 le?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+301: Soziologie, Anthropologie, Länderanalysen
+init -> Session ID 937141053
+search »((lsg="8 ska 802?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+301: Soziologie, Anthropologie, Länderanalysen
+init -> Session ID 937141054
+search »(lsg="7 le?" or lsg="7 qua 100" or lsg="7 qm 190" or lsg="7 qm 140" or lsg="7 qm 145" or lsg="7 qe?" or lsg="7 wz 000" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 le 050" or lsg="7 dk 000")« ->
+OK
+
+302: Soziale Interaktion
+init -> Session ID 937141311
+search »((lsg="8 ska 805?" or lsg="8 ska 935?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+302: Soziale Interaktion
+init -> Session ID 937141312
+search »(lsg="7 lec 120" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+303: Gesellschaftliche Prozesse
+init -> Session ID 937141313
+search »((lsg="8 ska 200?" or lsg="8 ska 326?" or lsg="8 ska 464?" or lsg="8 ska 628?" or lsg="8 ska 862?" or lsg="8 soz 475.5") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+303: Gesellschaftliche Prozesse
+init -> Session ID 937141570
+search »(lsg="7 lem 67?-lem 71?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+304: Das Sozialverhalten beeinflussende Faktoren
+init -> Session ID 937141571
+search »((lsg="8 ska 932?" or lsg="8 ska 180.100" or lsg="8 ska 310.100" or lsg="8 ska 441.100" or lsg="8 ska 577?" or lsg="8 ska 578" or lsg="8 ska 577?" or lsg="8 ska 578" or lsg="8 ska 834?" or lsg="8 ska 835?" or lsg="8 soz 610?" or lsg="8 ska 180.200" or lsg="8 ska 441.200" or lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?" or lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?" or lsg="8 ska 836?" or lsg="8 ska 837?" or lsg="8 ska 839?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304: Das Sozialverhalten beeinflussende Faktoren
+init -> Session ID 937141828
+search »(lsg="7 lei 430" or lsg="7 fch?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+304.1: Allgemeines, Umwelt, Soziobiologie
+init -> Session ID 937141829
+search »((lsg="8 ska 932?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.1: Allgemeines, Umwelt, Soziobiologie
+init -> Session ID 937142086
+search »(lsg="7 wxo 000" or lsg="7 wq?")« ->
+OK
+
+304.61: Zeitlich übergreifend
+init -> Session ID 937142087
+search »((lsg="8 ska 180.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.61: Zeitlich übergreifend
+init -> Session ID 937142344
+search »(lsg="7 pnn 300 ")« ->
+OK
+
+304.62: Mittelalter
+init -> Session ID 937142345
+search »((lsg="8 ska 310.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.62: Mittelalter
+init -> Session ID 937142602
+search »(lsg="7 pno 300")« ->
+OK
+
+304.63: Frühe Neuzeit
+init -> Session ID 937142603
+search »((lsg="8 ska 441.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.63: Frühe Neuzeit
+init -> Session ID 937142860
+search »(lsg="7 pnp 300")« ->
+OK
+
+304.64: 19. Jahrhundert
+init -> Session ID 937142861
+search »((lsg="8 ska 577?" or lsg="8 ska 578") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.64: 19. Jahrhundert
+init -> Session ID 937142862
+search »(lsg="7 pnq 300")« ->
+OK
+
+304.65: 20. Jahrhundert
+init -> Session ID 937143119
+search »((lsg="8 ska 577?" or lsg="8 ska 578" or lsg="8 ska 834?" or lsg="8 ska 835?" or lsg="8 soz 610?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.65: 20. Jahrhundert
+init -> Session ID 937143120
+search »(lsg="7 pnr 300")« ->
+OK
+
+304.6X: Bevölkerung, Demographie
+init -> Session ID 937143377
+search »((lsg="8 ska 180.100" or lsg="8 ska 310.100" or lsg="8 ska 441.100" or lsg="8 ska 577?" or lsg="8 ska 578" or lsg="8 ska 577?" or lsg="8 ska 578" or lsg="8 ska 834?" or lsg="8 ska 835?" or lsg="8 soz 610?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.6X: Bevölkerung, Demographie
+init -> Session ID 937143378
+search »(lsg="7 ld?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+304.81: Zeitlich übergreifend
+init -> Session ID 937143635
+search »((lsg="8 ska 180.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.81: Zeitlich übergreifend
+init -> Session ID 937143636
+search »(lsg="7 pnn 300")« ->
+OK
+
+304.82: Mittelalter
+init -> Session ID 937143637
+search »(lsg="7 pno 300")« ->
+OK
+
+304.83: Frühe Neuzeit
+init -> Session ID 937143894
+search »((lsg="8 ska 441.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.83: Frühe Neuzeit
+init -> Session ID 937143895
+search »(lsg="7 pnp 300")« ->
+OK
+
+304.84: 19. Jahrhundert
+init -> Session ID 937144152
+search »((lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.84: 19. Jahrhundert
+init -> Session ID 937144153
+search »(lsg="7 pnq 300")« ->
+OK
+
+304.85: 20. Jahrhundert
+init -> Session ID 937144154
+search »((lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?" or lsg="8 ska 836?" or lsg="8 ska 837?" or lsg="8 ska 839?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.85: 20. Jahrhundert
+init -> Session ID 937144411
+search »(lsg="7 pnr 300")« ->
+OK
+
+304.8X: Migration
+init -> Session ID 937144412
+search »((lsg="8 ska 180.200" or lsg="8 ska 441.200" or lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?" or lsg="8 ska 578k" or lsg="8 ska 579?" or lsg="8 ska 580?" or lsg="8 ska 581?" or lsg="8 ska 584?" or lsg="8 ska 836?" or lsg="8 ska 837?" or lsg="8 ska 839?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+304.8X: Migration
+init -> Session ID 937144669
+search »(lsg="7 ldf?" or lsg="7 ldi?" or lsg="7 qub 500" or lsg="7 nqd 370" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+305.1: Allgemeines
+init -> Session ID 937144670
+search »((lsg="8 ska 180.800" or lsg="8 ska 310.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.1: Allgemeines
+init -> Session ID 937144671
+search »(lsg="7 lee 130" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+305.21: Zeitlich übergreifend
+init -> Session ID 937144928
+search »((lsg="8 ska 180.600" or lsg="8 ska 185.500" or lsg="8 ska 185.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.21: Zeitlich übergreifend
+init -> Session ID 937144929
+search »(lsg="7 pnn 300")« ->
+OK
+
+305.22: Mittelalter
+init -> Session ID 937145186
+search »((lsg="8 ska 310.600" or lsg="8 ska 314.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.22: Mittelalter
+init -> Session ID 937145187
+search »(lsg="7 pno 300")« ->
+OK
+
+305.23: Frühe Neuzeit
+init -> Session ID 937145444
+search »((lsg="8 ska 441.600" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.23: Frühe Neuzeit
+init -> Session ID 937145445
+search »(lsg="7 pnp 300")« ->
+OK
+
+305.24: 19. Jahrhundert
+init -> Session ID 937145446
+search »((lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.24: 19. Jahrhundert
+init -> Session ID 937145703
+search »(lsg="7 pnq 300")« ->
+OK
+
+305.25: 20. Jahrhundert
+init -> Session ID 937145704
+search »((lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 814.100" or lsg="8 ska 814.200" or lsg="8 ska 814.300" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.25: 20. Jahrhundert
+init -> Session ID 937145961
+search »(lsg="7 pnr 300")« ->
+OK
+
+305.2X: Schichten, Klassen, Milieu
+init -> Session ID 937145962
+search »((lsg="8 ska 180.600" or lsg="8 ska 185.500" or lsg="8 ska 185.700" or lsg="8 ska 310.600" or lsg="8 ska 314.700" or lsg="8 ska 441.600" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800" or lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 814.100" or lsg="8 ska 814.200" or lsg="8 ska 814.300" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.2X: Schichten, Klassen, Milieu
+init -> Session ID 937146219
+search »(lsg="7 lem 72?-lem 75?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 leq 800")« ->
+OK
+
+305.3: Altersgruppen
+init -> Session ID 937146220
+search »((lsg="8 ska 441.800" or lsg="8 ska 592.700" or lsg="8 ska 825?" or lsg="8 soz 534?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.3: Altersgruppen
+init -> Session ID 937146477
+search »(lsg="7 lei 44?-lei 53?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 quc 100" or lsg="7 quc 5?" or lsg="7 quc 6? ")« ->
+OK
+
+305.41: Zeitlich übergreifend
+init -> Session ID 937146478
+search »(lsg="7 leg 350" or lsg="7 gs 000" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+305.42: Mittelalter
+init -> Session ID 937146479
+search »(lsg="7 pno 300" or lsg="7 gs 000")« ->
+OK
+
+305.43: Frühe Neuzeit
+init -> Session ID 937146736
+search »((lsg="8 ska 441.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.43: Frühe Neuzeit
+init -> Session ID 937146737
+search »(lsg="7 pnp 300" or lsg="7 gs 000")« ->
+OK
+
+305.44: 19. Jahrhundert
+init -> Session ID 937146994
+search »((lsg="8 ska 592?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.44: 19. Jahrhundert
+init -> Session ID 937146995
+search »(lsg="7 pnq 300" or lsg="7 gs 000")« ->
+OK
+
+305.45: 20. Jahrhundert
+init -> Session ID 937146996
+search »((lsg="8 ska 592?" or lsg="8 ska 818?" or lsg="8 ska 819?" or lsg="8 soz 518?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.45: 20. Jahrhundert
+init -> Session ID 937147253
+search »(lsg="7 pnr 300" or lsg="7 gs 000")« ->
+OK
+
+305.46: Geschichte der Frau
+init -> Session ID 937147254
+search »((lsg="8 ska 819?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.4X: Männer und Frauen, Geschlechterrolle
+init -> Session ID 937147511
+search »((lsg="8 ska 441.800" or lsg="8 ska 592?" or lsg="8 ska 592?" or lsg="8 ska 818?" or lsg="8 ska 819?" or lsg="8 soz 518?" or lsg="8 ska 819?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.4X: Männer und Frauen, Geschlechterrolle
+init -> Session ID 937147512
+search »(lsg="7 leg 28?-leg 37?" or lsg="7 gs 000" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 quc 1?-quc 4?")« ->
+OK
+
+305.81: Zeitlich übergreifend
+init -> Session ID 937147513
+search »((lsg="8 ska 180.400" or lsg="8 ska 180.420" or lsg="8 ska 180.440" or lsg="8 ska 180.480" or lsg="8 ska 180.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.82: Mittelalter
+init -> Session ID 937147770
+search »((lsg="8 ska 310.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.83: Frühe Neuzeit
+init -> Session ID 937147771
+search »((lsg="8 ska 441.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.84: 19. Jahrhundert
+init -> Session ID 937148028
+search »((lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 586.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.85: 20. Jahrhundert
+init -> Session ID 937148029
+search »((lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 810?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.8X: Nationale und ethnische Gruppen
+init -> Session ID 937148286
+search »((lsg="8 ska 180.400" or lsg="8 ska 180.420" or lsg="8 ska 180.440" or lsg="8 ska 180.480" or lsg="8 ska 180.500" or lsg="8 ska 310.400" or lsg="8 ska 441.400" or lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 586.400" or lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 810?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.8X: Nationale und ethnische Gruppen
+init -> Session ID 937148287
+search »(lsg="7 qub 400" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 lei 490" or lsg="7 lew 90?-lew 92?" or lsg="7 quc 900")« ->
+OK
+
+305.91: Zeitlich übergreifend
+init -> Session ID 937148288
+search »((lsg="8 ska 180.400" or lsg="8 ska 180.520") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.91: Zeitlich übergreifend
+init -> Session ID 937148545
+search »(lsg="7 pnn 300")« ->
+OK
+
+305.92: Mittelalter
+init -> Session ID 937148546
+search »((lsg="8 ska 310.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.92: Mittelalter
+init -> Session ID 937148803
+search »(lsg="7 pno 300")« ->
+OK
+
+305.93: Frühe Neuzeit
+init -> Session ID 937148804
+search »((lsg="8 ska 441.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.93: Frühe Neuzeit
+init -> Session ID 937149061
+search »(lsg="7 pnp 300")« ->
+OK
+
+305.94: 19. Jahrhundert
+init -> Session ID 937149062
+search »((lsg="8 ska 586.900" or lsg="8 ska 589.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.94: 19. Jahrhundert
+init -> Session ID 937149063
+search »(lsg="7 pnq 300")« ->
+OK
+
+305.95: 20. Jahrhundert
+init -> Session ID 937149320
+search »((lsg="8 ska 586.900" or lsg="8 ska 589.600" or lsg="8 ska 814.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.95: 20. Jahrhundert
+init -> Session ID 937149321
+search »(lsg="7 pnr 300")« ->
+OK
+
+305.9X: Randgruppen, Sonstige Gruppen
+init -> Session ID 937149578
+search »((lsg="8 ska 180.400" or lsg="8 ska 180.520" or lsg="8 ska 310.400" or lsg="8 ska 441.400" or lsg="8 ska 586.900" or lsg="8 ska 589.600" or lsg="8 ska 586.900" or lsg="8 ska 589.600" or lsg="8 ska 814.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.9X: Randgruppen, Sonstige Gruppen
+init -> Session ID 937149579
+search »(lsg="7 qub 400" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 lei 490" or lsg="7 lew 90?-lew 92?" or lsg="7 quc 900")« ->
+OK
+
+305.X: Gesellschaftliche Gruppen
+init -> Session ID 937149836
+search »((lsg="8 ska 180.800" or lsg="8 ska 310.800" or lsg="8 ska 180.600" or lsg="8 ska 185.500" or lsg="8 ska 185.700" or lsg="8 ska 310.600" or lsg="8 ska 314.700" or lsg="8 ska 441.600" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800" or lsg="8 ska 589.100" or lsg="8 ska 589.200" or lsg="8 ska 589.400" or lsg="8 ska 604?" or lsg="8 ska 605?" or lsg="8 ska 814.100" or lsg="8 ska 814.200" or lsg="8 ska 814.300" or lsg="8 ska 597.500" or lsg="8 ska 597.600" or lsg="8 ska 597.700" or lsg="8 ska 597.800" or lsg="8 ska 441.800" or lsg="8 ska 592.700" or lsg="8 ska 825?" or lsg="8 soz 534?" or lsg="8 ska 441.800" or lsg="8 ska 592?" or lsg="8 ska 592?" or lsg="8 ska 818?" or lsg="8 ska 819?" or lsg="8 soz 518?" or lsg="8 ska 819?" or lsg="8 ska 180.400" or lsg="8 ska 180.420" or lsg="8 ska 180.440" or lsg="8 ska 180.480" or lsg="8 ska 180.500" or lsg="8 ska 310.400" or lsg="8 ska 441.400" or lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 586.400" or lsg="8 ska 586.100" or lsg="8 ska 586.200" or lsg="8 ska 586.600" or lsg="8 ska 810?" or lsg="8 ska 180.400" or lsg="8 ska 180.520" or lsg="8 ska 310.400" or lsg="8 ska 441.400" or lsg="8 ska 586.900" or lsg="8 ska 589.600" or lsg="8 ska 586.900" or lsg="8 ska 589.600" or lsg="8 ska 814.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+305.X: Gesellschaftliche Gruppen
+init -> Session ID 937149837
+search »(lsg="7 lee 130" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+306.11: Zeitlich übergreifend
+init -> Session ID 937149838
+search »((lsg="8 ska 185.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.12: Mittelalter
+init -> Session ID 937150095
+search »((lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.13: Frühe Neuzeit
+init -> Session ID 937150096
+search »((lsg="8 ska 438?" or lsg="8 ska 439?" or lsg="8 ska 446.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.14: 19. Jahrhundert
+init -> Session ID 937150353
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.15: 20. Jahrhundert
+init -> Session ID 937150354
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.1X: Sozialgeschichte
+init -> Session ID 937150611
+search »((lsg="8 ska 185.900" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900" or lsg="8 ska 438?" or lsg="8 ska 439?" or lsg="8 ska 446.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.2: Politische Soziologie
+init -> Session ID 937150612
+search »((lsg="8 ska 807?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.2: Politische Soziologie
+init -> Session ID 937150869
+search »(lsg="7 lfn?")« ->
+OK
+
+306.3: Wirtschaftssoziologie
+init -> Session ID 937150870
+search »((lsg="8 ska 830.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.3: Wirtschaftssoziologie
+init -> Session ID 937150871
+search »(lsg="7 lm 06?")« ->
+OK
+
+306.4: Kultursoziologie (Wissen, Religion, Bildung, Kunst, Sprache etc.)
+init -> Session ID 937151128
+search »(lsg="7 lee 220" or lsg="7 pnn 500" or lsg="7 pno 500" or lsg="7 pnp 500" or lsg="7 pnq 500" or lsg="7 pnr 500")« ->
+OK
+
+306.7: Sexualität
+init -> Session ID 937151129
+search »((lsg="8 ska 824?" or lsg="8 ska 960?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.7: Sexualität
+init -> Session ID 937151386
+search »(lsg="7 leg 230")« ->
+OK
+
+306.8: Familiensoziologie
+init -> Session ID 937151387
+search »((lsg="8 ska 817?" or lsg="8 soz 500.095") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.8: Familiensoziologie
+init -> Session ID 937151644
+search »(lsg="7 leg 38?-leg 42?" or lsg="7 quc 400")« ->
+OK
+
+306.9: Sonstiges
+init -> Session ID 937151645
+search »(lsg="7 ley 210")« ->
+OK
+
+306.X: Kultur und Institutionen
+init -> Session ID 937151902
+search »((lsg="8 ska 185.900" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900" or lsg="8 ska 438?" or lsg="8 ska 439?" or lsg="8 ska 446.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 807?" or lsg="8 ska 830.200" or lsg="8 ska 824?" or lsg="8 ska 960?" or lsg="8 ska 817?" or lsg="8 soz 500.095") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+306.X: Kultur und Institutionen
+init -> Session ID 937151903
+search »(lsg="7 pnn 500" or lsg="7 pno 500" or lsg="7 pnp 500" or lsg="7 pnq 500" or lsg="7 pnr 500")« ->
+OK
+
+307: Gemeinden, Gemeinschaften, Stadtsoziologie
+init -> Session ID 937152160
+search »(lsg="7 lee 18?-lee 21?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+30X: Soziologie, Gesellschaft
+init -> Session ID 937152161
+search »((lsg="8 ska 800?" or lsg="8 soz 212?" or lsg="8 ska 802?" or lsg="8 ska 805?" or lsg="8 ska 935?" or lsg="8 ska 200?" or lsg="8 ska 326?" or lsg="8 ska 464?" or lsg="8 ska 628?" or lsg="8 ska 862?" or lsg="8 soz 475.5" or lsg="8 ska 932?" or lsg="8 ska 180.800" or lsg="8 ska 310.800" or lsg="8 ska 441.800" or lsg="8 ska 592.700" or lsg="8 ska 825?" or lsg="8 soz 534?" or lsg="8 ska 807?" or lsg="8 ska 830.200" or lsg="8 ska 824?" or lsg="8 ska 960?" or lsg="8 ska 817?" or lsg="8 soz 500.095") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+30X: Soziologie, Gesellschaft
+init -> Session ID 937152162
+search »(lsg="7 le?" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+31X: Statistik
+init -> Session ID 937152419
+search »((lsg="8 soz 970?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+31X: Statistik
+init -> Session ID 937152420
+search »(lsg="7 lc?" or lsg="7 lca 000")« ->
+OK
+
+320.05: 20. Jahrhundert
+init -> Session ID 937152677
+search »((lsg="8 ska 505?" or lsg="8 ska 699?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.05: 20. Jahrhundert
+init -> Session ID 937152678
+search »(lsg="7 pnr 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lf? ")« ->
+OK
+
+320.0X: nach Zeit
+init -> Session ID 937152935
+search »((lsg="8 pol 560.7" or lsg="8 ska 647?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.0X: nach Zeit
+init -> Session ID 937152936
+search »(( lsg="7 pnn 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lfs?") or ( lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lf?" or lsg="7 pno 200") or ( lsg="7 pnp 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lf? ") or ( lsg="7 pnq 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lf? ") or ( lsg="7 pnr 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lf? "))« ->
+OK
+
+320.1: Politische Theorie
+init -> Session ID 937153193
+search »((lsg="8 pol 560.7") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.1: Politische Theorie
+init -> Session ID 937153194
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+320.41: Zeitlich übergreifend
+init -> Session ID 937153451
+search »((lsg="8 ska 203?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.41: Zeitlich übergreifend
+init -> Session ID 937153452
+search »(lsg="7 pnn 200")« ->
+OK
+
+320.42: Mittelalter
+init -> Session ID 937153453
+search »((lsg="8 ska 334?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.42: Mittelalter
+init -> Session ID 937153710
+search »(lsg="7 pno 200")« ->
+OK
+
+320.43: Frühe Neuzeit
+init -> Session ID 937153711
+search »((lsg="8 ska 471?" or lsg="8 ska 472?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.43: Frühe Neuzeit
+init -> Session ID 937153968
+search »(lsg="7 pnp 200")« ->
+OK
+
+320.44: 19. Jahrhundert
+init -> Session ID 937153969
+search »((lsg="8 ska 645?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.44: 19. Jahrhundert
+init -> Session ID 937154226
+search »(lsg="7 pnq 200 ")« ->
+OK
+
+320.45: 20. Jahrhundert
+init -> Session ID 937154227
+search »((lsg="8 ska 645?" or lsg="8 ska 706?" or lsg="8 ska 708?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.45: 20. Jahrhundert
+init -> Session ID 937154228
+search »(lsg="7 pnr 200")« ->
+OK
+
+320.4X: Regierung
+init -> Session ID 937154485
+search »((lsg="8 ska 203?" or lsg="8 ska 334?" or lsg="8 ska 471?" or lsg="8 ska 472?" or lsg="8 ska 645?" or lsg="8 ska 645?" or lsg="8 ska 706?" or lsg="8 ska 708?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.4X: Regierung
+init -> Session ID 937154486
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfs 120")« ->
+OK
+
+320.5: Politische Ideologien
+init -> Session ID 937154743
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfk?")« ->
+OK
+
+320.8: Kommunalpolitik, regionale Politik
+init -> Session ID 937154744
+search »((lsg="8 ska 647?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.8: Kommunalpolitik, regionale Politik
+init -> Session ID 937155001
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+320.9: Politische Lage und Verhältnisse, Innenpolitik, Politikfelder
+init -> Session ID 937155002
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+320.X: Politisches System und Staat allgemein
+init -> Session ID 937155003
+search »((lsg="8 pol 560.7" or lsg="8 ska 647?" or lsg="8 pol 560.7" or lsg="8 ska 203?" or lsg="8 ska 334?" or lsg="8 ska 471?" or lsg="8 ska 472?" or lsg="8 ska 645?" or lsg="8 ska 645?" or lsg="8 ska 706?" or lsg="8 ska 708?" or lsg="8 ska 647?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+320.X: Politisches System und Staat allgemein
+init -> Session ID 937155260
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfq?" or lsg="7 lfr?" or lsg="7 lfs?")« ->
+OK
+
+321.4: 19. Jahrhundert
+init -> Session ID 937155261
+search »((lsg="8 ska 640?" or lsg="8 ska 642?" or lsg="8 ska 643?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+321.5: 20. Jahrhundert
+init -> Session ID 937155518
+search »((lsg="8 ska 640?" or lsg="8 ska 642?" or lsg="8 ska 643?" or lsg="8 ska 696?" or lsg="8 ska 703?" or lsg="8 ska 710?" or lsg="8 pol 531?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+321.X: Staatsformen und Regierungssysteme
+init -> Session ID 937155519
+search »(lsg="7 lfr?")« ->
+OK
+
+322.11: Zeitlich übergreifend
+init -> Session ID 937155776
+search »((lsg="8 ska 216?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.12: Mittelalter
+init -> Session ID 937155777
+search »((lsg="8 ska 351?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.13: Frühe Neuzeit
+init -> Session ID 937155778
+search »((lsg="8 ska 485?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.14: 19. Jahrhundert
+init -> Session ID 937156035
+search »((lsg="8 ska 660?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.15: 20. Jahrhundert
+init -> Session ID 937156036
+search »((lsg="8 ska 660?" or lsg="8 ska 701?" or lsg="8 ska 868?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.1X: Kirche und Staat
+init -> Session ID 937156293
+search »((lsg="8 ska 216?" or lsg="8 ska 351?" or lsg="8 ska 485?" or lsg="8 ska 660?" or lsg="8 ska 660?" or lsg="8 ska 701?" or lsg="8 ska 868?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+322.X: Beziehungen des Staats zu organisierten Gruppen
+init -> Session ID 937156294
+search »(lsg="7 lfn?" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+323.1: Minderheitenfragen
+init -> Session ID 937156551
+search »((lsg="8 ska 503.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+323.1: Minderheitenfragen
+init -> Session ID 937156552
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 qub 400" or lsg="7 nqd 550" or lsg="7 nqd 700")« ->
+OK
+
+323.4: Meinungs- und Informationsfreiheit
+init -> Session ID 937156553
+search »(lsg="7 nt 375" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+323.X: Grundrechte und politische Rechte
+init -> Session ID 937156810
+search »((lsg="8 ska 503.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+323.X: Grundrechte und politische Rechte
+init -> Session ID 937156811
+search »(lsg="7 nt 37?-nt 39?" or lsg="7 nkd 04?" or lsg="7 nkd 05?" or lsg="7 nkd 06?" or lsg="7 nkd 07?" or lsg="7 nkd 08?" or lsg="7 nkd 09?" or lsg="7 nkd 1?" or lsg="7 nkd 200" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+324.2: Politische Parteien
+init -> Session ID 937157068
+search »((lsg="8 ska 644?" or lsg="8 ska 715?" or lsg="8 ska 716?" or lsg="8 ska 722?" or lsg="8 ska 723?" or lsg="8 ska 727?" or lsg="8 pol 64?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+324.2: Politische Parteien
+init -> Session ID 937157069
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfn 100" or lsg="7 lfn 120")« ->
+OK
+
+324.4: Interessengruppen
+init -> Session ID 937157326
+search »((lsg="8 ska 731?" or lsg="8 ska 733?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+324.6: Wahlsysteme
+init -> Session ID 937157327
+search »(lsg="7 lfs 370" or lsg="7 lfs 400" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+324.X: Der politische Prozess, politischer Einfluss
+init -> Session ID 937157328
+search »((lsg="8 ska 644?" or lsg="8 ska 715?" or lsg="8 ska 716?" or lsg="8 ska 722?" or lsg="8 ska 723?" or lsg="8 ska 727?" or lsg="8 pol 64?" or lsg="8 ska 731?" or lsg="8 ska 733?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+324.X: Der politische Prozess, politischer Einfluss
+init -> Session ID 937157585
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfs?")« ->
+OK
+
+325: Internationale Migration
+init -> Session ID 937157586
+search »((lsg="8 ska 842?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+325: Internationale Migration
+init -> Session ID 937157843
+search »(lsg="7 qub 500" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 nqd 370" or lsg="7 qeg?")« ->
+OK
+
+327.1: Zeitlich übergreifend
+init -> Session ID 937157844
+search »((lsg="8 ska 146.100" or lsg="8 ska 146.200" or lsg="8 ska 146.300" or lsg="8 ska 146.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.1: Zeitlich übergreifend
+init -> Session ID 937158101
+search »(lsg="7 pnn 200")« ->
+OK
+
+327.2: Mittelalter
+init -> Session ID 937158102
+search »((lsg="8 ska 281.200" or lsg="8 ska 281.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.2: Mittelalter
+init -> Session ID 937158359
+search »(lsg="7 pno 200")« ->
+OK
+
+327.3: Frühe Neuzeit
+init -> Session ID 937158360
+search »((lsg="8 ska 379?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.3: Frühe Neuzeit
+init -> Session ID 937158617
+search »(lsg="7 pnp 200")« ->
+OK
+
+327.4: 19. Jahrhundert
+init -> Session ID 937158618
+search »((lsg="8 ska 525?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.4: 19. Jahrhundert
+init -> Session ID 937158619
+search »(lsg="7 pnq 200")« ->
+OK
+
+327.5: 20. Jahrhundert
+init -> Session ID 937158876
+search »((lsg="8 ska 525?" or lsg="8 ska 672?" or lsg="8 pol 854?" or lsg="8 pol 895?" or lsg="8 wir 455.200" or lsg="8 wir 887") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.5: 20. Jahrhundert
+init -> Session ID 937158877
+search »(lsg="7 pnr 200")« ->
+OK
+
+327.X: Internationale Beziehungen, Außenpolitik
+init -> Session ID 937159134
+search »((lsg="8 ska 146.100" or lsg="8 ska 146.200" or lsg="8 ska 146.300" or lsg="8 ska 146.400" or lsg="8 ska 281.200" or lsg="8 ska 281.600" or lsg="8 ska 379?" or lsg="8 ska 525?" or lsg="8 ska 525?" or lsg="8 ska 672?" or lsg="8 pol 854?" or lsg="8 pol 895?" or lsg="8 wir 455.200" or lsg="8 wir 887") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+327.X: Internationale Beziehungen, Außenpolitik
+init -> Session ID 937159135
+search »(lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200" or lsg="7 lfs 46?-lfs 52?")« ->
+OK
+
+328: Parlamente, gesetzgebende Körperschaften, Gesetzgebungsprozess
+init -> Session ID 937159392
+search »(lsg="7 lfs 100" or lsg="7 lfs 120" or lsg="7 nt 445" or lsg="7 nt 450" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+32X: Politikwissenschaft
+init -> Session ID 937159393
+search »((lsg="8 pol 560.7" or lsg="8 ska 647?" or lsg="8 pol 560.7" or lsg="8 ska 647?" or lsg="8 ska 640?" or lsg="8 ska 642?" or lsg="8 ska 643?" or lsg="8 ska 640?" or lsg="8 ska 642?" or lsg="8 ska 643?" or lsg="8 ska 696?" or lsg="8 ska 703?" or lsg="8 ska 710?" or lsg="8 pol 531?" or lsg="8 ska 503.700" or lsg="8 ska 644?" or lsg="8 ska 715?" or lsg="8 ska 716?" or lsg="8 ska 722?" or lsg="8 ska 723?" or lsg="8 ska 727?" or lsg="8 pol 64?" or lsg="8 ska 731?" or lsg="8 ska 733?" or lsg="8 ska 842?" or lsg="8 ska 146.100" or lsg="8 ska 146.200" or lsg="8 ska 146.300" or lsg="8 ska 146.400" or lsg="8 ska 281.200" or lsg="8 ska 281.600" or lsg="8 ska 379?" or lsg="8 ska 525?" or lsg="8 ska 525?" or lsg="8 ska 672?" or lsg="8 pol 854?" or lsg="8 pol 895?" or lsg="8 wir 455.200" or lsg="8 wir 887") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+32X: Politikwissenschaft
+init -> Session ID 937159394
+search »(lsg="7 lf?" or lsg="7 lg?" or lsg="7 lh?")« ->
+OK
+
+330.1: Zeitlich übergreifend
+init -> Session ID 937159651
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+330.2: Mittelalter
+init -> Session ID 937159652
+search »((lsg="8 ska 305?" or lsg="8 ska 308?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+330.3: Frühe Neuzeit
+init -> Session ID 937159909
+search »((lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+330.4: 19. Jahrhundert
+init -> Session ID 937159910
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+330.5: 20. Jahrhundert
+init -> Session ID 937160167
+search »((lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+330.X: Wirtschaftsgeschichte
+init -> Session ID 937160168
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.1: Zeitlich übergreifend
+init -> Session ID 937160169
+search »((lsg="8 wir 471" or lsg="8 wir 472" or lsg="8 wir 473" or lsg="8 wir 474" or lsg="8 wir 475" or lsg="8 wir 476" or lsg="8 wir 911.200" or lsg="8 wir 919" or lsg="8 wir 933" or lsg="8 wir 970.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.1: Zeitlich übergreifend
+init -> Session ID 937160426
+search »(lsg="7 pnn 400")« ->
+OK
+
+331.2: Mittelalter
+init -> Session ID 937160427
+search »((lsg="8 ska 323?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.2: Mittelalter
+init -> Session ID 937160684
+search »(lsg="7 pno 400")« ->
+OK
+
+331.3: Frühe Neuzeit
+init -> Session ID 937160685
+search »((lsg="8 ska 439?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.3: Frühe Neuzeit
+init -> Session ID 937160686
+search »(lsg="7 pnp 400")« ->
+OK
+
+331.4: 19. Jahrhundert
+init -> Session ID 937160943
+search »((lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.4: 19. Jahrhundert
+init -> Session ID 937160944
+search »(lsg="7 pnq 400")« ->
+OK
+
+331.5: 20. Jahrhundert
+init -> Session ID 937161201
+search »((lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.5: 20. Jahrhundert
+init -> Session ID 937161202
+search »(lsg="7 pnr 400")« ->
+OK
+
+331.X: Allgemeines, wirtschaftliche Lage
+init -> Session ID 937161459
+search »((lsg="8 wir 471" or lsg="8 wir 472" or lsg="8 wir 473" or lsg="8 wir 474" or lsg="8 wir 475" or lsg="8 wir 476" or lsg="8 wir 911.200" or lsg="8 wir 919" or lsg="8 wir 933" or lsg="8 wir 970.200" or lsg="8 ska 323?" or lsg="8 ska 439?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+331.X: Allgemeines, wirtschaftliche Lage
+init -> Session ID 937161460
+search »(lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400" or lsg="7 lm 0?")« ->
+OK
+
+332: Arbeitsökonomie, Arbeitsmarkt
+init -> Session ID 937161461
+search »((lsg="8 ska 462?" or lsg="8 ska 607?" or lsg="8 ska 608?" or lsg="8 ska 626?" or lsg="8 ska 847?" or lsg="8 ska 849?" or lsg="8 soz 835.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+332: Arbeitsökonomie, Arbeitsmarkt
+init -> Session ID 937161718
+search »(lsg="7 lmb 100" or lsg="7 lmb 120" or lsg="7 lmb 127-lmb 130" or lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400")« ->
+OK
+
+337.1: Zeitlich übergreifend
+init -> Session ID 937161719
+search »((lsg="8 ska 192.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.2: Mittelalter
+init -> Session ID 937161976
+search »((lsg="8 ska 321?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.3: Frühe Neuzeit
+init -> Session ID 937161977
+search »((lsg="8 ska 456.200" or lsg="8 ska 456.300") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.4: 19. Jahrhundert
+init -> Session ID 937162234
+search »((lsg="8 ska 615?" or lsg="8 ska 616?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.5: 20. Jahrhundert
+init -> Session ID 937162235
+search »((lsg="8 ska 790?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.X: Weltwirtschaft, Internationale Wirtschaftsbeziehungen
+init -> Session ID 937162236
+search »((lsg="8 ska 192.400" or lsg="8 ska 321?" or lsg="8 ska 456.200" or lsg="8 ska 456.300" or lsg="8 ska 615?" or lsg="8 ska 616?" or lsg="8 ska 790?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+337.X: Weltwirtschaft, Internationale Wirtschaftsbeziehungen
+init -> Session ID 937162493
+search »(lsg="7 lme 700" or lsg="7 lm 369" or lsg="7 lm 069" or lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400")« ->
+OK
+
+338.11: Agrargeschichte
+init -> Session ID 937162494
+search »((lsg="8 agr 2?" or lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 185.900" or lsg="8 ska 314.100" or lsg="8 ska 314.200" or lsg="8 ska 446.100" or lsg="8 ska 446.200" or lsg="8 ska 446.400" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 597.100" or lsg="8 ska 786?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+338.1X: Agrarwirtschaft, Fischerei, Forstwirtschaft
+init -> Session ID 937162751
+search »((lsg="8 agr 432?" or lsg="8 agr 807?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+338.6: Produktionsorganisation (Betriebswirtschaftslehre)
+init -> Session ID 937162496
+search »((lsg="8 ska 190?" or lsg="8 ska 451.100" or lsg="8 ska 451.200" or lsg="8 ska 318" or lsg="8 ska 788.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+338.9: Industrialisierung und Entwicklungshilfe
+init -> Session ID 937162753
+search »((lsg="8 ska 795?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+338.X: Produktion
+init -> Session ID 937162754
+search »((lsg="8 ska 601?" or lsg="8 ska 602?" or lsg="8 ska 600?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+339: Sonstige Wirtschaftsfragen
+init -> Session ID 937162755
+search »((lsg="8 ska 788?" or lsg="8 agr 840.300" or lsg="8 ska 597.200" or lsg="8 ska 597.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+339: Sonstige Wirtschaftsfragen
+init -> Session ID 937163012
+search »(lsg="7 lr?" or lsg="7 ls?" or lsg="7 lt?" or lsg="7 lu?" or lsg="7 lv?" or lsg="7 lw?" or lsg="7 lx?" or lsg="7 ly?" or lsg="7 lz?")« ->
+OK
+
+33X: Wirtschaft
+init -> Session ID 937163013
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 wir 471" or lsg="8 wir 472" or lsg="8 wir 473" or lsg="8 wir 474" or lsg="8 wir 475" or lsg="8 wir 476" or lsg="8 wir 911.200" or lsg="8 wir 919" or lsg="8 wir 933" or lsg="8 wir 970.200" or lsg="8 ska 323?" or lsg="8 ska 439?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 ska 462?" or lsg="8 ska 607?" or lsg="8 ska 608?" or lsg="8 ska 626?" or lsg="8 ska 847?" or lsg="8 ska 849?" or lsg="8 soz 835.3" or lsg="8 ska 192.400" or lsg="8 ska 321?" or lsg="8 ska 456.200" or lsg="8 ska 456.300" or lsg="8 ska 615?" or lsg="8 ska 616?" or lsg="8 ska 790?" or lsg="8 ska 601?" or lsg="8 ska 602?" or lsg="8 ska 600?" or lsg="8 ska 788?" or lsg="8 agr 840.300" or lsg="8 ska 597.200" or lsg="8 ska 597.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+33X: Wirtschaft
+init -> Session ID 937163270
+search »(lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400" or lsg="7 lm?" or lsg="7 lc?" or lsg="7 lq?")« ->
+OK
+
+340: Allgemeines
+init -> Session ID 937163271
+search »((lsg="8 jus 941.000" or lsg="8 jus 941.085" or lsg="8 jus 942.000" or lsg="8 jus 948.1" or lsg="8 jus 948.5" or lsg="8 jus 953.110" or lsg="8 jus 988?" or lsg="8 jus 953.130" or lsg="8 jus 953.150" or lsg="8 jus 953.200" or lsg="8 jus 955.100" or lsg="8 jus 955.150" or lsg="8 jus 955.180" or lsg="8 jus 955.200" or lsg="8 jus 955.250") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+340: Allgemeines
+init -> Session ID 937163272
+search »(lsg="7 n?")« ->
+OK
+
+341: Rechtsgeschichte
+init -> Session ID 937163529
+search »((lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+341: Rechtsgeschichte
+init -> Session ID 937163530
+search »(lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+341: Rechtsgeschichte
+init -> Session ID 937163787
+search »(lsg="7 ne 000")« ->
+OK
+
+342: Völkerrecht
+init -> Session ID 937163788
+search »((lsg="8 jus 941.800" or lsg="8 jus 947?" or lsg="8 jus 951.9" or lsg="8 jus 959?" or lsg="8 jus 953.900" or lsg="8 jus 955.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+342: Völkerrecht
+init -> Session ID 937164045
+search »(lsg="7 nq 000")« ->
+OK
+
+343: Verfassungs- und Verwaltungs-, Arbeits-, Sozial-, und Bildungsrecht
+init -> Session ID 937164046
+search »((lsg="8 jus 941.200" or lsg="8 jus 944?" or lsg="8 jus 945?" or lsg="8 jus 950?" or lsg="8 jus 957?" or lsg="8 jus 953.300" or lsg="8 jus 955.300" or lsg="8 jus 955.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+343: Verfassungs- und Verwaltungs-, Arbeits-, Sozial-, und Bildungsrecht
+init -> Session ID 937164047
+search »(lsg="7 nt 360" or lsg="7 nt 54?" or lsg="7 nt 550" or lsg="7 nt 580" or lsg="7 nt 300" or lsg="7 nt 70?" or lsg="7 nt 710" or lsg="7 nt 653")« ->
+OK
+
+345: Sonstige Rechtsgebiete
+init -> Session ID 937164304
+search »((lsg="8 jus 941.500" or lsg="8 jus 946?" or lsg="8 jus 941.000" or lsg="8 jus 951.1" or lsg="8 jus 951.3" or lsg="8 jus 951.5" or lsg="8 jus 951.7" or lsg="8 jus 948?" or lsg="8 jus 953.700" or lsg="8 jus 943.800" or lsg="8 jus 955.600" or lsg="8 jus 955.700" or lsg="8 jus 955.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+345: Sonstige Rechtsgebiete
+init -> Session ID 937164305
+search »(lsg="7 nt?" not lsg="7 nt 360" or lsg="7 nt 54?" or lsg="7 nt 55?" or lsg="7 nt 580" or lsg="7 nt 300" or lsg="7 nt 70?" or lsg="7 nt 71?" or lsg="7 nt 653")« ->
+OK
+
+34X: Recht
+init -> Session ID 937164562
+search »((lsg="8 jus 941.000" or lsg="8 jus 941.085" or lsg="8 jus 942.000" or lsg="8 jus 948.1" or lsg="8 jus 948.5" or lsg="8 jus 953.110" or lsg="8 jus 988?" or lsg="8 jus 953.130" or lsg="8 jus 953.150" or lsg="8 jus 953.200" or lsg="8 jus 955.100" or lsg="8 jus 955.150" or lsg="8 jus 955.180" or lsg="8 jus 955.200" or lsg="8 jus 955.250" or lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?" or lsg="8 jus 941.800" or lsg="8 jus 947?" or lsg="8 jus 951.9" or lsg="8 jus 959?" or lsg="8 jus 953.900" or lsg="8 jus 955.900" or lsg="8 jus 941.200" or lsg="8 jus 944?" or lsg="8 jus 945?" or lsg="8 jus 950?" or lsg="8 jus 957?" or lsg="8 jus 953.300" or lsg="8 jus 955.300" or lsg="8 jus 955.400" or lsg="8 jus 941.500" or lsg="8 jus 946?" or lsg="8 jus 941.000" or lsg="8 jus 951.1" or lsg="8 jus 951.3" or lsg="8 jus 951.5" or lsg="8 jus 951.7" or lsg="8 jus 948?" or lsg="8 jus 953.700" or lsg="8 jus 943.800" or lsg="8 jus 955.600" or lsg="8 jus 955.700" or lsg="8 jus 955.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+34X: Recht
+init -> Session ID 937164563
+search »(lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+34X: Recht
+init -> Session ID 937164820
+search »(lsg="7 n?")« ->
+OK
+
+352: Allgemeines zur öffentlichen Verwaltung
+init -> Session ID 937164821
+search »((lsg="8 ska 202?" or lsg="8 ska 468?" or lsg="8 ska 473?" or lsg="8 ska 336?" or lsg="8 ska 205?" or lsg="8 ska 330?" or lsg="8 ska 63?" or lsg="8 ska 740?" or lsg="8 ska 780?" or lsg="8 pol 720.9") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+352: Allgemeines zur öffentlichen Verwaltung
+init -> Session ID 937164822
+search »(lsg="7 lg?" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+353: Einzelne Zuständigkeitsbereiche der öffentlichen Verwaltung
+init -> Session ID 937165079
+search »((lsg="8 ska 741?" or lsg="8 ska 742?" or lsg="8 ska 745?" or lsg="8 ska 749?" or lsg="8 ska 75?" or lsg="8 ska 76?" or lsg="8 ska 770?" or lsg="8 ska 772?" or lsg="8 ska 773?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+353: Einzelne Zuständigkeitsbereiche der öffentlichen Verwaltung
+init -> Session ID 937165080
+search »(lsg="7 lg 050" or lsg="7 lg 1?-lg 5?" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200 ")« ->
+OK
+
+355.11: Zeitlich übergreifend
+init -> Session ID 937165337
+search »((lsg="8 ska 146.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.12: Mittelalter
+init -> Session ID 937165338
+search »((lsg="8 ska 281.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.13: Frühe Neuzeit
+init -> Session ID 937165595
+search »((lsg="8 ska 381?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.14: 19. Jahrhundert
+init -> Session ID 937165596
+search »((lsg="8 ska 527?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.15: 20. Jahrhundert
+init -> Session ID 937165597
+search »((lsg="8 ska 527?" or lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 pol 986.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.1X: Militärgeschichte
+init -> Session ID 937165854
+search »((lsg="8 ska 146.500" or lsg="8 ska 281.400" or lsg="8 ska 381?" or lsg="8 ska 527?" or lsg="8 ska 527?" or lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 pol 986.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.X: Militärwissenschaft
+init -> Session ID 937165855
+search »((lsg="8 ska 146.500" or lsg="8 ska 281.400" or lsg="8 ska 381?" or lsg="8 ska 527?" or lsg="8 ska 527?" or lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 pol 986.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+355.X: Militärwissenschaft
+init -> Session ID 937166112
+search »(lsg="7 lh?" or lsg="7 pnn 200" or lsg="7 pno 200" or lsg="7 pnp 200" or lsg="7 pnq 200" or lsg="7 pnr 200")« ->
+OK
+
+35X: Öffentliche Verwaltung, Militär
+init -> Session ID 937166113
+search »((lsg="8 ska 202?" or lsg="8 ska 468?" or lsg="8 ska 473?" or lsg="8 ska 336?" or lsg="8 ska 205?" or lsg="8 ska 330?" or lsg="8 ska 63?" or lsg="8 ska 740?" or lsg="8 ska 780?" or lsg="8 pol 720.9" or lsg="8 ska 741?" or lsg="8 ska 742?" or lsg="8 ska 745?" or lsg="8 ska 749?" or lsg="8 ska 75?" or lsg="8 ska 76?" or lsg="8 ska 770?" or lsg="8 ska 772?" or lsg="8 ska 773?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+35X: Öffentliche Verwaltung, Militär
+init -> Session ID 937166370
+search »(lsg="7 lg?" or lsg="7 lh?")« ->
+OK
+
+361: Soziale Probleme und Sozialarbeit im Allgemeinen
+init -> Session ID 937166371
+search »((lsg="8 ska 183?" or lsg="8 ska 594?" or lsg="8 ska 855?" or lsg="8 ska 859?" or lsg="8 soz 735?" or lsg="8 soz 905.8") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+361: Soziale Probleme und Sozialarbeit im Allgemeinen
+init -> Session ID 937166372
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 lim 310 ")« ->
+OK
+
+362: Soziale Probleme und Sozialarbeit für bestimmte Zielgruppen
+init -> Session ID 937166629
+search »((lsg="8 ska 444?" or lsg="8 ska 861?" or lsg="8 pae 870?" or lsg="8 pae 880.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+362: Soziale Probleme und Sozialarbeit für bestimmte Zielgruppen
+init -> Session ID 937166630
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 li 020" or lsg="7 li 030" or lsg="7 lee 160" or lsg="7 les 860" or lsg="7 lew 910")« ->
+OK
+
+363.2: Öffentliche Sicherheit, Polizei
+init -> Session ID 937166887
+search »((lsg="8 ska 206?" or lsg="8 ska 474?" or lsg="8 ska 649?" or lsg="8 ska 775?" or lsg="8 ska 778?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+363.2: Öffentliche Sicherheit, Polizei
+init -> Session ID 937166888
+search »(lsg="7 nnf 842" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+363.7: Umweltprobleme, Umweltschutz
+init -> Session ID 937167145
+search »(lsg="7 qfc 2?-qfc 9?" or lsg="7 vbs 000" or lsg="7 qdc 800")« ->
+OK
+
+363.9: Sonstige soziale Probleme und Sozialdienste
+init -> Session ID 937167146
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 lim 310")« ->
+OK
+
+363.X: Spezielle soziale Probleme und Sozialdienste
+init -> Session ID 937167147
+search »((lsg="8 ska 206?" or lsg="8 ska 474?" or lsg="8 ska 649?" or lsg="8 ska 775?" or lsg="8 ska 778?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+363.X: Spezielle soziale Probleme und Sozialdienste
+init -> Session ID 937167404
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 lim 310 ")« ->
+OK
+
+364: Kriminologie, Strafanstalten
+init -> Session ID 937167405
+search »(lsg="7 lee 160" or lsg="7 lei 460" or lsg="7 nnd?")« ->
+OK
+
+368: Versicherungswesen
+init -> Session ID 937167662
+search »((lsg="8 ska 857?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+368: Versicherungswesen
+init -> Session ID 937167663
+search »(lsg="7 lx?")« ->
+OK
+
+369: Verbände
+init -> Session ID 937167920
+search »(lsg="7 lee 210" or lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300")« ->
+OK
+
+36X: Soziale Probleme und Sozialdienste, Verbände
+init -> Session ID 937167921
+search »((lsg="8 ska 183?" or lsg="8 ska 594?" or lsg="8 ska 855?" or lsg="8 ska 859?" or lsg="8 soz 735?" or lsg="8 soz 905.8" or lsg="8 ska 444?" or lsg="8 ska 861?" or lsg="8 pae 870?" or lsg="8 pae 880.800" or lsg="8 ska 206?" or lsg="8 ska 474?" or lsg="8 ska 649?" or lsg="8 ska 775?" or lsg="8 ska 778?" or lsg="8 ska 857?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+36X: Soziale Probleme und Sozialdienste, Verbände
+init -> Session ID 937168178
+search »(lsg="7 pnn 300" or lsg="7 pno 300" or lsg="7 pnp 300" or lsg="7 pnq 300" or lsg="7 pnr 300" or lsg="7 le?" or lsg="7 li?" or lsg="7 lee 210")« ->
+OK
+
+370: Allgemeines
+init -> Session ID 937168179
+search »((lsg="8 pae 410.700" or lsg="8 pae 963?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+370: Allgemeines
+init -> Session ID 937168180
+search »(lsg="7 fk?" or lsg="7 fl?")« ->
+OK
+
+372: Schulen, schulische Tätigkeiten, Sonderpädagogik
+init -> Session ID 937168437
+search »((lsg="8 pae 297.600" or lsg="8 pae 420?" or lsg="8 pae 442?" or lsg="8 pae 446.700" or lsg="8 pae 483?" or lsg="8 pae 532?" or lsg="8 pae 693?" or lsg="8 pae 698?" or lsg="8 pae 713?" or lsg="8 pae 718?" or lsg="8 pae 732.600" or lsg="8 pae 739?" or lsg="8 pae 905?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+372: Schulen, schulische Tätigkeiten, Sonderpädagogik
+init -> Session ID 937168438
+search »(lsg="7 fs?" not lsg="7 fsf 200" or lsg="7 fp?")« ->
+OK
+
+373: Primar- und Elementarbildung
+init -> Session ID 937168695
+search »((lsg="8 pae 892?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+373: Primar- und Elementarbildung
+init -> Session ID 937168696
+search »(lsg="7 fsj 100" or lsg="7 frh 100" or lsg="7 fqg 000")« ->
+OK
+
+374: Sekundarbildung
+init -> Session ID 937168953
+search »(lsg="7 fsj 2?-fsj 9?" or lsg="7 frh 2?-frh 9?")« ->
+OK
+
+375: Erwachsenenbildung
+init -> Session ID 937168954
+search »((lsg="8 pae 467?" or lsg="8 pae 784.700" or lsg="8 pae 808.700" or lsg="8 pae 814.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+375: Erwachsenenbildung
+init -> Session ID 937168955
+search »(lsg="7 fv?")« ->
+OK
+
+379: Hochschulbildung
+init -> Session ID 937169212
+search »((lsg="8 wir 924?" or lsg="8 wir 926.800" or lsg="8 wir 940?" or lsg="8 wir 946?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+379: Hochschulbildung
+init -> Session ID 937169213
+search »(lsg="7 ft?")« ->
+OK
+
+37A: Bildungspolitik
+init -> Session ID 937169470
+search »(lsg="7 fke 000")« ->
+OK
+
+37X: Bildung und Erziehung
+init -> Session ID 937169471
+search »((lsg="8 pae 410.700" or lsg="8 pae 963?" or lsg="8 pae 297.600" or lsg="8 pae 420?" or lsg="8 pae 442?" or lsg="8 pae 446.700" or lsg="8 pae 483?" or lsg="8 pae 532?" or lsg="8 pae 693?" or lsg="8 pae 698?" or lsg="8 pae 713?" or lsg="8 pae 718?" or lsg="8 pae 732.600" or lsg="8 pae 739?" or lsg="8 pae 905?" or lsg="8 pae 892?" or lsg="8 pae 467?" or lsg="8 pae 784.700" or lsg="8 pae 808.700" or lsg="8 pae 814.700" or lsg="8 wir 924?" or lsg="8 wir 926.800" or lsg="8 wir 940?" or lsg="8 wir 946?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+37X: Bildung und Erziehung
+init -> Session ID 937169728
+search »(lsg="7 fk?" or lsg="7 fl?" or lsg="7 fm?" or lsg="7 fn?" or lsg="7 fo?" or lsg="7 fp?" or lsg="7 fq?" or lsg="7 fr?" or lsg="7 fs?" or lsg="7 ft?" or lsg="7 fu?" or lsg="7 fv?")« ->
+OK
+
+381: Handel
+init -> Session ID 937169729
+search »((lsg="8 ska 192.100" or lsg="8 ska 456.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+381: Handel
+init -> Session ID 937169730
+search »(lsg="7 lvb?")« ->
+OK
+
+382.11: Zeitlich übergreifend
+init -> Session ID 937169987
+search »((lsg="8 ska 192.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.11: Zeitlich übergreifend
+init -> Session ID 937169988
+search »(lsg="7 pnn 400")« ->
+OK
+
+382.12: Mittelalter
+init -> Session ID 937170245
+search »((lsg="8 ska 321.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.12: Mittelalter
+init -> Session ID 937170246
+search »(lsg="7 pno 400")« ->
+OK
+
+382.13: Frühe Neuzeit
+init -> Session ID 937170247
+search »((lsg="8 ska 456.100" or lsg="8 ska 456.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.13: Frühe Neuzeit
+init -> Session ID 937170504
+search »(lsg="7 pnp 400")« ->
+OK
+
+382.14: 19. Jahrhundert
+init -> Session ID 937170505
+search »((lsg="8 ska 613?" or lsg="8 ska 617?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.14: 19. Jahrhundert
+init -> Session ID 937170762
+search »(lsg="7 pnq 400")« ->
+OK
+
+382.15: 20. Jahrhundert
+init -> Session ID 937170763
+search »((lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 790.100" or lsg="8 ska 790.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.15: 20. Jahrhundert
+init -> Session ID 937171020
+search »(lsg="7 pnr 400")« ->
+OK
+
+382.1X: Handelsgeschichte (hier auch Ostseehandel)
+init -> Session ID 937171021
+search »((lsg="8 ska 192.100" or lsg="8 ska 321.900" or lsg="8 ska 456.100" or lsg="8 ska 456.400" or lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 790.100" or lsg="8 ska 790.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.1X: Handelsgeschichte (hier auch Ostseehandel)
+init -> Session ID 937171278
+search »(( lsg="7 pnn 400") or ( lsg="7 pno 400") or ( lsg="7 pnp 400") or ( lsg="7 pnq 400") or ( lsg="7 pnr 400"))« ->
+OK
+
+382.2: Geschichte der Hanse
+init -> Session ID 937171279
+search »((lsg="8 ska 321.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.X: Internationaler Handel (Außenhandel)
+init -> Session ID 937171280
+search »((lsg="8 ska 192.400" or lsg="8 ska 456.200" or lsg="8 ska 456.300" or lsg="8 ska 615?" or lsg="8 ska 616?" or lsg="8 ska 790?" or lsg="8 wir 835.800" or lsg="8 wir 860.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+382.X: Internationaler Handel (Außenhandel)
+init -> Session ID 937171537
+search »(lsg="7 qer 930" or lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400")« ->
+OK
+
+384: Kommunikation, Telekommunikation, Post
+init -> Session ID 937171538
+search »((lsg="8 ska 194?" or lsg="8 ska 623?" or lsg="8 ska 792?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+384: Kommunikation, Telekommunikation, Post
+init -> Session ID 937171795
+search »(lsg="7 lqn?")« ->
+OK
+
+385: Schienenverkehr
+init -> Session ID 937171796
+search »((lsg="8 ska 621?" or lsg="8 ska 791.800" or lsg="8 wir 825.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+387: Schifffahrt, Luftfahrt, Raumfahrt
+init -> Session ID 937172053
+search »((lsg="8 ska 193.200" or lsg="8 ska 193.300" or lsg="8 ska 193.400" or lsg="8 ska 193.500" or lsg="8 ska 193.600" or lsg="8 ska 193.700" or lsg="8 ska 620?" or lsg="8 ska 622?" or lsg="8 ska 791.200" or lsg="8 ska 791.300" or lsg="8 ska 791.600" or lsg="8 ska 791.700" or lsg="8 ska 791.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+388.1: Zeitlich übergreifend
+init -> Session ID 937172054
+search »((lsg="8 ska 193.100" or lsg="8 ska 193.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+388.3: Frühe Neuzeit
+init -> Session ID 937172055
+search »((lsg="8 ska 458?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+388.4: 19. Jahrhundert
+init -> Session ID 937172312
+search »((lsg="8 ska 619?" or lsg="8 ska 622?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+388.5: 20. Jahrhundert
+init -> Session ID 937172313
+search »((lsg="8 ska 619?" or lsg="8 ska 622?" or lsg="8 ska 791.100" or lsg="8 ska 791.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+38X: Handel, Kommunikation, Verkehr
+init -> Session ID 937172570
+search »((lsg="8 ska 192.100" or lsg="8 ska 456.100" or lsg="8 ska 192.400" or lsg="8 ska 456.200" or lsg="8 ska 456.300" or lsg="8 ska 615?" or lsg="8 ska 616?" or lsg="8 ska 790?" or lsg="8 wir 835.800" or lsg="8 wir 860.800" or lsg="8 ska 194?" or lsg="8 ska 623?" or lsg="8 ska 792?" or lsg="8 ska 621?" or lsg="8 ska 791.800" or lsg="8 wir 825.800" or lsg="8 ska 193.200" or lsg="8 ska 193.300" or lsg="8 ska 193.400" or lsg="8 ska 193.500" or lsg="8 ska 193.600" or lsg="8 ska 193.700" or lsg="8 ska 620?" or lsg="8 ska 622?" or lsg="8 ska 791.200" or lsg="8 ska 791.300" or lsg="8 ska 791.600" or lsg="8 ska 791.700" or lsg="8 ska 791.900" or lsg="8 ska 193.100" or lsg="8 ska 193.800" or lsg="8 ska 458?" or lsg="8 ska 619?" or lsg="8 ska 622?" or lsg="8 ska 619?" or lsg="8 ska 622?" or lsg="8 ska 791.100" or lsg="8 ska 791.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+38X: Handel, Kommunikation, Verkehr
+init -> Session ID 937172571
+search »(lsg="7 lvb?" or lsg="7 ly?" or lsg="7 lqn?" or lsg="7 pnn 400" or lsg="7 pno 400" or lsg="7 pnp 400" or lsg="7 pnq 400" or lsg="7 pnr 400")« ->
+OK
+
+390: Volkskultur, Brauchtum allgemein
+init -> Session ID 937172828
+search »((lsg="8 ska 938?" or lsg="8 ska 950?" or lsg="8 ska 952?" or lsg="8 ska 966?" or lsg="8 ska 976?" or lsg="8 ska 978?" or lsg="8 ska 982?" or lsg="8 ska 99?" or lsg="8 ska 987?" or lsg="8 ska 989?" or lsg="8 kun 851.2") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+390: Volkskultur, Brauchtum allgemein
+init -> Session ID 937172829
+search »(lsg="7 qu?" and lsg="7 qve 6?")« ->
+OK
+
+391: Kleidung, äußeres Erscheinungsbild
+init -> Session ID 937172830
+search »((lsg="8 ska 941?" or lsg="8 ska 944?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+391: Kleidung, äußeres Erscheinungsbild
+init -> Session ID 937173087
+search »(lsg="7 qug?" and lsg="7 qve 6?")« ->
+OK
+
+392: Bräuche des Lebenszyklus und häuslichen Lebens
+init -> Session ID 937173088
+search »((lsg="8 ska 939?" or lsg="8 ska 954?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+392: Bräuche des Lebenszyklus und häuslichen Lebens
+init -> Session ID 937173345
+search »(( lsg="7 qul?" or lsg="7 qum?" or lsg="7 qun?" or lsg="7 quo?") and lsg="7 qve 6?")« ->
+OK
+
+393: Totenrituale (Tod Bräuche)
+init -> Session ID 937173346
+search »((lsg="8 ska 980?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+393: Totenrituale (Tod Bräuche)
+init -> Session ID 937173603
+search »(lsg="7 qul 380")« ->
+OK
+
+395: Etikette
+init -> Session ID 937173604
+search »((lsg="8 ska 958?" or lsg="8 ska 960?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+395: Etikette
+init -> Session ID 937173605
+search »(lsg="7 quh 500" and lsg="7 qve 6?")« ->
+OK
+
+398: Folklore und Volksliteratur
+init -> Session ID 937173862
+search »((lsg="8 ska 961?" or lsg="8 ska 963?" or lsg="8 ska 968?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+398: Folklore und Volksliteratur
+init -> Session ID 937173863
+search »(( lsg="7 quq?" or lsg="7 qur 1?-qur 6?" or lsg="7 qus?" or lsg="7 qut?" or lsg="7 qur 780") and lsg="7 qve 6?" or ( lsg="7 jln 438" or lsg="7 jln 446" or lsg="7 jln 538" or lsg="7 jln 546"))« ->
+OK
+
+39X: Brauchtum, Folklore
+init -> Session ID 937174120
+search »((lsg="8 ska 938?" or lsg="8 ska 950?" or lsg="8 ska 952?" or lsg="8 ska 966?" or lsg="8 ska 976?" or lsg="8 ska 978?" or lsg="8 ska 982?" or lsg="8 ska 99?" or lsg="8 ska 987?" or lsg="8 ska 989?" or lsg="8 kun 851.2" or lsg="8 ska 941?" or lsg="8 ska 944?" or lsg="8 ska 939?" or lsg="8 ska 954?" or lsg="8 ska 980?" or lsg="8 ska 958?" or lsg="8 ska 960?" or lsg="8 ska 961?" or lsg="8 ska 963?" or lsg="8 ska 968?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+39X: Brauchtum, Folklore
+init -> Session ID 937174121
+search »(lsg="7 qu?" and lsg="7 qve 6?")« ->
+OK
+
+410: Skandinavische Sprachen allgemein, Skandinavistik
+init -> Session ID 937174378
+search »(lsg="8 nor 0?" or lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 31?" or lsg="8 nor 320?")« ->
+OK
+
+411.1: Allgemeines
+init -> Session ID 937174379
+search »(lsg="8 nor 213?")« ->
+OK
+
+411.2: Wörterbücher
+init -> Session ID 937174380
+search »(lsg="8 nor 234.300")« ->
+OK
+
+411.3: Sprachwissenschaft
+init -> Session ID 937174637
+search »(lsg="8 nor 216?" or lsg="8 nor 217?" or lsg="8 nor 22?" or lsg="8 nor 23?" or lsg="8 nor 241?")« ->
+OK
+
+411.4: Sprachgeschichte
+init -> Session ID 937174638
+search »(lsg="8 nor 213.400" or lsg="8 nor 213.500")« ->
+OK
+
+411.X: Altnordisch
+init -> Session ID 937174895
+search »(lsg="8 nor 213?" or lsg="8 nor 234.300" or lsg="8 nor 216?" or lsg="8 nor 217?" or lsg="8 nor 22?" or lsg="8 nor 23?" or lsg="8 nor 241?" or lsg="8 nor 213.400" or lsg="8 nor 213.500")« ->
+OK
+
+412.1: Allgemeines
+init -> Session ID 937174896
+search »(lsg="8 nor 460?")« ->
+OK
+
+412.1: Allgemeines
+init -> Session ID 937175153
+search »(lsg="7 hwd 2? hwb 2?" or lsg="7 hwa 2?")« ->
+OK
+
+412.2: Wörterbücher
+init -> Session ID 937175154
+search »(lsg="8 nor 480.3?")« ->
+OK
+
+412.2: Wörterbücher
+init -> Session ID 937175155
+search »(lsg="7 hwd 300" or lsg="7 hwd 352 hwb 300" or lsg="7 hwb 352" or lsg="7 hwa 300" or lsg="7 hwa 352")« ->
+OK
+
+412.3: Sprachwissenschaft
+init -> Session ID 937175412
+search »(lsg="8 nor 480.9?" or lsg="8 nor 468.100" or lsg="8 nor 473?" or lsg="8 nor 480.100" or lsg="8 nor 480.500" or lsg="8 nor 480.600" or lsg="8 nor 480.700" or lsg="8 nor 480.800")« ->
+OK
+
+412.3: Sprachwissenschaft
+init -> Session ID 937175413
+search »(lsg="7 hwd 3? hwb 3?" or lsg="7 hwa 3?")« ->
+OK
+
+412.4: Sprachgeschichte
+init -> Session ID 937175670
+search »(lsg="8 nor 468.500" or lsg="8 nor 468.700")« ->
+OK
+
+412.4: Sprachgeschichte
+init -> Session ID 937175671
+search »(lsg="7 hwd 321 hwb 321" or lsg="7 hwa 321" or lsg="7 hwp 2?" or lsg="7 hwp 3?")« ->
+OK
+
+412.X: Isländisch
+init -> Session ID 937175928
+search »(lsg="8 nor 460?" or lsg="8 nor 480.3?" or lsg="8 nor 480.9?" or lsg="8 nor 468.100" or lsg="8 nor 473?" or lsg="8 nor 480.100" or lsg="8 nor 480.500" or lsg="8 nor 480.600" or lsg="8 nor 480.700" or lsg="8 nor 480.800" or lsg="8 nor 468.500" or lsg="8 nor 468.700")« ->
+OK
+
+412.X: Isländisch
+init -> Session ID 937175929
+search »(lsg="7 hwd 2?" or lsg="7 hwd 3? hwb 2?" or lsg="7 hwa 2?" or lsg="7 hwb 3?" or lsg="7 hwa 3?")« ->
+OK
+
+413.1: Allgemeines
+init -> Session ID 937175930
+search »(lsg="8 nor 451.100")« ->
+OK
+
+413.2: Wörterbücher
+init -> Session ID 937176187
+search »(lsg="8 nor 451.300")« ->
+OK
+
+413.3: Sprachwissenschaft
+init -> Session ID 937176188
+search »(lsg="8 nor 451.200" or lsg="8 nor 451.400" or lsg="8 nor 451.600")« ->
+OK
+
+413.4: Sprachgeschichte
+init -> Session ID 937176445
+search »(lsg="8 nor 468.500")« ->
+OK
+
+413.X: Färöisch
+init -> Session ID 937176446
+search »(lsg="8 nor 451.100" or lsg="8 nor 451.300" or lsg="8 nor 451.200" or lsg="8 nor 451.400" or lsg="8 nor 451.600" or lsg="8 nor 468.500")« ->
+OK
+
+414.1: Allgemeines
+init -> Session ID 937176447
+search »(lsg="8 nor 610?")« ->
+OK
+
+414.1: Allgemeines
+init -> Session ID 937176704
+search »(lsg="7 hws 2?")« ->
+OK
+
+414.2: Wörterbücher
+init -> Session ID 937176705
+search »(lsg="8 nor 638?" or lsg="8 nor 675.400")« ->
+OK
+
+414.2: Wörterbücher
+init -> Session ID 937176962
+search »(lsg="7 hws 300" or lsg="7 hws 352")« ->
+OK
+
+414.3: Sprachwissenschaft
+init -> Session ID 937176963
+search »(lsg="8 nor 615?" or lsg="8 nor 62?" or lsg="8 nor 64?" or lsg="8 nor 65?" or lsg="8 nor 66?" or lsg="8 nor 672?")« ->
+OK
+
+414.3: Sprachwissenschaft
+init -> Session ID 937177220
+search »(lsg="7 hws 3?")« ->
+OK
+
+414.4: Sprachgeschichte
+init -> Session ID 937177221
+search »(lsg="8 nor 615.700")« ->
+OK
+
+414.4: Sprachgeschichte
+init -> Session ID 937177222
+search »(lsg="7 hws 320" or lsg="7 hws 321" or lsg="7 hws 323" or lsg="7 hws 324")« ->
+OK
+
+414.X: Schwedisch
+init -> Session ID 937177479
+search »(lsg="8 nor 610?" or lsg="8 nor 638?" or lsg="8 nor 675.400" or lsg="8 nor 615?" or lsg="8 nor 62?" or lsg="8 nor 64?" or lsg="8 nor 65?" or lsg="8 nor 66?" or lsg="8 nor 672?" or lsg="8 nor 615.700")« ->
+OK
+
+414.X: Schwedisch
+init -> Session ID 937177736
+search »(lsg="7 hws?")« ->
+OK
+
+415.1: Allgemeines
+init -> Session ID 937177737
+search »(lsg="8 nor 340?" or lsg="8 nor 410?")« ->
+OK
+
+415.1: Allgemeines
+init -> Session ID 937177994
+search »(lsg="7 hwk 2?")« ->
+OK
+
+415.2: Wörterbücher
+init -> Session ID 937177995
+search »(lsg="8 nor 374?" or lsg="8 nor 413?" or lsg="8 nor 415?" or lsg="8 nor 420?" or lsg="8 nor 432?")« ->
+OK
+
+415.2: Wörterbücher
+init -> Session ID 937178252
+search »(lsg="7 hwk 300" or lsg="7 hwk 352")« ->
+OK
+
+415.3: Sprachwissenschaft
+init -> Session ID 937178253
+search »(lsg="8 nor 35?" or lsg="8 nor 36?" or lsg="8 nor 370?" or lsg="8 nor 38?" or lsg="8 nor 39?" or lsg="8 nor 40?")« ->
+OK
+
+415.3: Sprachwissenschaft
+init -> Session ID 937178510
+search »(lsg="7 hwk 3?")« ->
+OK
+
+415.4: Sprachgeschichte
+init -> Session ID 937178511
+search »(lsg="8 nor 350.700")« ->
+OK
+
+415.4: Sprachgeschichte
+init -> Session ID 937178768
+search »(lsg="7 hwk 320" or lsg="7 hwk 321" or lsg="7 hwk 323" or lsg="7 hwk 324")« ->
+OK
+
+415.X: Dänisch
+init -> Session ID 937178769
+search »(lsg="8 nor 340?" or lsg="8 nor 410?" or lsg="8 nor 374?" or lsg="8 nor 413?" or lsg="8 nor 415?" or lsg="8 nor 420?" or lsg="8 nor 432?" or lsg="8 nor 35?" or lsg="8 nor 36?" or lsg="8 nor 370?" or lsg="8 nor 38?" or lsg="8 nor 39?" or lsg="8 nor 40?" or lsg="8 nor 350.700")« ->
+OK
+
+415.X: Dänisch
+init -> Session ID 937178770
+search »(lsg="7 hwk?")« ->
+OK
+
+416.1: Allgemeines
+init -> Session ID 937179027
+search »(lsg="8 nor 500?")« ->
+OK
+
+416.1: Allgemeines
+init -> Session ID 937179028
+search »(lsg="7 hwg 2?")« ->
+OK
+
+416.2: Wörterbücher
+init -> Session ID 937179285
+search »(lsg="8 nor 535?")« ->
+OK
+
+416.2: Wörterbücher
+init -> Session ID 937179286
+search »(lsg="7 hwg 300" or lsg="7 hwg 352")« ->
+OK
+
+416.3: Sprachwissenschaft
+init -> Session ID 937179543
+search »(lsg="8 nor 508?" or lsg="8 nor 52?" or lsg="8 nor 54?" or lsg="8 nor 55?" or lsg="8 nor 564?")« ->
+OK
+
+416.3: Sprachwissenschaft
+init -> Session ID 937179544
+search »(lsg="7 hwg 3?")« ->
+OK
+
+416.4: Sprachgeschichte
+init -> Session ID 937179801
+search »(lsg="8 nor 514?")« ->
+OK
+
+416.4: Sprachgeschichte
+init -> Session ID 937179802
+search »(lsg="7 hwg 320" or lsg="7 hwg 321" or lsg="7 hwg 323" or lsg="7 hwg 324")« ->
+OK
+
+416.X: Norwegisch
+init -> Session ID 937180059
+search »(lsg="8 nor 500?" or lsg="8 nor 535?" or lsg="8 nor 508?" or lsg="8 nor 52?" or lsg="8 nor 54?" or lsg="8 nor 55?" or lsg="8 nor 564?" or lsg="8 nor 514?")« ->
+OK
+
+416.X: Norwegisch
+init -> Session ID 937180060
+search »(lsg="7 hwg?")« ->
+OK
+
+41X: Skandinavische Sprachen
+init -> Session ID 937180061
+search »(lsg="8 nor 0?" or lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 31?" or lsg="8 nor 320?" or lsg="8 nor 213?" or lsg="8 nor 234.300" or lsg="8 nor 216?" or lsg="8 nor 217?" or lsg="8 nor 22?" or lsg="8 nor 23?" or lsg="8 nor 241?" or lsg="8 nor 213.400" or lsg="8 nor 213.500" or lsg="8 nor 460?" or lsg="8 nor 480.3?" or lsg="8 nor 480.9?" or lsg="8 nor 468.100" or lsg="8 nor 473?" or lsg="8 nor 480.100" or lsg="8 nor 480.500" or lsg="8 nor 480.600" or lsg="8 nor 480.700" or lsg="8 nor 480.800" or lsg="8 nor 468.500" or lsg="8 nor 468.700" or lsg="8 nor 451.100" or lsg="8 nor 451.300" or lsg="8 nor 451.200" or lsg="8 nor 451.400" or lsg="8 nor 451.600" or lsg="8 nor 468.500" or lsg="8 nor 610?" or lsg="8 nor 638?" or lsg="8 nor 675.400" or lsg="8 nor 615?" or lsg="8 nor 62?" or lsg="8 nor 64?" or lsg="8 nor 65?" or lsg="8 nor 66?" or lsg="8 nor 672?" or lsg="8 nor 615.700" or lsg="8 nor 340?" or lsg="8 nor 410?" or lsg="8 nor 374?" or lsg="8 nor 413?" or lsg="8 nor 415?" or lsg="8 nor 420?" or lsg="8 nor 432?" or lsg="8 nor 35?" or lsg="8 nor 36?" or lsg="8 nor 370?" or lsg="8 nor 38?" or lsg="8 nor 39?" or lsg="8 nor 40?" or lsg="8 nor 350.700" or lsg="8 nor 500?" or lsg="8 nor 535?" or lsg="8 nor 508?" or lsg="8 nor 52?" or lsg="8 nor 54?" or lsg="8 nor 55?" or lsg="8 nor 564?" or lsg="8 nor 514?")« ->
+OK
+
+41X: Skandinavische Sprachen
+init -> Session ID 937180318
+search »(lsg="7 hws?") or (lsg="7 hwg?") or (lsg="7 hwk?") or (lsg="7 hwd 2?" or lsg="7 hwd 3? hwb 2?" or lsg="7 hwa 2?" or lsg="7 hwb 3?" or lsg="7 hwa 3?")« ->
+OK
+
+430: Allgemeines
+init -> Session ID 937180319
+search »((lsg="8 sla 853?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+430: Allgemeines
+init -> Session ID 937180576
+search »(lsg="7 jlm 2?" or lsg="7 jlm 300" or lsg="7 jln 300" and lsg="7 jls 300" or lsg="7 jln 2?" and lsg="7 jls 2?")« ->
+OK
+
+431.1: Allgemeines, Fennistik
+init -> Session ID 937180577
+search »((lsg="8 sla 860?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+431.1: Allgemeines, Fennistik
+init -> Session ID 937180834
+search »(lsg="7 jln 2? ")« ->
+OK
+
+431.2: Wörterbücher
+init -> Session ID 937180835
+search »((lsg="8 sla 865.460") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+431.2: Wörterbücher
+init -> Session ID 937181092
+search »(lsg="7 jln 300" or lsg="7 jln 352")« ->
+OK
+
+431.3: Sprachwissenschaft
+init -> Session ID 937181349
+search »((lsg="8 sla 865.100" or lsg="8 sla 843.840" or lsg="8 sla 865.300" or lsg="8 sla 865.320" or lsg="8 sla 865.340" or lsg="8 sla 865.360" or lsg="8 sla 865.380" or lsg="8 sla 865.400" or lsg="8 sla 865.420" or lsg="8 sla 865.440" or lsg="8 sla 865.480" or lsg="8 sla 865.500" or lsg="8 sla 865.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+431.3: Sprachwissenschaft
+init -> Session ID 937181350
+search »(lsg="7 jln 3?")« ->
+OK
+
+431.4: Sprachgeschichte
+init -> Session ID 937181607
+search »((lsg="8 sla 865.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+431.4: Sprachgeschichte
+init -> Session ID 937181608
+search »(lsg="7 jln 320" or lsg="7 jln 321" or lsg="7 jln 323" or lsg="7 jln 324")« ->
+OK
+
+431.X: Finnisch
+init -> Session ID 937181609
+search »((lsg="8 sla 860?" or lsg="8 sla 865.460" or lsg="8 sla 865.100" or lsg="8 sla 843.840" or lsg="8 sla 865.300" or lsg="8 sla 865.320" or lsg="8 sla 865.340" or lsg="8 sla 865.360" or lsg="8 sla 865.380" or lsg="8 sla 865.400" or lsg="8 sla 865.420" or lsg="8 sla 865.440" or lsg="8 sla 865.480" or lsg="8 sla 865.500" or lsg="8 sla 865.600" or lsg="8 sla 865.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+431.X: Finnisch
+init -> Session ID 937181866
+search »(lsg="7 jln 3?" or lsg="7 jln 2?")« ->
+OK
+
+432.1: Allgemeines, Estnische Philologie
+init -> Session ID 937181867
+search »((lsg="8 sla 853.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+432.2: Wörterbücher
+init -> Session ID 937182124
+search »((lsg="8 sla 843.840") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+432.3: Sprachwissenschaft
+init -> Session ID 937182125
+search »((lsg="8 sla 853.810" or lsg="8 sla 853.820") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+432.4: Sprachgeschichte
+init -> Session ID 937182382
+search »((lsg="8 sla 853.860") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+432.X: Estnisch
+init -> Session ID 937182383
+search »((lsg="8 sla 853.800" or lsg="8 sla 843.840" or lsg="8 sla 853.810" or lsg="8 sla 853.820" or lsg="8 sla 853.860") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+43X: Ostseefinnische Sprachen
+init -> Session ID 937182384
+search »((lsg="8 sla 853?" or lsg="8 sla 860?" or lsg="8 sla 865.460" or lsg="8 sla 865.100" or lsg="8 sla 843.840" or lsg="8 sla 865.300" or lsg="8 sla 865.320" or lsg="8 sla 865.340" or lsg="8 sla 865.360" or lsg="8 sla 865.380" or lsg="8 sla 865.400" or lsg="8 sla 865.420" or lsg="8 sla 865.440" or lsg="8 sla 865.480" or lsg="8 sla 865.500" or lsg="8 sla 865.600" or lsg="8 sla 865.200" or lsg="8 sla 853.800" or lsg="8 sla 843.840" or lsg="8 sla 853.810" or lsg="8 sla 853.820" or lsg="8 sla 853.860") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+43X: Ostseefinnische Sprachen
+init -> Session ID 937182641
+search »(lsg="7 jlm 2?" or lsg="7 jlm 3?" or lsg="7 jln 3?" and lsg="7 jls 3?" or lsg="7 jln 2?" and lsg="7 jls 2?")« ->
+OK
+
+44X: Saamisch
+init -> Session ID 937182642
+search »((lsg="8 sla 852?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+44X: Saamisch
+init -> Session ID 937182899
+search »(lsg="7 jll 2?" or lsg="7 jll 3?")« ->
+OK
+
+701: Museen und Ausstellungen
+init -> Session ID 937182900
+search »((lsg="8 kun 243?" or lsg="8 kun 244.15") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+701: Museen und Ausstellungen
+init -> Session ID 937183157
+search »(lsg="7 gea 100" or lsg="7 gea 300")« ->
+OK
+
+702: Kunstgeschichte allg. u. Epochendarstellungen
+init -> Session ID 937183158
+search »((lsg="8 kun 29?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+702: Kunstgeschichte allg. u. Epochendarstellungen
+init -> Session ID 937183159
+search »(lsg="7 ged 100" or lsg="7 ged 305")« ->
+OK
+
+703: Einzelne Künstler
+init -> Session ID 937183416
+search »((lsg="8 kun 990:mun 2" or lsg="8 kun 990:lar 7") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+703: Einzelne Künstler
+init -> Session ID 937183417
+search »(lsg="7 gh 300")« ->
+OK
+
+70X: Künste, bildende und angewandte Kunst
+init -> Session ID 937183674
+search »((lsg="8 kun 243?" or lsg="8 kun 244.15" or lsg="8 kun 29?" or lsg="8 kun 990:mun 2" or lsg="8 kun 990:lar 7") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+70X: Künste, bildende und angewandte Kunst
+init -> Session ID 937183675
+search »(lsg="7 ga?" or lsg="7 ge?" or lsg="7 gg?" or lsg="7 geg?" or lsg="7 geh?" or lsg="7 gek?" or lsg="7 gh 300" or lsg="7 gem?" or lsg="7 gb?")« ->
+OK
+
+71X: Raumplanung, Landschaftsgestaltung, Urbanistik
+init -> Session ID 937183932
+search »((lsg="8 ska 595?" or lsg="8 ska 596?" or lsg="8 ska 827?" or lsg="8 kun436?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+71X: Raumplanung, Landschaftsgestaltung, Urbanistik
+init -> Session ID 937183933
+search »(lsg="7 gel 820")« ->
+OK
+
+722: Architektur allg. und nach Orten
+init -> Session ID 937184190
+search »(lsg="7 gel 100")« ->
+OK
+
+725: Öffentliche Gebäude
+init -> Session ID 937184191
+search »(lsg="7 gel 743")« ->
+OK
+
+726: Sakrale Architektur
+init -> Session ID 937184448
+search »((lsg="8 kun 45?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+726: Sakrale Architektur
+init -> Session ID 937184449
+search »(lsg="7 gel 700")« ->
+OK
+
+728: Wohnbauten, Schlösser, Burgen
+init -> Session ID 937184450
+search »((lsg="8 ska 946?" or lsg="8 kun 443.11") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+728: Wohnbauten, Schlösser, Burgen
+init -> Session ID 937184707
+search »(lsg="7 gel 757" or lsg="7 gel 758" or lsg="7 gel 764")« ->
+OK
+
+72X: Architektur
+init -> Session ID 937184708
+search »((lsg="8 kun 45?" or lsg="8 ska 946?" or lsg="8 kun 443.11") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+72X: Architektur
+init -> Session ID 937184965
+search »(lsg="7 gel?")« ->
+OK
+
+75X: Malerei und Gemälde
+init -> Session ID 937184966
+search »((lsg="8 kun 608.1" or lsg="8 kun 613.2") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+75X: Malerei und Gemälde
+init -> Session ID 937185223
+search »(lsg="7 geg 100")« ->
+OK
+
+76X: Kunsthandwerk, Angewandte Kunst, Design, Inneneinrichtung
+init -> Session ID 937185224
+search »((lsg="8 kun 802?" or lsg="8 kun819.2") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+76X: Kunsthandwerk, Angewandte Kunst, Design, Inneneinrichtung
+init -> Session ID 937185481
+search »(lsg="7 gem 100" or lsg="7 gem 710" or lsg="7 gem 720")« ->
+OK
+
+780: Allgemeines
+init -> Session ID 937185482
+search »((lsg="8 mus 280?" or lsg="8 mus 600.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+781: Volksmusik
+init -> Session ID 937185739
+search »((lsg="8 ska 963?" or lsg="8 mus 580.200" or lsg="8 mus 664.700" or lsg="8 mus 664.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+781: Volksmusik
+init -> Session ID 937185740
+search »(lsg="7 guk 450")« ->
+OK
+
+782: Populäre Musik
+init -> Session ID 937185741
+search »(lsg="7 guu 000")« ->
+OK
+
+783: Geistliche Musik
+init -> Session ID 937185998
+search »(lsg="7 gur 520" or lsg="7 gur 680")« ->
+OK
+
+784: Vokalmusik
+init -> Session ID 937185999
+search »(lsg="7 gum 000")« ->
+OK
+
+785: Instrumentalmusik
+init -> Session ID 937186256
+search »(lsg="7 gun 000")« ->
+OK
+
+789: Komponisten
+init -> Session ID 937186257
+search »((lsg="8 mus 690:sib 3" or lsg="8 mus 690:blo 5" or lsg="8 mus 690:fel 3" or lsg="8 mus 690:gad 4") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+789: Komponisten
+init -> Session ID 937186514
+search »(lsg="7 gy 000")« ->
+OK
+
+78X: Musik
+init -> Session ID 937186515
+search »((lsg="8 mus 280?" or lsg="8 mus 600.900" or lsg="8 ska 963?" or lsg="8 mus 580.200" or lsg="8 mus 664.700" or lsg="8 mus 664.800" or lsg="8 mus 690:sib 3" or lsg="8 mus 690:blo 5" or lsg="8 mus 690:fel 3" or lsg="8 mus 690:gad 4") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+78X: Musik
+init -> Session ID 937186772
+search »(lsg="7 gu?" or lsg="7 gy?")« ->
+OK
+
+790: Freizeitgestaltung
+init -> Session ID 937186773
+search »((lsg="8 ska 830.600" or lsg="8 ska 972?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+790: Freizeitgestaltung
+init -> Session ID 937187030
+search »(lsg="7 fz?")« ->
+OK
+
+791: Öffentliche Darbietungen (Zirkus, Festumzüge etc.)
+init -> Session ID 937187031
+search »((lsg="8 ska 971?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+791: Öffentliche Darbietungen (Zirkus, Festumzüge etc.)
+init -> Session ID 937187288
+search »(lsg="7 fzo 000")« ->
+OK
+
+794: Spiele
+init -> Session ID 937187289
+search »((lsg="8 ska 961?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+794: Spiele
+init -> Session ID 937187290
+search »(lsg="7 fz?")« ->
+OK
+
+795: Gesellschafts- und Volkstanz
+init -> Session ID 937187547
+search »((lsg="8 ska 961?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+796: Sport
+init -> Session ID 937187548
+search »((lsg="8 spo 375?" or lsg="8 spo 396?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+796: Sport
+init -> Session ID 937187805
+search »(lsg="7 fy?")« ->
+OK
+
+79X: Freizeitgestaltung, darstellende Künste, Sport
+init -> Session ID 937187806
+search »((lsg="8 ska 830.600" or lsg="8 ska 972?" or lsg="8 ska 971?" or lsg="8 ska 961?" or lsg="8 ska 961?" or lsg="8 spo 375?" or lsg="8 spo 396?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+79X: Freizeitgestaltung, darstellende Künste, Sport
+init -> Session ID 937187807
+search »(lsg="7 fy?" or lsg="7 fz?" or lsg="7 fzo 000")« ->
+OK
+
+80X: Literaturen in Nordeuropa
+init -> Session ID 937188064
+search »(lsg="8 nor 0?")« ->
+OK
+
+811.1: Allgemeines
+init -> Session ID 937188065
+search »(lsg="8 nor 210.021")« ->
+OK
+
+811.2: Literaturtheorie
+init -> Session ID 937188322
+search »(lsg="8 nor 247?" or lsg="8 nor 249?" or lsg="8 nor 25?" or lsg="8 nor 260?")« ->
+OK
+
+811.3: Literaturgeschichte
+init -> Session ID 937188323
+search »(lsg="8 nor 245?" or lsg="8 nor 246?" or lsg="8 nor 293.200" or lsg="8 nor 293.600" or lsg="8 nor 293.800")« ->
+OK
+
+811.4: Volksdichtung
+init -> Session ID 937188324
+search »(lsg="8 nor 266?" or lsg="8 nor 268?" or lsg="8 nor 27?" or lsg="8 nor 28?" or lsg="8 nor 290?" or lsg="8 nor 293.400")« ->
+OK
+
+811.5: Textsammlungen
+init -> Session ID 937188581
+search »(lsg="8 nor 72?" or lsg="8 nor 73?" or lsg="8 nor 74?" or lsg="8 nor 75?" or lsg="8 nor 76?" or lsg="8 nor 77?" or lsg="8 nor 78?" or lsg="8 nor 79?")« ->
+OK
+
+811.6: Autoren
+init -> Session ID 937188582
+search »(lsg="8 nor 295?")« ->
+OK
+
+811.X: Altnordische Literatur
+init -> Session ID 937188839
+search »(lsg="8 nor 210.021" or lsg="8 nor 247?" or lsg="8 nor 249?" or lsg="8 nor 25?" or lsg="8 nor 260?" or lsg="8 nor 245?" or lsg="8 nor 246?" or lsg="8 nor 293.200" or lsg="8 nor 293.600" or lsg="8 nor 293.800" or lsg="8 nor 266?" or lsg="8 nor 268?" or lsg="8 nor 27?" or lsg="8 nor 28?" or lsg="8 nor 290?" or lsg="8 nor 293.400" or lsg="8 nor 72?" or lsg="8 nor 73?" or lsg="8 nor 74?" or lsg="8 nor 75?" or lsg="8 nor 76?" or lsg="8 nor 77?" or lsg="8 nor 78?" or lsg="8 nor 79?" or lsg="8 nor 295?")« ->
+OK
+
+812.1: Allgemeines
+init -> Session ID 937188840
+search »(lsg="8 nor 460?")« ->
+OK
+
+812.1: Allgemeines
+init -> Session ID 937189097
+search »(lsg="7 hwd 5?" or lsg="7 hwa 5?" or lsg="7 hwb 5?")« ->
+OK
+
+812.2: Literaturtheorie
+init -> Session ID 937189098
+search »(lsg="8 nor 49?")« ->
+OK
+
+812.2: Literaturtheorie
+init -> Session ID 937189099
+search »(lsg="7 hwd 510" or lsg="7 hwd 512" or lsg="7 hwa 510" or lsg="7 hwb 512 ")« ->
+OK
+
+812.3: Literaturgeschichte
+init -> Session ID 937189356
+search »(lsg="8 nor 490?")« ->
+OK
+
+812.3: Literaturgeschichte
+init -> Session ID 937189357
+search »(lsg="7 hwd 580" or lsg="7 hwa 580" or lsg="7 hwb 580 ")« ->
+OK
+
+812.4: Volksdichtung
+init -> Session ID 937189614
+search »(lsg="8 nor 492?")« ->
+OK
+
+812.4: Volksdichtung
+init -> Session ID 937189615
+search »(lsg="7 hwd 438" or lsg="7 hwd 446" or lsg="7 hwa 438" or lsg="7 hwa 446" or lsg="7 hwb 438" or lsg="7 hwb 446")« ->
+OK
+
+812.5: Textsammlungen
+init -> Session ID 937189872
+search »(lsg="8 nor 88?" or lsg="8 nor 89?")« ->
+OK
+
+812.5: Textsammlungen
+init -> Session ID 937189873
+search »(lsg="7 hwd 4?" or lsg="7 hwd 5?" or lsg="7 hwa 4?" or lsg="7 hwa 5 ?" or lsg="7 hwb 4?" or lsg="7 hwb 5?" or lsg="7 ")« ->
+OK
+
+812.6: Autoren, einzelne Textdenkmäler
+init -> Session ID 937190130
+search »(lsg="8 nor 900?")« ->
+OK
+
+812.6: Autoren, einzelne Textdenkmäler
+init -> Session ID 937190131
+search »(lsg="7 hwd 6?" or lsg="7 hwa 6?" or lsg="7 hwb 6?")« ->
+OK
+
+812.X: Isländische Literatur
+init -> Session ID 937190132
+search »(lsg="8 nor 460?" or lsg="8 nor 49?" or lsg="8 nor 490?" or lsg="8 nor 492?" or lsg="8 nor 88?" or lsg="8 nor 89?" or lsg="8 nor 900?")« ->
+OK
+
+812.X: Isländische Literatur
+init -> Session ID 937190389
+search »(lsg="7 hwd 4?" or lsg="7 hwd 5?" or lsg="7 hwd 6?" or lsg="7 hwa 4?" or lsg="7 hwa 5 ?" or lsg="7 hwa 6?" or lsg="7 hwb 4?" or lsg="7 hwb 5?" or lsg="7 hwb 6? ")« ->
+OK
+
+813.1: Allgemeines
+init -> Session ID 937190390
+search »(lsg="8 nor 451.100")« ->
+OK
+
+813.3: Literaturgeschichte
+init -> Session ID 937190647
+search »(lsg="8 nor 453?")« ->
+OK
+
+813.4: Volksdichtung
+init -> Session ID 937190648
+search »(lsg="8 nor 492?")« ->
+OK
+
+813.5: Textsammlungen
+init -> Session ID 937190905
+search »(lsg="8 nor 855?")« ->
+OK
+
+813.6: Autoren
+init -> Session ID 937190906
+search »(lsg="8 nor 875?" or lsg="8 nor 900?")« ->
+OK
+
+813.X: Färöische Literatur
+init -> Session ID 937191163
+search »(lsg="8 nor 451.100" or lsg="8 nor 453?" or lsg="8 nor 492?" or lsg="8 nor 855?" or lsg="8 nor 875?" or lsg="8 nor 900?")« ->
+OK
+
+814.1: Allgemeines
+init -> Session ID 937191164
+search »(lsg="8 nor 610?" or lsg="8 nor 675?")« ->
+OK
+
+814.1: Allgemeines
+init -> Session ID 937191165
+search »(lsg="7 hws 5?")« ->
+OK
+
+814.2: Literaturtheorie
+init -> Session ID 937191422
+search »(lsg="8 nor 635?" or lsg="8 nor 678?" or lsg="8 nor 68?" or lsg="8 nor 694?" or lsg="8 nor 708?" or lsg="8 nor 710?")« ->
+OK
+
+814.2: Literaturtheorie
+init -> Session ID 937191423
+search »(lsg="7 hws 510" or lsg="7 hws 512")« ->
+OK
+
+814.3: Literaturgeschichte
+init -> Session ID 937191424
+search »(lsg="8 nor 303.800" or lsg="8 nor 675?" or lsg="8 nor 700?" or lsg="8 nor 701?" or lsg="8 nor 703?" or lsg="8 nor 704?" or lsg="8 nor 706?")« ->
+OK
+
+814.3: Literaturgeschichte
+init -> Session ID 937191425
+search »(lsg="7 hws 580")« ->
+OK
+
+814.4: Volksdichtung
+init -> Session ID 937191682
+search »(lsg="8 nor 689?")« ->
+OK
+
+814.4: Volksdichtung
+init -> Session ID 937191683
+search »(lsg="7 hws 438" or lsg="7 hws 446")« ->
+OK
+
+814.5: Textsammlungen
+init -> Session ID 937191684
+search »(lsg="8 nor 805?" or lsg="8 nor 936?" or lsg="8 nor 937?" or lsg="8 nor 938?" or lsg="8 nor 94?" or lsg="8 nor 95?" or lsg="8 nor 96?" or lsg="8 nor 97?")« ->
+OK
+
+814.5: Textsammlungen
+init -> Session ID 937191941
+search »(lsg="7 hws 4?" or lsg="7 hws 5?")« ->
+OK
+
+814.6: Autoren
+init -> Session ID 937191942
+search »(lsg="8 nor 980?")« ->
+OK
+
+814.6: Autoren
+init -> Session ID 937192199
+search »(lsg="7 hws 6?")« ->
+OK
+
+814.X: Schwedische Literatur
+init -> Session ID 937192200
+search »(lsg="8 nor 610?" or lsg="8 nor 675?" or lsg="8 nor 635?" or lsg="8 nor 678?" or lsg="8 nor 68?" or lsg="8 nor 694?" or lsg="8 nor 708?" or lsg="8 nor 710?" or lsg="8 nor 303.800" or lsg="8 nor 675?" or lsg="8 nor 700?" or lsg="8 nor 701?" or lsg="8 nor 703?" or lsg="8 nor 704?" or lsg="8 nor 706?" or lsg="8 nor 689?" or lsg="8 nor 805?" or lsg="8 nor 936?" or lsg="8 nor 937?" or lsg="8 nor 938?" or lsg="8 nor 94?" or lsg="8 nor 95?" or lsg="8 nor 96?" or lsg="8 nor 97?" or lsg="8 nor 980?")« ->
+OK
+
+814.X: Schwedische Literatur
+init -> Session ID 937192201
+search »(lsg="7 hws 4?" or lsg="7 hws 5?" or lsg="7 hws 6?")« ->
+OK
+
+815.1: Allgemeines
+init -> Session ID 937192458
+search »(lsg="8 nor 340?")« ->
+OK
+
+815.1: Allgemeines
+init -> Session ID 937192459
+search »(lsg="7 hwk 5?")« ->
+OK
+
+815.2: Literaturtheorie
+init -> Session ID 937192716
+search »(lsg="8 nor 370?")« ->
+OK
+
+815.2: Literaturtheorie
+init -> Session ID 937192717
+search »(lsg="7 hwk 510" or lsg="7 hwk 512")« ->
+OK
+
+815.3: Literaturgeschichte
+init -> Session ID 937192974
+search »(lsg="8 nor 303.200" or lsg="8 nor 421?" or lsg="8 nor 422?" or lsg="8 nor 423?" or lsg="8 nor 424?" or lsg="8 nor 438?" or lsg="8 nor 440?" or lsg="8 nor 441?" or lsg="8 nor 442?" or lsg="8 nor 444?")« ->
+OK
+
+815.3: Literaturgeschichte
+init -> Session ID 937192975
+search »(lsg="7 hwk 580")« ->
+OK
+
+815.4: Volksdichtung
+init -> Session ID 937193232
+search »(lsg="8 nor 425?" or lsg="8 nor 448?")« ->
+OK
+
+815.4: Volksdichtung
+init -> Session ID 937193233
+search »(lsg="7 hwk 438" or lsg="7 hwk 446")« ->
+OK
+
+815.5: Textsammlungen
+init -> Session ID 937193234
+search »(lsg="8 nor 800?" or lsg="8 nor 816?" or lsg="8 nor 817?" or lsg="8 nor 818?" or lsg="8 nor 82?" or lsg="8 nor 83?" or lsg="8 nor 840.100" or lsg="8 nor 840.200" or lsg="8 nor 840.300" or lsg="8 nor 840.500" or lsg="8 nor 840.600" or lsg="8 nor 840.700")« ->
+OK
+
+815.5: Textsammlungen
+init -> Session ID 937193491
+search »(lsg="7 hwk 4?" or lsg="7 hwk 5?")« ->
+OK
+
+815.6: Autoren
+init -> Session ID 937193492
+search »(lsg="8 nor 850?")« ->
+OK
+
+815.6: Autoren
+init -> Session ID 937193749
+search »(lsg="7 hwk 6?")« ->
+OK
+
+815.X: Dänische Literatur
+init -> Session ID 937193750
+search »(lsg="8 nor 340?" or lsg="8 nor 370?" or lsg="8 nor 303.200" or lsg="8 nor 421?" or lsg="8 nor 422?" or lsg="8 nor 423?" or lsg="8 nor 424?" or lsg="8 nor 438?" or lsg="8 nor 440?" or lsg="8 nor 441?" or lsg="8 nor 442?" or lsg="8 nor 444?" or lsg="8 nor 425?" or lsg="8 nor 448?" or lsg="8 nor 800?" or lsg="8 nor 816?" or lsg="8 nor 817?" or lsg="8 nor 818?" or lsg="8 nor 82?" or lsg="8 nor 83?" or lsg="8 nor 840.100" or lsg="8 nor 840.200" or lsg="8 nor 840.300" or lsg="8 nor 840.500" or lsg="8 nor 840.600" or lsg="8 nor 840.700" or lsg="8 nor 850?")« ->
+OK
+
+815.X: Dänische Literatur
+init -> Session ID 937193751
+search »(lsg="7 hwk 4?" or lsg="7 hwk 5?" or lsg="7 hwk 6?")« ->
+OK
+
+816.1: Allgemeines
+init -> Session ID 937194008
+search »(lsg="8 nor 500?" or lsg="8 nor 565?")« ->
+OK
+
+816.1: Allgemeines
+init -> Session ID 937194009
+search »(lsg="7 hwg 5?")« ->
+OK
+
+816.2: Literaturtheorie
+init -> Session ID 937194266
+search »(lsg="8 nor 530?" or lsg="8 nor 568?" or lsg="8 nor 57?")« ->
+OK
+
+816.2: Literaturtheorie
+init -> Session ID 937194267
+search »(lsg="7 hwg 510" or lsg="7 hwg 512")« ->
+OK
+
+816.3: Literaturgeschichte
+init -> Session ID 937194524
+search »(lsg="8 nor 303.600" or lsg="8 nor 585?" or lsg="8 nor 586?" or lsg="8 nor 587?" or lsg="8 nor 590?" or lsg="8 nor 600?")« ->
+OK
+
+816.3: Literaturgeschichte
+init -> Session ID 937194525
+search »(lsg="7 hwg 580")« ->
+OK
+
+816.4: Volksdichtung
+init -> Session ID 937194526
+search »(lsg="8 nor 577.800")« ->
+OK
+
+816.4: Volksdichtung
+init -> Session ID 937194783
+search »(lsg="7 hwg 438" or lsg="7 hwg 446")« ->
+OK
+
+816.5: Textsammlungen
+init -> Session ID 937194784
+search »(lsg="8 nor 803?" or lsg="8 nor 90?" or lsg="8 nor 91?" or lsg="8 nor 92?")« ->
+OK
+
+816.5: Textsammlungen
+init -> Session ID 937195041
+search »(lsg="7 hwg 4?" or lsg="7 hwg 5?")« ->
+OK
+
+816.6: Autoren
+init -> Session ID 937195042
+search »(lsg="8 nor 930?")« ->
+OK
+
+816.6: Autoren
+init -> Session ID 937195043
+search »(lsg="7 hwg 6?")« ->
+OK
+
+816.X: Norwegische Literatur
+init -> Session ID 937195300
+search »(lsg="8 nor 500?" or lsg="8 nor 565?" or lsg="8 nor 530?" or lsg="8 nor 568?" or lsg="8 nor 57?" or lsg="8 nor 303.600" or lsg="8 nor 585?" or lsg="8 nor 586?" or lsg="8 nor 587?" or lsg="8 nor 590?" or lsg="8 nor 600?" or lsg="8 nor 577.800" or lsg="8 nor 803?" or lsg="8 nor 90?" or lsg="8 nor 91?" or lsg="8 nor 92?" or lsg="8 nor 930?")« ->
+OK
+
+816.X: Norwegische Literatur
+init -> Session ID 937195301
+search »(lsg="7 hwg 4?" or lsg="7 hwg 5?" or lsg="7 hwg 6?")« ->
+OK
+
+81X: Skandinavische Literaturen gesamt
+init -> Session ID 937195558
+search »(lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 303.100" or lsg="8 nor 325?" or lsg="8 nor 326?" or lsg="8 nor 327?" or lsg="8 nor 329?" or lsg="8 nor 33?" or lsg="8 nor 810?")« ->
+OK
+
+81X: Skandinavische Literaturen gesamt
+init -> Session ID 937195559
+search »(lsg="7 hws 4?" or lsg="7 hws 5?" or lsg="7 hws 6?") or (lsg="7 hwg 4?" or lsg="7 hwg 5?" or lsg="7 hwg 6?") or (lsg="7 hwk 4?" or lsg="7 hwk 5?" or lsg="7 hwk 6?") or (lsg="7 hwd 4?" or lsg="7 hwd 5?" or lsg="7 hwd 6?" or lsg="7 hwa 4?" or lsg="7 hwa 5 ?" or lsg="7 hwa 6?" or lsg="7 hwb 4?" or lsg="7 hwb 5?" or lsg="7 hwb 6? ")« ->
+OK
+
+830: Allgemeines, Literaturgeschichte
+init -> Session ID 937195816
+search »(lsg="7 jlm 500" or lsg="7 jlm 580" or lsg="7 jls 500" and lsg="7 jln 500" or lsg="7 jls 580" and lsg="7 jln 580")« ->
+OK
+
+831.1: Allgemeines
+init -> Session ID 937195817
+search »((lsg="8 sla 870.000" or lsg="8 sla 870.090" or lsg="8 sla 870.200" or lsg="8 sla 870.250") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.1: Allgemeines
+init -> Session ID 937195818
+search »(lsg="7 jln 5?")« ->
+OK
+
+831.2: Literaturtheorie
+init -> Session ID 937196075
+search »(lsg="7 jln 510" or lsg="7 jln 512")« ->
+OK
+
+831.3: Literaturgeschichte
+init -> Session ID 937196076
+search »((lsg="8 sla 870.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.3: Literaturgeschichte
+init -> Session ID 937196333
+search »(lsg="7 jln 580")« ->
+OK
+
+831.4: Volksdichtung
+init -> Session ID 937196334
+search »((lsg="8 sla 870.300") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.4: Volksdichtung
+init -> Session ID 937196335
+search »(lsg="7 jln 438" or lsg="7 jln 446" or lsg="7 jln 538" or lsg="7 jln 546")« ->
+OK
+
+831.5: Textsammlungen
+init -> Session ID 937196592
+search »((lsg="8 sla 870.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.5: Textsammlungen
+init -> Session ID 937196593
+search »(lsg="7 jln 4?" or lsg="7 jln 5? ")« ->
+OK
+
+831.61: Primärliteratur von einzelnen Autoren
+init -> Session ID 937196850
+search »(lsg="7 jln 610" or lsg="7 jln 620" or lsg="7 jln 630 ")« ->
+OK
+
+831.62: Sekundärliteratur zu einzelnen Autoren
+init -> Session ID 937196851
+search »(lsg="7 jln 640" or lsg="7 jln 650" or lsg="7 jln 660" or lsg="7 jln 662" or lsg="7 jln 664" or lsg="7 jln 666" or lsg="7 jln 668 ")« ->
+OK
+
+831.6X: Primär- und Sekundärliteratur zu einzelnen Autoren
+init -> Session ID 937197108
+search »((lsg="8 sla 874?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.6X: Primär- und Sekundärliteratur zu einzelnen Autoren
+init -> Session ID 937197109
+search »(lsg="7 jln 6?")« ->
+OK
+
+831.X: Finnische Literatur
+init -> Session ID 937197110
+search »((lsg="8 sla 870.000" or lsg="8 sla 870.090" or lsg="8 sla 870.200" or lsg="8 sla 870.250" or lsg="8 sla 870.400" or lsg="8 sla 870.300" or lsg="8 sla 870.500" or lsg="8 sla 874?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+831.X: Finnische Literatur
+init -> Session ID 937197367
+search »(lsg="7 jln 4?" or lsg="7 jln 5?" or lsg="7 jln 6?")« ->
+OK
+
+83X: Ostseefinnische Literaturen
+init -> Session ID 937197368
+search »((lsg="8 sla 870.000" or lsg="8 sla 870.090" or lsg="8 sla 870.200" or lsg="8 sla 870.250" or lsg="8 sla 870.400" or lsg="8 sla 870.300" or lsg="8 sla 870.500" or lsg="8 sla 874?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+83X: Ostseefinnische Literaturen
+init -> Session ID 937197625
+search »(lsg="7 jlm 4?" or lsg="7 jlm 5?" or lsg="7 jls 4?" and lsg="7 jln 4?" or lsg="7 jls 5?" and lsg="7 jln 5?")« ->
+OK
+
+84X: Saamische Literatur
+init -> Session ID 937197626
+search »(lsg="7 jll 4?" or lsg="7 jll 5?" or lsg="7 jll 6?")« ->
+OK
+
+85X: Grönländische Literatur
+init -> Session ID 937197627
+search »(lsg="8 nor 840.900")« ->
+OK
+
+910: Allgemeines
+init -> Session ID 937197884
+search »((lsg="8 ska 001?" or lsg="8 ska 013.200" or lsg="8 ska 013.700" or lsg="8 ska 013.800" or lsg="8 ska 013.900" or lsg="8 ska 015?" or lsg="8 ska 02?" or lsg="8 ska 03?" or lsg="8 ska 04?" or lsg="8 ska 05?" or lsg="8 ska 06?" or lsg="8 ska 07?" or lsg="8 ska 08?" or lsg="8 ska 09?" or lsg="8 lan 256?" or lsg="8 lan 543?" or lsg="8 lan 546?" or lsg="8 jus 942.015" or lsg="8 jus 949.015" or lsg="8 jus 952.015" or lsg="8 jus 954.015" or lsg="8 jus 956.015") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+910: Allgemeines
+init -> Session ID 937197885
+search »(lsg="7 qgc 5?" or lsg="7 qhg 230") or (lsg="7 qgc 4?") or (lsg="7 qgc 3?") or (lsg="7 qgc 2?") or (lsg="7 qgc 6?")« ->
+OK
+
+911.1: Zeitlich übergreifend
+init -> Session ID 937198142
+search »((lsg="8 ska 010?" or lsg="8 ska 033.700" or lsg="8 ska 021?" or lsg="8 ska 035.700" or lsg="8 ska 044?" or lsg="8 ska 055?" or lsg="8 ska 083?" or lsg="8 ska 131?" or lsg="8 lan 97?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+911.X: Historische Geografie
+init -> Session ID 937198143
+search »((lsg="8 ska 010?" or lsg="8 ska 033.700" or lsg="8 ska 021?" or lsg="8 ska 035.700" or lsg="8 ska 044?" or lsg="8 ska 055?" or lsg="8 ska 083?" or lsg="8 ska 131?" or lsg="8 lan 97?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+911.X: Historische Geografie
+init -> Session ID 937198400
+search »(lsg="7 qek 000")« ->
+OK
+
+912: Atlanten, Karten, Pläne
+init -> Session ID 937198401
+search »((lsg="8 ska 015.028" or lsg="8 ska 003.028" or lsg="8 ska 033.028" or lsg="8 ska 035.028" or lsg="8 ska 037.028" or lsg="8 ska 048.028" or lsg="8 ska 077.028") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+912: Atlanten, Karten, Pläne
+init -> Session ID 937198658
+search »(lsg="7 urc 5?" or lsg="7 urg 51?" or lsg="7 uqq 720 ")« ->
+OK
+
+914.11: Nordpolarmeer und europäisches Nordmeer
+init -> Session ID 937198659
+search »((lsg="8 geo 828.8" or lsg="8 geo 804.2?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+914.12: Ostsee
+init -> Session ID 937198660
+search »((lsg="8 geo 828.2" or lsg="8 geo 800?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+914.13: Nordsee
+init -> Session ID 937198917
+search »((lsg="8 geo 828.3" or lsg="8 geo 801?" or lsg="8 geo 802.4") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+914.1X: Meereskunde allgemein
+init -> Session ID 937198918
+search »((lsg="8 geo 780?" or lsg="8 geo 784?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+914.X: Physische Geographie
+init -> Session ID 937199175
+search »((lsg="8 geo 780?" or lsg="8 geo 784?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+914.X: Physische Geographie
+init -> Session ID 937199176
+search »(lsg="7 qd 000")« ->
+OK
+
+915.X: Anthropogeographie
+init -> Session ID 937199433
+search »((lsg="8 ska 007?" or lsg="8 ska 019?" or lsg="8 ska 035.400" or lsg="8 ska 033.400" or lsg="8 ska 041?" or lsg="8 ska 052?" or lsg="8 ska 081?" or lsg="8 ska 974?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+915.X: Anthropogeographie
+init -> Session ID 937199434
+search »(lsg="7 qe?")« ->
+OK
+
+916.1: Umweltforschung, Umweltschutz, Landschaftspflege
+init -> Session ID 937199435
+search »((lsg="8 geo 894.6" or lsg="8 geo 917" or lsg="8 geo 966?" or lsg="8 geo 978?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+916.1: Umweltforschung, Umweltschutz, Landschaftspflege
+init -> Session ID 937199692
+search »(lsg="7 qfc 400" or lsg="7 qfc 480")« ->
+OK
+
+916.2: Raumordnung, Raumplanung
+init -> Session ID 937199693
+search »((lsg="8 soz 648?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+916.X: Angewandte Geographie
+init -> Session ID 937199950
+search »(lsg="7 qf 000")« ->
+OK
+
+91X: Geografie, Reisen
+init -> Session ID 937199951
+search »((lsg="8 ska 001?" or lsg="8 ska 013.200" or lsg="8 ska 013.700" or lsg="8 ska 013.800" or lsg="8 ska 013.900" or lsg="8 ska 015?" or lsg="8 ska 02?" or lsg="8 ska 03?" or lsg="8 ska 04?" or lsg="8 ska 05?" or lsg="8 ska 06?" or lsg="8 ska 07?" or lsg="8 ska 08?" or lsg="8 ska 09?" or lsg="8 lan 256?" or lsg="8 lan 543?" or lsg="8 lan 546?" or lsg="8 jus 942.015" or lsg="8 jus 949.015" or lsg="8 jus 952.015" or lsg="8 jus 954.015" or lsg="8 jus 956.015" or lsg="8 ska 010?" or lsg="8 ska 033.700" or lsg="8 ska 021?" or lsg="8 ska 035.700" or lsg="8 ska 044?" or lsg="8 ska 055?" or lsg="8 ska 083?" or lsg="8 ska 131?" or lsg="8 lan 97?" or lsg="8 ska 015.028" or lsg="8 ska 003.028" or lsg="8 ska 033.028" or lsg="8 ska 035.028" or lsg="8 ska 037.028" or lsg="8 ska 048.028" or lsg="8 ska 077.028" or lsg="8 geo 780?" or lsg="8 geo 784?" or lsg="8 ska 007?" or lsg="8 ska 019?" or lsg="8 ska 035.400" or lsg="8 ska 033.400" or lsg="8 ska 041?" or lsg="8 ska 052?" or lsg="8 ska 081?" or lsg="8 ska 974?" or lsg="8 geo 894.6" or lsg="8 geo 917" or lsg="8 geo 966?" or lsg="8 geo 978?" or lsg="8 soz 648?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+91X: Geografie, Reisen
+init -> Session ID 937200208
+search »(lsg="7 qgc 5?" or lsg="7 qhg 230")« ->
+OK
+
+92X: Biographien und biographische Nachschlagewerke
+init -> Session ID 937200209
+search »((lsg="8 ska 112.100" or lsg="8 ska 112.200" or lsg="8 ska 112.500" or lsg="8 ska 112.600" or lsg="8 ska 112.800" or lsg="8 all 77?" or lsg="8 all 78?" or lsg="8 all 79?" or lsg="8 all 80?" or lsg="8 all 81?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+92X: Biographien und biographische Nachschlagewerke
+init -> Session ID 937200210
+search »(lsg="8 nor 295.200" or lsg="8 nor 565.600" or lsg="8 nor 675.600")« ->
+OK
+
+92X: Biographien und biographische Nachschlagewerke
+init -> Session ID 937200467
+search »(lsg="7 pnn 800" or lsg="7 pno 800" or lsg="7 pnp 800" or lsg="7 pnq 800" or lsg="7 pnr 800")« ->
+OK
+
+930: Archäologie, Theorie und Methoden
+init -> Session ID 937200468
+search »((lsg="8 ska 222.070" or lsg="8 ska 222.100" or lsg="8 ska 247?" or lsg="8 ska 25?" or lsg="8 ska 26?" or lsg="8 ska 271?" or lsg="8 ska 272?" or lsg="8 ska 273?" or lsg="8 ska 275?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+930: Archäologie, Theorie und Methoden
+init -> Session ID 937200725
+search »(lsg="7 o 2?")« ->
+OK
+
+936: Ur- und Frühgeschichte: Darstellungen
+init -> Session ID 937200726
+search »((lsg="8 ska 22?" or lsg="8 ska 23?" or lsg="8 ska 34?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+936: Ur- und Frühgeschichte: Darstellungen
+init -> Session ID 937200727
+search »(lsg="7 pef 090" or lsg="7 pef 290" or lsg="7 pef 490" or lsg="7 pef 690")« ->
+OK
+
+93X: Archäologie und Ur- und Frühgeschichte
+init -> Session ID 937200984
+search »((lsg="8 all 82?" or lsg="8 all 83?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+93X: Archäologie und Ur- und Frühgeschichte
+init -> Session ID 937200985
+search »(lsg="7 okc 1?" or lsg="7 pef 000" or lsg="7 pef 200" or lsg="7 pef 400" or lsg="7 pef 600")« ->
+OK
+
+940: Ausbildung, Forschung, Geschichtswissenschaft
+init -> Session ID 937201242
+search »((lsg="8 ska 001?" or lsg="8 ska 102.200" or lsg="8 ska 104?" or lsg="8 ska 105?" or lsg="8 ska 106?" or lsg="8 ska 107?" or lsg="8 ska 108?" or lsg="8 ska 109?" or lsg="8 ska 110?" or lsg="8 ska 146.740" or lsg="8 ska 670?" or lsg="8 ska 870.016" or lsg="8 ska 870.017" or lsg="8 ska 870.018" or lsg="8 ska 873?" or lsg="8 ska 876?" or lsg="8 ska 878?" or lsg="8 ska 914.030" or lsg="8 ska 914.040" or lsg="8 ska 914.060" or lsg="8 ska 914.070") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.1: Archivwesen
+init -> Session ID 937201243
+search »((lsg="8 ska 119.200" or lsg="8 ska 119.3?" or lsg="8 ska 119.600" or lsg="8 ska 119.700" or lsg="8 ska 119.800" or lsg="8 gsb 240.50") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.1: Archivwesen
+init -> Session ID 937201500
+search »(lsg="7 pdb 270")« ->
+OK
+
+941.2: Genealogie
+init -> Session ID 937201501
+search »((lsg="8 ska 123?" or lsg="8 ska 146.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.2: Genealogie
+init -> Session ID 937201502
+search »(lsg="7 pdi 607" or lsg="7 pdi 217")« ->
+OK
+
+941.3: Epigraphik, Wappenkunde, Siegel, Orden, Fahnen
+init -> Session ID 937201759
+search »((lsg="8 ska 127?" or lsg="8 ska 128?" or lsg="8 ska 129?" or lsg="8 ska 134.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.3: Epigraphik, Wappenkunde, Siegel, Orden, Fahnen
+init -> Session ID 937201760
+search »(lsg="7 pdl 307")« ->
+OK
+
+941.4: Numismatik
+init -> Session ID 937202017
+search »((lsg="8 ska 134.100" or lsg="8 ska 134.150" or lsg="8 ska 134.200" or lsg="8 ska 134.300" or lsg="8 ska 134.400" or lsg="8 ska 134.500" or lsg="8 ska 134.600" or lsg="8 ska 134.700" or lsg="8 ska 134.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.4: Numismatik
+init -> Session ID 937202018
+search »(lsg="7 pdn 507")« ->
+OK
+
+941.X: Historische Hilfswissenschaften
+init -> Session ID 937202275
+search »((lsg="8 ska 116?" or lsg="8 ska 133?" or lsg="8 ska 140?" or lsg="8 ska 117?" or lsg="8 ska 118?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+941.X: Historische Hilfswissenschaften
+init -> Session ID 937202276
+search »(( lsg="7 pdb 270") or ( lsg="7 pdi 607" or lsg="7 pdi 217") or ( lsg="7 pdl 307") or ( lsg="7 pdn 507"))« ->
+OK
+
+942.1: Zeitlich übergreifend
+init -> Session ID 937202277
+search »((lsg="8 ska 102.400" or lsg="8 ska 161.200" or lsg="8 ska 163.023" or lsg="8 ska 168.023" or lsg="8 ska 214.200" or lsg="8 ska 153.023" or lsg="8 ska 872?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.1: Zeitlich übergreifend
+init -> Session ID 937202534
+search »(lsg="7 pnn 100" or lsg="7 pnn 150")« ->
+OK
+
+942.3: Mittelalter
+init -> Session ID 937202535
+search »((lsg="8 ska 278?" or lsg="8 ska 287.200" or lsg="8 ska 296.200" or lsg="8 ska 298.200" or lsg="8 ska 301.200" or lsg="8 ska 344.200" or lsg="8 gsd 302?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.3: Mittelalter
+init -> Session ID 937202792
+search »(lsg="7 pno 100" or lsg="7 pno 150")« ->
+OK
+
+942.4: Frühe Neuzeit
+init -> Session ID 937202793
+search »((lsg="8 ska 369.200" or lsg="8 ska 403.200" or lsg="8 ska 406.300" or lsg="8 ska 406.700" or lsg="8 ska 410.200" or lsg="8 ska 413.200" or lsg="8 ska 421.200" or lsg="8 ska 424.300" or lsg="8 ska 424.700" or lsg="8 ska 427.300" or lsg="8 ska 427.700" or lsg="8 ska 430.200" or lsg="8 ska 433.300" or lsg="8 ska 433.700" or lsg="8 ska 421.300" or lsg="8 gsd 302?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.4: Frühe Neuzeit
+init -> Session ID 937202794
+search »(lsg="7 pnp 100" or lsg="7 pnp 150")« ->
+OK
+
+942.5: 19. Jahrhundert
+init -> Session ID 937203051
+search »((lsg="8 ska 386.200" or lsg="8 ska 389.200" or lsg="8 ska 392.200" or lsg="8 ska 395.200" or lsg="8 ska 395.500" or lsg="8 ska 500.200" or lsg="8 ska 500.500" or lsg="8 ska 500.800" or lsg="8 ska 503.200" or lsg="8 ska 533.200" or lsg="8 ska 535.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 548.200" or lsg="8 ska 551.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 563.300" or lsg="8 ska 563.700" or lsg="8 ska 566.200" or lsg="8 ska 569.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.5: 19. Jahrhundert
+init -> Session ID 937203052
+search »(lsg="7 pnq 100" or lsg="7 pnq 150")« ->
+OK
+
+942.6: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937203309
+search »((lsg="8 ska 503.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 544.200" or lsg="8 ska 548.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 560.200" or lsg="8 ska 566.200" or lsg="8 ska 569.200" or lsg="8 ska 571.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.6: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937203310
+search »(lsg="7 pnr 100" or lsg="7 pnr 150")« ->
+OK
+
+942.7: Zweiter Weltkrieg
+init -> Session ID 937203567
+search »((lsg="8 ska 511.200" or lsg="8 ska 511.5?" or lsg="8 ska 518.200" or lsg="8 ska 523.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.7: Zweiter Weltkrieg
+init -> Session ID 937203568
+search »(lsg="7 pnr 100" or lsg="7 pnr 150")« ->
+OK
+
+942.8: Seit 1945
+init -> Session ID 937203569
+search »((lsg="8 ska 681.200" or lsg="8 ska 690.200" or lsg="8 ska 693.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.8: Seit 1945
+init -> Session ID 937203826
+search »(lsg="7 pnn 100" or lsg="7 pnn 150")« ->
+OK
+
+942.X: Geschichte: Quellen
+init -> Session ID 937203827
+search »((lsg="8 ska 102.400" or lsg="8 ska 161.200" or lsg="8 ska 163.023" or lsg="8 ska 168.023" or lsg="8 ska 214.200" or lsg="8 ska 153.023" or lsg="8 ska 872?" or lsg="8 ska 278?" or lsg="8 ska 287.200" or lsg="8 ska 296.200" or lsg="8 ska 298.200" or lsg="8 ska 301.200" or lsg="8 ska 344.200" or lsg="8 gsd 302?" or lsg="8 ska 369.200" or lsg="8 ska 403.200" or lsg="8 ska 406.300" or lsg="8 ska 406.700" or lsg="8 ska 410.200" or lsg="8 ska 413.200" or lsg="8 ska 421.200" or lsg="8 ska 424.300" or lsg="8 ska 424.700" or lsg="8 ska 427.300" or lsg="8 ska 427.700" or lsg="8 ska 430.200" or lsg="8 ska 433.300" or lsg="8 ska 433.700" or lsg="8 ska 421.300" or lsg="8 gsd 302?" or lsg="8 ska 386.200" or lsg="8 ska 389.200" or lsg="8 ska 392.200" or lsg="8 ska 395.200" or lsg="8 ska 395.500" or lsg="8 ska 500.200" or lsg="8 ska 500.500" or lsg="8 ska 500.800" or lsg="8 ska 503.200" or lsg="8 ska 533.200" or lsg="8 ska 535.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 548.200" or lsg="8 ska 551.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 563.300" or lsg="8 ska 563.700" or lsg="8 ska 566.200" or lsg="8 ska 569.200" or lsg="8 ska 503.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 544.200" or lsg="8 ska 548.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 560.200" or lsg="8 ska 566.200" or lsg="8 ska 569.200" or lsg="8 ska 571.200" or lsg="8 ska 511.200" or lsg="8 ska 511.5?" or lsg="8 ska 518.200" or lsg="8 ska 523.200" or lsg="8 ska 681.200" or lsg="8 ska 690.200" or lsg="8 ska 693.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+942.X: Geschichte: Quellen
+init -> Session ID 937204084
+search »(( lsg="7 pnn 100" or lsg="7 pnn 150") or ( lsg="7 pno 100" or lsg="7 pno 150") or ( lsg="7 pnp 100" or lsg="7 pnp 150") or ( lsg="7 pnq 100" or lsg="7 pnq 150") or ( lsg="7 pnr 100" or lsg="7 pnr 150") or ( lsg="7 pnr 100" or lsg="7 pnr 150") or ( lsg="7 pnn 100" or lsg="7 pnn 150"))« ->
+OK
+
+943.1: Zeitlich übergreifend
+init -> Session ID 937204085
+search »((lsg="8 ska 100?" or lsg="8 ska 145?" or lsg="8 ska 146.900" or lsg="8 ska 153?" or lsg="8 ska 159?" or lsg="8 ska 161?" or lsg="8 ska 163?" or lsg="8 ska 168?" or lsg="8 ska 178?" or lsg="8 gsb 680?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.1: Zeitlich übergreifend
+init -> Session ID 937204086
+search »(lsg="7 pnn 200")« ->
+OK
+
+943.2: Mittelalter
+init -> Session ID 937204343
+search »((lsg="8 ska 280?" or lsg="8 ska 281.300" or lsg="8 ska 281.900" or lsg="8 ska 287?" or lsg="8 ska 293?" or lsg="8 ska 294?" or lsg="8 ska 296.100" or lsg="8 ska 296.700" or lsg="8 ska 298.100" or lsg="8 ska 298.250" or lsg="8 ska 298.700" or lsg="8 ska 298.100" or lsg="8 ska 298.500" or lsg="8 ska 298.700" or lsg="8 ska 301.100" or lsg="8 ska 301.250" or lsg="8 ska 301.900" or lsg="8 ska 308?" or lsg="8 gsd 280?" or lsg="8 gsd 303?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.2: Mittelalter
+init -> Session ID 937204344
+search »(lsg="7 pno 200")« ->
+OK
+
+943.3: Frühe Neuzeit
+init -> Session ID 937204601
+search »((lsg="8 ska 359?" or lsg="8 ska 361?" or lsg="8 ska 364?" or lsg="8 ska 369.100" or lsg="8 ska 369.300" or lsg="8 ska 369.400" or lsg="8 ska 369.500" or lsg="8 ska 374?" or lsg="8 ska 376?" or lsg="8 ska 386?" or lsg="8 ska 389?" or lsg="8 ska 392?" or lsg="8 ska 395.300" or lsg="8 ska 395.400" or lsg="8 ska 395.600" or lsg="8 ska 395.600" or lsg="8 ska 395.700" or lsg="8 ska 395.9?" or lsg="8 ska 40?" or lsg="8 ska 421.100" or lsg="8 ska 421.500" or lsg="8 ska 421.500" or lsg="8 ska 424.100" or lsg="8 ska 424.400" or lsg="8 ska 424.800" or lsg="8 ska 427.100" or lsg="8 ska 427.400" or lsg="8 ska 427.800" or lsg="8 ska 430.100" or lsg="8 ska 430.700" or lsg="8 ska 433.100" or lsg="8 ska 433.400" or lsg="8 ska 433.800" or lsg="8 gsd 280?" or lsg="8 gsd 303?" or lsg="8 gsd 799?" or lsg="8 gsd 814?" or lsg="8 gsd 812?" or lsg="8 gsd 962?" or lsg="8 ska 439?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.3: Frühe Neuzeit
+init -> Session ID 937204602
+search »(lsg="7 pnp 200")« ->
+OK
+
+943.4: 19. Jahrhundert
+init -> Session ID 937204859
+search »((lsg="8 ska 369.600" or lsg="8 ska 369.800" or lsg="8 ska 395.100" or lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.100" or lsg="8 ska 493.200" or lsg="8 ska 493.900" or lsg="8 ska 496?" or lsg="8 ska 498?" or lsg="8 ska 500.300" or lsg="8 ska 500.600" or lsg="8 ska 500.900" or lsg="8 ska 395.400" or lsg="8 ska 503.100" or lsg="8 ska 503.900" or lsg="8 ska 532?" or lsg="8 ska 533.700" or lsg="8 ska 535.700" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 551.100" or lsg="8 ska 551.900" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 562?" or lsg="8 ska 563.100" or lsg="8 ska 563.400" or lsg="8 ska 563.900" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gse 595?" or lsg="8 gse 660?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.4: 19. Jahrhundert
+init -> Session ID 937204860
+search »(lsg="7 pnq 200")« ->
+OK
+
+943.5: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937205117
+search »((lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.800" or lsg="8 ska 496?" or lsg="8 ska 503.100" or lsg="8 ska 503.400" or lsg="8 ska 503.900" or lsg="8 ska 507.100" or lsg="8 ska 507.200" or lsg="8 ska 507.400" or lsg="8 ska 507.600" or lsg="8 ska 507.800" or lsg="8 ska 532?" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 544.100" or lsg="8 ska 544.700" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 560.700" or lsg="8 ska 562?" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 571.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gsf 820?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.5: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937205118
+search »(lsg="7 pnr 200")« ->
+OK
+
+943.6: Zweiter Weltkrieg
+init -> Session ID 937205119
+search »((lsg="8 ska 509?" or lsg="8 ska 511" or lsg="8 ska 511.100" or lsg="8 ska 511.300" or lsg="8 ska 511.6?" or lsg="8 ska 511.7?" or lsg="8 ska 511.8?" or lsg="8 ska 511.900" or lsg="8 ska 516?" or lsg="8 ska 517?" or lsg="8 ska 518" or lsg="8 ska 518.100" or lsg="8 ska 518.300" or lsg="8 ska 518.400" or lsg="8 ska 518.500" or lsg="8 ska 518.650" or lsg="8 ska 518.7?" or lsg="8 ska 518.8?" or lsg="8 ska 518.900" or lsg="8 ska 523.100" or lsg="8 ska 523.300" or lsg="8 ska 523.400" or lsg="8 ska 523.700" or lsg="8 ska 523.900" or lsg="8 gsf 152.40") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.6: Zweiter Weltkrieg
+init -> Session ID 937205376
+search »(lsg="7 pnr 200")« ->
+OK
+
+943.7: Seit 1945
+init -> Session ID 937205377
+search »((lsg="8 ska 670?" or lsg="8 ska 671?" or lsg="8 ska 681.100" or lsg="8 ska 681.900" or lsg="8 ska 684?" or lsg="8 ska 685?" or lsg="8 ska 689?" or lsg="8 ska 690.100" or lsg="8 ska 690.900" or lsg="8 ska 693.100" or lsg="8 ska 693.900" or lsg="8 ska 694?" or lsg="8 gsg 820?" or lsg="8 gsg 872.50" or lsg="8 gsg 877.10") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+943.7: Seit 1945
+init -> Session ID 937205634
+search »(lsg="7 pnr 200")« ->
+OK
+
+943.X: Geschichte: Darstellungen
+init -> Session ID 937205635
+search »((lsg="8 ska 100?" or lsg="8 ska 145?" or lsg="8 ska 146.900" or lsg="8 ska 153?" or lsg="8 ska 159?" or lsg="8 ska 161?" or lsg="8 ska 163?" or lsg="8 ska 168?" or lsg="8 ska 178?" or lsg="8 gsb 680?" or lsg="8 ska 280?" or lsg="8 ska 281.300" or lsg="8 ska 281.900" or lsg="8 ska 287?" or lsg="8 ska 293?" or lsg="8 ska 294?" or lsg="8 ska 296.100" or lsg="8 ska 296.700" or lsg="8 ska 298.100" or lsg="8 ska 298.250" or lsg="8 ska 298.700" or lsg="8 ska 298.100" or lsg="8 ska 298.500" or lsg="8 ska 298.700" or lsg="8 ska 301.100" or lsg="8 ska 301.250" or lsg="8 ska 301.900" or lsg="8 ska 308?" or lsg="8 gsd 280?" or lsg="8 gsd 303?" or lsg="8 ska 359?" or lsg="8 ska 361?" or lsg="8 ska 364?" or lsg="8 ska 369.100" or lsg="8 ska 369.300" or lsg="8 ska 369.400" or lsg="8 ska 369.500" or lsg="8 ska 374?" or lsg="8 ska 376?" or lsg="8 ska 386?" or lsg="8 ska 389?" or lsg="8 ska 392?" or lsg="8 ska 395.300" or lsg="8 ska 395.400" or lsg="8 ska 395.600" or lsg="8 ska 395.600" or lsg="8 ska 395.700" or lsg="8 ska 395.9?" or lsg="8 ska 40?" or lsg="8 ska 421.100" or lsg="8 ska 421.500" or lsg="8 ska 421.500" or lsg="8 ska 424.100" or lsg="8 ska 424.400" or lsg="8 ska 424.800" or lsg="8 ska 427.100" or lsg="8 ska 427.400" or lsg="8 ska 427.800" or lsg="8 ska 430.100" or lsg="8 ska 430.700" or lsg="8 ska 433.100" or lsg="8 ska 433.400" or lsg="8 ska 433.800" or lsg="8 gsd 280?" or lsg="8 gsd 303?" or lsg="8 gsd 799?" or lsg="8 gsd 814?" or lsg="8 gsd 812?" or lsg="8 gsd 962?" or lsg="8 ska 439?" or lsg="8 ska 369.600" or lsg="8 ska 369.800" or lsg="8 ska 395.100" or lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.100" or lsg="8 ska 493.200" or lsg="8 ska 493.900" or lsg="8 ska 496?" or lsg="8 ska 498?" or lsg="8 ska 500.300" or lsg="8 ska 500.600" or lsg="8 ska 500.900" or lsg="8 ska 395.400" or lsg="8 ska 503.100" or lsg="8 ska 503.900" or lsg="8 ska 532?" or lsg="8 ska 533.700" or lsg="8 ska 535.700" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 551.100" or lsg="8 ska 551.900" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 562?" or lsg="8 ska 563.100" or lsg="8 ska 563.400" or lsg="8 ska 563.900" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gse 595?" or lsg="8 gse 660?" or lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.800" or lsg="8 ska 496?" or lsg="8 ska 503.100" or lsg="8 ska 503.400" or lsg="8 ska 503.900" or lsg="8 ska 507.100" or lsg="8 ska 507.200" or lsg="8 ska 507.400" or lsg="8 ska 507.600" or lsg="8 ska 507.800" or lsg="8 ska 532?" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 544.100" or lsg="8 ska 544.700" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 560.700" or lsg="8 ska 562?" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 571.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gsf 820?" or lsg="8 ska 509?" or lsg="8 ska 511" or lsg="8 ska 511.100" or lsg="8 ska 511.300" or lsg="8 ska 511.6?" or lsg="8 ska 511.7?" or lsg="8 ska 511.8?" or lsg="8 ska 511.900" or lsg="8 ska 516?" or lsg="8 ska 517?" or lsg="8 ska 518" or lsg="8 ska 518.100" or lsg="8 ska 518.300" or lsg="8 ska 518.400" or lsg="8 ska 518.500" or lsg="8 ska 518.650" or lsg="8 ska 518.7?" or lsg="8 ska 518.8?" or lsg="8 ska 518.900" or lsg="8 ska 523.100" or lsg="8 ska 523.300" or lsg="8 ska 523.400" or lsg="8 ska 523.700" or lsg="8 ska 523.900" or lsg="8 gsf 152.40" or lsg="8 ska 670?" or lsg="8 ska 671?" or lsg="8 ska 681.100" or lsg="8 ska 681.900" or lsg="8 ska 684?" or lsg="8 ska 685?" or lsg="8 ska 689?" or lsg="8 ska 690.100" or lsg="8 ska 690.900" or lsg="8 ska 693.100" or lsg="8 ska 693.900" or lsg="8 ska 694?" or lsg="8 gsg 820?" or lsg="8 gsg 872.50" or lsg="8 gsg 877.10") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+Fehler: Error: Server responded with status code 400:
+<error>HTTP Error 400: Bad Request</error>
+
+943.X: Geschichte: Darstellungen
+init -> Session ID 937205892
+search »(( lsg="7 pnn 200") or ( lsg="7 pno 200") or ( lsg="7 pnp 200") or ( lsg="7 pnq 200") or ( lsg="7 pnr 200") or ( lsg="7 pnr 200") or ( lsg="7 pnr 200"))« ->
+OK
+
+944.1: Zeitlich übergreifend
+init -> Session ID 937205893
+search »(lsg="7 pnn 800")« ->
+OK
+
+944.2: Mittelalter
+init -> Session ID 937206150
+search »(lsg="7 pno 800")« ->
+OK
+
+944.3: Frühe Neuzeit
+init -> Session ID 937206151
+search »((lsg="8 ska 395.950" or lsg="8 ska 456.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+944.3: Frühe Neuzeit
+init -> Session ID 937206152
+search »(lsg="7 pnp 800")« ->
+OK
+
+944.4: 19. Jahrhundert
+init -> Session ID 937206409
+search »((lsg="8 gse 595.30") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+944.4: 19. Jahrhundert
+init -> Session ID 937206410
+search »(lsg="7 pnq 800")« ->
+OK
+
+944.5: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937206667
+search »((lsg="8 ska 790.600" or lsg="8 gsf 820.20") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+944.5: 20. Jahrhundert - 1. Hälfte
+init -> Session ID 937206668
+search »(lsg="7 pnr 800")« ->
+OK
+
+944.6: Seit 1945
+init -> Session ID 937206669
+search »((lsg="8 ska 681.800" or lsg="8 ska 690.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+944.6: Seit 1945
+init -> Session ID 937206926
+search »(lsg="7 pnr 800")« ->
+OK
+
+944.X: Persönlichkeiten
+init -> Session ID 937206927
+search »((lsg="8 ska 395.950" or lsg="8 ska 456.400" or lsg="8 gse 595.30" or lsg="8 ska 790.600" or lsg="8 gsf 820.20" or lsg="8 ska 681.800" or lsg="8 ska 690.800") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+944.X: Persönlichkeiten
+init -> Session ID 937207184
+search »(( lsg="7 pnn 800") or ( lsg="7 pno 800") or ( lsg="7 pnp 800") or ( lsg="7 pnq 800") or ( lsg="7 pnr 800") or ( lsg="7 pnr 800"))« ->
+OK
+
+945.1: Zeitlich übergreifend
+init -> Session ID 937207185
+search »((lsg="8 ska 87?" or lsg="8 ska 88?" or lsg="8 ska 894?" or lsg="8 ska 973?" or lsg="8 ska 975?" or lsg="8 ska 997?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.1: Zeitlich übergreifend
+init -> Session ID 937207442
+search »(lsg="7 pnn 500")« ->
+OK
+
+945.2: Mittelalter
+init -> Session ID 937207443
+search »((lsg="8 ska 893?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.2: Mittelalter
+init -> Session ID 937207700
+search »(lsg="7 pno 500")« ->
+OK
+
+945.3: Frühe Neuzeit
+init -> Session ID 937207701
+search »((lsg="8 ska 895?" or lsg="8 ska 897?" or lsg="8 ska 899?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.3: Frühe Neuzeit
+init -> Session ID 937207702
+search »(lsg="7 pnp 500")« ->
+OK
+
+945.4: 19. Jahrhundert
+init -> Session ID 937207959
+search »((lsg="8 ska 900?" or lsg="8 ska 901?" or lsg="8 ska 902?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.4: 19. Jahrhundert
+init -> Session ID 937207960
+search »(lsg="7 pnq 500")« ->
+OK
+
+945.5: 20. Jahrhundert
+init -> Session ID 937208217
+search »((lsg="8 ska 903?" or lsg="8 ska 904?" or lsg="8 ska 905?" or lsg="8 ska 908?" or lsg="8 ska 91?" or lsg="8 ska 92?" or lsg="8 ska 930?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.5: 20. Jahrhundert
+init -> Session ID 937208218
+search »(lsg="7 pnr 500")« ->
+OK
+
+945.X: Kulturgeschichte
+init -> Session ID 937208475
+search »((lsg="8 ska 87?" or lsg="8 ska 88?" or lsg="8 ska 894?" or lsg="8 ska 973?" or lsg="8 ska 975?" or lsg="8 ska 997?" or lsg="8 ska 893?" or lsg="8 ska 895?" or lsg="8 ska 897?" or lsg="8 ska 899?" or lsg="8 ska 900?" or lsg="8 ska 901?" or lsg="8 ska 902?" or lsg="8 ska 903?" or lsg="8 ska 904?" or lsg="8 ska 905?" or lsg="8 ska 908?" or lsg="8 ska 91?" or lsg="8 ska 92?" or lsg="8 ska 930?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+945.X: Kulturgeschichte
+init -> Session ID 937208476
+search »(( lsg="7 pnn 500") or ( lsg="7 pno 500") or ( lsg="7 pnp 500") or ( lsg="7 pnq 500") or ( lsg="7 pnr 500"))« ->
+OK
+
+946.1: Zeitlich übergreifend
+init -> Session ID 937208477
+search »((lsg="8 ska 146.7?" or lsg="8 ska 155?" or lsg="8 ska 156?" or lsg="8 ska 157?" or lsg="8 ska 159?" or lsg="8 ska 161.700" or lsg="8 ska 166?" or lsg="8 ska 171?" or lsg="8 ska 172?" or lsg="8 ska 146.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+946.1: Zeitlich übergreifend
+init -> Session ID 937208734
+search »(lsg="7 pnn 600")« ->
+OK
+
+946.2: Mittelalter
+init -> Session ID 937208735
+search »((lsg="8 ska 287.600" or lsg="8 ska 301.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+946.2: Mittelalter
+init -> Session ID 937208992
+search »(lsg="7 pno 600")« ->
+OK
+
+946.3: Frühe Neuzeit
+init -> Session ID 937208993
+search »(lsg="7 pnp 600")« ->
+OK
+
+946.4: 19. Jahrhundert
+init -> Session ID 937209250
+search »((lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 551.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+946.4: 19. Jahrhundert
+init -> Session ID 937209251
+search »(lsg="7 pnq 600")« ->
+OK
+
+946.5: 20. Jahrhundert
+init -> Session ID 937209508
+search »((lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700" or lsg="8 ska 681.700" or lsg="8 ska 690.700" or lsg="8 ska 693.700" or lsg="8 ska 845?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+946.5: 20. Jahrhundert
+init -> Session ID 937209509
+search »(lsg="7 pnr 600")« ->
+OK
+
+946.X: Regionalgeschichte
+init -> Session ID 937209510
+search »((lsg="8 ska 146.7?" or lsg="8 ska 155?" or lsg="8 ska 156?" or lsg="8 ska 157?" or lsg="8 ska 159?" or lsg="8 ska 161.700" or lsg="8 ska 166?" or lsg="8 ska 171?" or lsg="8 ska 172?" or lsg="8 ska 146.600" or lsg="8 ska 287.600" or lsg="8 ska 301.600" or lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 551.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700" or lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700" or lsg="8 ska 681.700" or lsg="8 ska 690.700" or lsg="8 ska 693.700" or lsg="8 ska 845?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+946.X: Regionalgeschichte
+init -> Session ID 937209767
+search »(( lsg="7 pnn 600") or ( lsg="7 pno 600") or ( lsg="7 pnp 600") or ( lsg="7 pnq 600") or ( lsg="7 pnr 600"))« ->
+OK
+
+947.1: Zeitlich übergreifend
+init -> Session ID 937209768
+search »(lsg="7 pnn 700")« ->
+OK
+
+947.2: Mittelalter
+init -> Session ID 937210025
+search »((lsg="8 ska 281.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+947.2: Mittelalter
+init -> Session ID 937210026
+search »(lsg="7 pno 700")« ->
+OK
+
+947.3: Frühe Neuzeit
+init -> Session ID 937210283
+search »((lsg="8 ska 383?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+947.3: Frühe Neuzeit
+init -> Session ID 937210284
+search »(lsg="7 pnp 700")« ->
+OK
+
+947.4: 19. Jahrhundert
+init -> Session ID 937210541
+search »((lsg="8 ska 529?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+947.4: 19. Jahrhundert
+init -> Session ID 937210542
+search »(lsg="7 pnq 700")« ->
+OK
+
+947.5: 20. Jahrhundert
+init -> Session ID 937210799
+search »((lsg="8 ska 529?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+947.5: 20. Jahrhundert
+init -> Session ID 937210800
+search »(lsg="7 pnr 700")« ->
+OK
+
+947.X: Stadt- und Ortsgeschichte
+init -> Session ID 937210801
+search »((lsg="8 ska 281.500" or lsg="8 ska 383?" or lsg="8 ska 529?" or lsg="8 ska 529?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+947.X: Stadt- und Ortsgeschichte
+init -> Session ID 937211058
+search »(( lsg="7 pnn 700") or ( lsg="7 pno 700") or ( lsg="7 pnp 700") or ( lsg="7 pnq 700") or ( lsg="7 pnr 700"))« ->
+OK
+
+948.1: Zeitlich übergreifend
+init -> Session ID 937211059
+search »((lsg="8 ska 212?" or lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+948.2: Mittelalter
+init -> Session ID 937211316
+search »((lsg="8 ska 209.800" or lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 344?" or lsg="8 gsd 475?" or lsg="8 gsd 485?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+948.3: Frühe Neuzeit
+init -> Session ID 937211317
+search »((lsg="8 ska 489?" or lsg="8 gsd 485?" or lsg="8 gsd 475?" or lsg="8 gsd 970.40") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+948.4: 19. Jahrhundert
+init -> Session ID 937211318
+search »((lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+948.5: 20. Jahrhundert
+init -> Session ID 937211575
+search »((lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+948.X: Religions- und Kirchengeschichte
+init -> Session ID 937211576
+search »((lsg="8 ska 212?" or lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60" or lsg="8 ska 209.800" or lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 344?" or lsg="8 gsd 475?" or lsg="8 gsd 485?" or lsg="8 ska 489?" or lsg="8 gsd 485?" or lsg="8 gsd 475?" or lsg="8 gsd 970.40" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.01: Zeitlich übergreifend
+init -> Session ID 937211833
+search »((lsg="8 ska 185.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.01: Zeitlich übergreifend
+init -> Session ID 937211834
+search »(lsg="7 pnn 300")« ->
+OK
+
+949.02: Mittelalter
+init -> Session ID 937212091
+search »((lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.02: Mittelalter
+init -> Session ID 937212092
+search »(lsg="7 pno 300")« ->
+OK
+
+949.03: Frühe Neuzeit
+init -> Session ID 937212349
+search »((lsg="8 ska 439?" or lsg="8 ska 438?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.03: Frühe Neuzeit
+init -> Session ID 937212350
+search »(lsg="7 pnp 300")« ->
+OK
+
+949.04: 19. Jahrhundert
+init -> Session ID 937212607
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.04: 19. Jahrhundert
+init -> Session ID 937212608
+search »(lsg="7 pnq 300")« ->
+OK
+
+949.05: 20. Jahrhundert
+init -> Session ID 937212609
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.05: 20. Jahrhundert
+init -> Session ID 937212866
+search »(lsg="7 pnr 300")« ->
+OK
+
+949.0X: Sozialgeschichte allgemein
+init -> Session ID 937212867
+search »((lsg="8 ska 185.900" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900" or lsg="8 ska 439?" or lsg="8 ska 438?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.0X: Sozialgeschichte allgemein
+init -> Session ID 937213124
+search »(( lsg="7 pnn 300") or ( lsg="7 pno 300") or ( lsg="7 pnp 300") or ( lsg="7 pnq 300") or ( lsg="7 pnr 300"))« ->
+OK
+
+949.1: Geschichte der Frau
+init -> Session ID 937213125
+search »((lsg="8 ska 819?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.2: Geschichte der Arbeiterbewegung
+init -> Session ID 937213382
+search »((lsg="8 ska 609?" or lsg="8 ska 851?" or lsg="8 soz 810?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.X: Sozialgeschichte
+init -> Session ID 937213383
+search »((lsg="8 ska 185.900" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 314.900" or lsg="8 ska 439?" or lsg="8 ska 438?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 597.900" or lsg="8 ska 819?" or lsg="8 ska 609?" or lsg="8 ska 851?" or lsg="8 soz 810?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+949.X: Sozialgeschichte
+init -> Session ID 937213384
+search »(( lsg="7 pnn 300") or ( lsg="7 pno 300") or ( lsg="7 pnp 300") or ( lsg="7 pnq 300") or ( lsg="7 pnr 300"))« ->
+OK
+
+94A.01: Zeitlich übergreifend
+init -> Session ID 937213641
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.01: Zeitlich übergreifend
+init -> Session ID 937213642
+search »(lsg="7 pnn 400")« ->
+OK
+
+94A.02: Mittelalter
+init -> Session ID 937213899
+search »((lsg="8 ska 305?" or lsg="8 ska 308?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.02: Mittelalter
+init -> Session ID 937213900
+search »(lsg="7 pno 400")« ->
+OK
+
+94A.03: Frühe Neuzeit
+init -> Session ID 937214157
+search »((lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.03: Frühe Neuzeit
+init -> Session ID 937214158
+search »(lsg="7 pnp 400")« ->
+OK
+
+94A.04: 19. Jahrhundert
+init -> Session ID 937214415
+search »((lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.04: 19. Jahrhundert
+init -> Session ID 937214416
+search »(lsg="7 pnq 400")« ->
+OK
+
+94A.05: 20. Jahrhundert
+init -> Session ID 937214417
+search »((lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.05: 20. Jahrhundert
+init -> Session ID 937214674
+search »(lsg="7 pnr 400")« ->
+OK
+
+94A.0X: Wirtschaftsgeschichte allgemein
+init -> Session ID 937214675
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.0X: Wirtschaftsgeschichte allgemein
+init -> Session ID 937214932
+search »(( lsg="7 pnn 400") or ( lsg="7 pno 400") or ( lsg="7 pnp 400") or ( lsg="7 pnq 400") or ( lsg="7 pnr 400"))« ->
+OK
+
+94A.1: Agrargeschichte
+init -> Session ID 937214933
+search »((lsg="8 agr 2?" or lsg="8 ska 185.900" or lsg="8 ska 446.100" or lsg="8 ska 446.200" or lsg="8 ska 446.400" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 597.100" or lsg="8 ska 786?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.21: Zeitlich übergreifend
+init -> Session ID 937215190
+search »((lsg="8 ska 617?" or lsg="8 ska 790.100") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.22: Mittelalter
+init -> Session ID 937215191
+search »((lsg="8 ska 790.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.23: Frühe Neuzeit
+init -> Session ID 937215448
+search »((lsg="8 ska 321.200") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.23: Frühe Neuzeit
+init -> Session ID 937215449
+search »(lsg="8 nor 293.600")« ->
+OK
+
+94A.24: 19. Jahrhundert
+init -> Session ID 937215706
+search »(lsg="8 nor 790.800")« ->
+OK
+
+94A.25: 20. Jahrhundert
+init -> Session ID 937215707
+search »((lsg="8 ska 146.500" or lsg="8 ska 281.400" or lsg="8 ska 381?" or lsg="8 ska 527?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.2X: Handelsgeschichte (hier auch Ostseehandel)
+init -> Session ID 937215964
+search »((lsg="8 ska 790.600" or lsg="8 ska 192.100" or lsg="8 ska 321.900" or lsg="8 ska 456.400" or lsg="8 ska 456.100" or lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 613?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.3: Geschichte der Hanse
+init -> Session ID 937215965
+search »((lsg="8 ska 527?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.X: Wirtschaftsgeschichte
+init -> Session ID 937216222
+search »((lsg="8 ska 185.100" or lsg="8 ska 185.200" or lsg="8 ska 196?" or lsg="8 ska 198?" or lsg="8 ska 305?" or lsg="8 ska 308?" or lsg="8 ska 438?" or lsg="8 ska 460?" or lsg="8 ska 462?" or lsg="8 ska 574?" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 ska 574?" or lsg="8 ska 785?" or lsg="8 ska 788.800" or lsg="8 ska 575?" or lsg="8 ska 793?" or lsg="8 ska 624?" or lsg="8 ska 626?" or lsg="8 agr 2?" or lsg="8 ska 185.900" or lsg="8 ska 446.100" or lsg="8 ska 446.200" or lsg="8 ska 446.400" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 597.100" or lsg="8 ska 786?" or lsg="8 ska 790.600" or lsg="8 ska 192.100" or lsg="8 ska 321.900" or lsg="8 ska 456.400" or lsg="8 ska 456.100" or lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 613?" or lsg="8 ska 527?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94A.X: Wirtschaftsgeschichte
+init -> Session ID 937216223
+search »((( lsg="7 pnn 400") or ( lsg="7 pno 400") or ( lsg="7 pnp 400") or ( lsg="7 pnq 400") or ( lsg="7 pnr 400")))« ->
+OK
+
+94B: Rechtsgeschichte
+init -> Session ID 937216224
+search »((lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94B: Rechtsgeschichte
+init -> Session ID 937216481
+search »(lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+94C.2: Mittelalter
+init -> Session ID 937216482
+search »((lsg="8 ska 281.400") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94C.3: Frühe Neuzeit
+init -> Session ID 937216739
+search »((lsg="8 ska 381?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94C.4: 19. Jahrhundert
+init -> Session ID 937216740
+search »((lsg="8 ska 527?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94C.X: Militärgeschichte
+init -> Session ID 937216997
+search »((lsg="8 pol 986.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94D: Bildungsgeschichte
+init -> Session ID 937216998
+search »((lsg="8 sci 2?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94E: Technikgeschichte (Erfindungen, Schiffbau etc.)
+init -> Session ID 937216999
+search »((lsg="8 sci 4?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94F: Jüdische Geschichte
+init -> Session ID 937217256
+search »((lsg="8 ska 586.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+94X: Geschichte
+init -> Session ID 937217257
+search »((lsg="8 ska 001?" or lsg="8 ska 102.200" or lsg="8 ska 104?" or lsg="8 ska 105?" or lsg="8 ska 106?" or lsg="8 ska 107?" or lsg="8 ska 108?" or lsg="8 ska 109?" or lsg="8 ska 110?" or lsg="8 ska 146.740" or lsg="8 ska 670?" or lsg="8 ska 870.016" or lsg="8 ska 870.017" or lsg="8 ska 870.018" or lsg="8 ska 873?" or lsg="8 ska 876?" or lsg="8 ska 878?" or lsg="8 ska 914.030" or lsg="8 ska 914.040" or lsg="8 ska 914.060" or lsg="8 ska 914.070" or lsg="8 ska 116?" or lsg="8 ska 133?" or lsg="8 ska 140?" or lsg="8 ska 117?" or lsg="8 ska 118?" or lsg="8 ska 102.400" or lsg="8 ska 161.200" or lsg="8 ska 163.023" or lsg="8 ska 168.023" or lsg="8 ska 214.200" or lsg="8 ska 153.023" or lsg="8 ska 872?" or lsg="8 ska 278?" or lsg="8 ska 287.200" or lsg="8 ska 296.200" or lsg="8 ska 298.200" or lsg="8 ska 301.200" or lsg="8 ska 344.200" or lsg="8 gsd 302?" or lsg="8 ska 369.200" or lsg="8 ska 403.200" or lsg="8 ska 406.300" or lsg="8 ska 406.700" or lsg="8 ska 410.200" or lsg="8 ska 413.200" or lsg="8 ska 421.200" or lsg="8 ska 424.300" or lsg="8 ska 424.700" or lsg="8 ska 427.300" or lsg="8 ska 427.700" or lsg="8 ska 430.200" or lsg="8 ska 433.300" or lsg="8 ska 433.700" or lsg="8 ska 421.300" or lsg="8 gsd 302?" or lsg="8 ska 386.200" or lsg="8 ska 389.200" or lsg="8 ska 392.200" or lsg="8 ska 395.200" or lsg="8 ska 395.500" or lsg="8 ska 500.200" or lsg="8 ska 500.500" or lsg="8 ska 500.800" or lsg="8 ska 503.200" or lsg="8 ska 533.200" or lsg="8 ska 535.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 548.200" or lsg="8 ska 551.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 563.300" or lsg="8 ska 563.700" or lsg="8 ska 566.200" or lsg="8 ska 569.200" or lsg="8 ska 503.200" or lsg="8 ska 537.200" or lsg="8 ska 541.200" or lsg="8 ska 544.200" or lsg="8 ska 548.200" or lsg="8 ska 554.200" or lsg="8 ska 558.200" or lsg="8 ska 560.200" or lsg="8 ska 566.200" or lsg="8 ska 569.200" or lsg="8 ska 571.200" or lsg="8 ska 511.200" or lsg="8 ska 511.5?" or lsg="8 ska 518.200" or lsg="8 ska 523.200" or lsg="8 ska 681.200" or lsg="8 ska 690.200" or lsg="8 ska 693.200" or lsg="8 ska 100?" or lsg="8 ska 145?" or lsg="8 ska 146.900" or lsg="8 ska 153?" or lsg="8 ska 159?" or lsg="8 ska 161?" or lsg="8 ska 163?" or lsg="8 ska 168?" or lsg="8 ska 178?" or lsg="8 gsb 680?" or lsg="8 ska 280?" or lsg="8 ska 281.300" or lsg="8 ska 281.900" or lsg="8 ska 287?" or lsg="8 ska 293?" or lsg="8 ska 294?" or lsg="8 ska 296.100" or lsg="8 ska 296.700" or lsg="8 ska 298.100" or lsg="8 ska 298.250" or lsg="8 ska 298.700" or lsg="8 ska 298.100" or lsg="8 ska 298.500" or lsg="8 ska 298.700" or lsg="8 ska 301.100" or lsg="8 ska 301.250" or lsg="8 ska 301.900" or lsg="8 ska 308?" or lsg="8 gsd 280?" or lsg="8 gsd 303?" or lsg="8 ska 359?" or lsg="8 ska 361?" or lsg="8 ska 364?" or lsg="8 ska 369.100" or lsg="8 ska 369.300" or lsg="8 ska 369.400" or lsg="8 ska 369.500" or lsg="8 ska 374?" or lsg="8 ska 376?" or lsg="8 ska 386?" or lsg="8 ska 389?" or lsg="8 ska 392?" or lsg="8 ska 395.300" or lsg="8 ska 395.400" or lsg="8 ska 395.600" or lsg="8 ska 395.600" or lsg="8 ska 395.700" or lsg="8 ska 395.9?" or lsg="8 ska 40?" or lsg="8 ska 421.100" or lsg="8 ska 421.500" or lsg="8 ska 421.500" or lsg="8 ska 424.100" or lsg="8 ska 424.400" or lsg="8 ska 424.800" or lsg="8 ska 427.100" or lsg="8 ska 427.400" or lsg="8 ska 427.800" or lsg="8 ska 430.100" or lsg="8 ska 430.700" or lsg="8 ska 433.100" or lsg="8 ska 433.400" or lsg="8 ska 433.800" or lsg="8 gsd 280?" or lsg="8 gsd 303?" or lsg="8 gsd 799?" or lsg="8 gsd 814?" or lsg="8 gsd 812?" or lsg="8 gsd 962?" or lsg="8 ska 439?" or lsg="8 ska 369.600" or lsg="8 ska 369.800" or lsg="8 ska 395.100" or lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.100" or lsg="8 ska 493.200" or lsg="8 ska 493.900" or lsg="8 ska 496?" or lsg="8 ska 498?" or lsg="8 ska 500.300" or lsg="8 ska 500.600" or lsg="8 ska 500.900" or lsg="8 ska 395.400" or lsg="8 ska 503.100" or lsg="8 ska 503.900" or lsg="8 ska 532?" or lsg="8 ska 533.700" or lsg="8 ska 535.700" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 551.100" or lsg="8 ska 551.900" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 562?" or lsg="8 ska 563.100" or lsg="8 ska 563.400" or lsg="8 ska 563.900" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gse 595?" or lsg="8 gse 660?" or lsg="8 ska 490?" or lsg="8 ska 491?" or lsg="8 ska 493.800" or lsg="8 ska 496?" or lsg="8 ska 503.100" or lsg="8 ska 503.400" or lsg="8 ska 503.900" or lsg="8 ska 507.100" or lsg="8 ska 507.200" or lsg="8 ska 507.400" or lsg="8 ska 507.600" or lsg="8 ska 507.800" or lsg="8 ska 532?" or lsg="8 ska 537.100" or lsg="8 ska 537.900" or lsg="8 ska 541.100" or lsg="8 ska 541.900" or lsg="8 ska 544.100" or lsg="8 ska 544.700" or lsg="8 ska 546?" or lsg="8 ska 547?" or lsg="8 ska 548.100" or lsg="8 ska 548.900" or lsg="8 ska 550?" or lsg="8 ska 554.100" or lsg="8 ska 554.900" or lsg="8 ska 558.700" or lsg="8 ska 560.700" or lsg="8 ska 562?" or lsg="8 ska 566.100" or lsg="8 ska 566.900" or lsg="8 ska 569.700" or lsg="8 ska 571.700" or lsg="8 ska 573?" or lsg="8 ska 575?" or lsg="8 gsf 820?" or lsg="8 ska 509?" or lsg="8 ska 511" or lsg="8 ska 511.100" or lsg="8 ska 511.300" or lsg="8 ska 511.6?" or lsg="8 ska 511.7?" or lsg="8 ska 511.8?" or lsg="8 ska 511.900" or lsg="8 ska 516?" or lsg="8 ska 517?" or lsg="8 ska 518" or lsg="8 ska 518.100" or lsg="8 ska 518.300" or lsg="8 ska 518.400" or lsg="8 ska 518.500" or lsg="8 ska 518.650" or lsg="8 ska 518.7?" or lsg="8 ska 518.8?" or lsg="8 ska 518.900" or lsg="8 ska 523.100" or lsg="8 ska 523.300" or lsg="8 ska 523.400" or lsg="8 ska 523.700" or lsg="8 ska 523.900" or lsg="8 gsf 152.40" or lsg="8 ska 670?" or lsg="8 ska 671?" or lsg="8 ska 681.100" or lsg="8 ska 681.900" or lsg="8 ska 684?" or lsg="8 ska 685?" or lsg="8 ska 689?" or lsg="8 ska 690.100" or lsg="8 ska 690.900" or lsg="8 ska 693.100" or lsg="8 ska 693.900" or lsg="8 ska 694?" or lsg="8 gsg 820?" or lsg="8 gsg 872.50" or lsg="8 gsg 877.10" or lsg="8 ska 395.950" or lsg="8 ska 456.400" or lsg="8 gse 595.30" or lsg="8 ska 790.600" or lsg="8 gsf 820.20" or lsg="8 ska 681.800" or lsg="8 ska 690.800" or lsg="8 ska 87?" or lsg="8 ska 88?" or lsg="8 ska 894?" or lsg="8 ska 973?" or lsg="8 ska 975?" or lsg="8 ska 997?" or lsg="8 ska 893?" or lsg="8 ska 895?" or lsg="8 ska 897?" or lsg="8 ska 899?" or lsg="8 ska 900?" or lsg="8 ska 901?" or lsg="8 ska 902?" or lsg="8 ska 903?" or lsg="8 ska 904?" or lsg="8 ska 905?" or lsg="8 ska 908?" or lsg="8 ska 91?" or lsg="8 ska 92?" or lsg="8 ska 930?" or lsg="8 ska 146.7?" or lsg="8 ska 155?" or lsg="8 ska 156?" or lsg="8 ska 157?" or lsg="8 ska 159?" or lsg="8 ska 161.700" or lsg="8 ska 166?" or lsg="8 ska 171?" or lsg="8 ska 172?" or lsg="8 ska 146.600" or lsg="8 ska 287.600" or lsg="8 ska 301.600" or lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 551.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700" or lsg="8 ska 537.700" or lsg="8 ska 541.700" or lsg="8 ska 548.700" or lsg="8 ska 554.700" or lsg="8 ska 566.700" or lsg="8 ska 681.700" or lsg="8 ska 690.700" or lsg="8 ska 693.700" or lsg="8 ska 845?" or lsg="8 ska 281.500" or lsg="8 ska 383?" or lsg="8 ska 529?" or lsg="8 ska 529?" or lsg="8 ska 212?" or lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60" or lsg="8 ska 209.800" or lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 344?" or lsg="8 gsd 475?" or lsg="8 gsd 485?" or lsg="8 ska 489?" or lsg="8 gsd 485?" or lsg="8 gsd 475?" or lsg="8 gsd 970.40" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 819?" or lsg="8 ska 609?" or lsg="8 ska 851?" or lsg="8 soz 810?" or lsg="8 agr 2?" or lsg="8 ska 185.900" or lsg="8 ska 446.100" or lsg="8 ska 446.200" or lsg="8 ska 446.400" or lsg="8 ska 446.500" or lsg="8 ska 446.600" or lsg="8 ska 446.700" or lsg="8 ska 597.100" or lsg="8 ska 786?" or lsg="8 ska 790.600" or lsg="8 ska 192.100" or lsg="8 ska 321.900" or lsg="8 ska 456.400" or lsg="8 ska 456.100" or lsg="8 ska 613?" or lsg="8 ska 617?" or lsg="8 ska 613?" or lsg="8 ska 527?" or lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?" or lsg="8 pol 986.3" or lsg="8 sci 2?" or lsg="8 sci 4?" or lsg="8 ska 586.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+Fehler: Error: Server responded with status code 414:
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>414 Request-URI Too Long</title>
+</head><body>
+<h1>Request-URI Too Long</h1>
+<p>The requested URL's length exceeds the capacity
+limit for this server.<br />
+</p>
+</body></html>
+
+94X: Geschichte
+init -> Session ID 937217514
+search »(lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+94X: Geschichte
+init -> Session ID 937217515
+search »(lsg="7 pnn" or lsg="7 pno" or lsg="7 pnp" or lsg="7 pnq" or lsg="7 pnr")« ->
+OK
+
+vifanord-ROOT: vifanord
+init -> Session ID 937217772
+search »((lsg="8 ska 112.100" or lsg="8 ska 112.200" or lsg="8 ska 112.500" or lsg="8 ska 112.600" or lsg="8 ska 112.800" or lsg="8 all 77?" or lsg="8 all 78?" or lsg="8 all 79?" or lsg="8 all 80?" or lsg="8 all 81?" or lsg="8 all 82?" or lsg="8 all 83?" or lsg="8 soz 970?" or lsg="8 ska 357?" or lsg="8 ska 476?" or lsg="8 ska 486?" or lsg="8 ska 664?" or lsg="8 ska 867.200" or lsg="8 ska 867.600" or lsg="8 ska 867.800" or lsg="8 gsd 495?" or lsg="8 gsd 503?" or lsg="8 ska 595?" or lsg="8 ska 596?" or lsg="8 ska 827?" or lsg="8 kun436?" or lsg="8 kun 608.1" or lsg="8 kun 613.2" or lsg="8 kun 802?" or lsg="8 kun819.2" or lsg="8 phi 468.200" or lsg="8 rel 680:kie 7?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vifanord-ROOT: vifanord
+init -> Session ID 937217773
+search »(lsg="8 nor 295.200" or lsg="8 nor 565.600" or lsg="8 nor 675.600")« ->
+OK
+
+vifanord-ROOT: vifanord
+init -> Session ID 937218030
+search »(( lsg="7 pnn?" or lsg="7 pno?" or lsg="7 pnp?" or lsg="7 pnq?" or lsg="7 pnr?" or lsg="7 qgc 5?") or ( lsg="7 le?" or lsg="7 ld?" or lsg="7 li? ") or ( lsg="7 pnn 500" or lsg="7 pno 500" or lsg="7 pnp 500" or lsg="7 pnq 500" or lsg="7 pnr 500" or lsg="7 ca?" or lsg="7 cbq 100" or lsg="7 cbd 121" or lsg="7 qum 100") or ( lsg="7 g?" not lsg="7 gu?" not lsg="7 gy?"))« ->
+OK
+
+vn1: Philologie
+init -> Session ID 937218031
+search »((lsg="8 sla 852?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn1: Philologie
+init -> Session ID 937218288
+search »(lsg="8 nor 0?" or lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 303.100" or lsg="8 nor 325?" or lsg="8 nor 326?" or lsg="8 nor 327?" or lsg="8 nor 329?" or lsg="8 nor 33?" or lsg="8 nor 810?" or lsg="8 nor 840.900")« ->
+OK
+
+vn1: Philologie
+init -> Session ID 937218289
+search »((( lsg="7 jlm 2?" or lsg="7 jlm 3?" or lsg="7 jln 3?" and lsg="7 jls 3?" or lsg="7 jln 2?" and lsg="7 jls 2?") or ( lsg="7 jll 2?" or lsg="7 jll 3?")) or (( lsg="7 jlm 4?" or lsg="7 jlm 5?" or lsg="7 jls 4?" and lsg="7 jln 4?" or lsg="7 jls 5?" and lsg="7 jln 5?") or ( lsg="7 jll 4?" or lsg="7 jll 5?" or lsg="7 jll 6?")))« ->
+OK
+
+vn11: Sprache
+init -> Session ID 937218546
+search »((lsg="8 sla 853?" or lsg="8 sla 852?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn11: Sprache
+init -> Session ID 937218547
+search »(lsg="8 nor 0?" or lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 31?" or lsg="8 nor 320?")« ->
+OK
+
+vn11: Sprache
+init -> Session ID 937218548
+search »(( lsg="7 jlm 2?" or lsg="7 jlm 3?" or lsg="7 jln 3?" and lsg="7 jls 3?" or lsg="7 jln 2?" and lsg="7 jls 2?") or ( lsg="7 jll 2?" or lsg="7 jll 3?"))« ->
+OK
+
+vn12: Literatur
+init -> Session ID 937218805
+search »(lsg="8 nor 0?" or lsg="8 nor 20?" or lsg="8 nor 210?" or lsg="8 nor 303.100" or lsg="8 nor 325?" or lsg="8 nor 326?" or lsg="8 nor 327?" or lsg="8 nor 329?" or lsg="8 nor 33?" or lsg="8 nor 810?" or lsg="8 nor 840.900")« ->
+OK
+
+vn12: Literatur
+init -> Session ID 937218806
+search »(( lsg="7 jlm 4?" or lsg="7 jlm 5?" or lsg="7 jls 4?" and lsg="7 jln 4?" or lsg="7 jls 5?" and lsg="7 jln 5?") or ( lsg="7 jll 4?" or lsg="7 jll 5?" or lsg="7 jll 6?"))« ->
+OK
+
+vn2: Geschichte und Geowissenschaften
+init -> Session ID 937219063
+search »((lsg="8 ska 001?" or lsg="8 ska 013.200" or lsg="8 ska 013.700" or lsg="8 ska 013.800" or lsg="8 ska 013.900" or lsg="8 ska 015?" or lsg="8 ska 02?" or lsg="8 ska 03?" or lsg="8 ska 04?" or lsg="8 ska 05?" or lsg="8 ska 06?" or lsg="8 ska 07?" or lsg="8 ska 08?" or lsg="8 ska 09?" or lsg="8 lan 256?" or lsg="8 lan 543?" or lsg="8 lan 546?" or lsg="8 jus 942.015" or lsg="8 jus 949.015" or lsg="8 jus 952.015" or lsg="8 jus 954.015" or lsg="8 jus 956.015" or lsg="8 ska 015.028" or lsg="8 ska 003.028" or lsg="8 ska 033.028" or lsg="8 ska 035.028" or lsg="8 ska 037.028" or lsg="8 ska 048.028" or lsg="8 ska 077.028" or lsg="8 ska 007?" or lsg="8 ska 019?" or lsg="8 ska 035.400" or lsg="8 ska 033.400" or lsg="8 ska 041?" or lsg="8 ska 052?" or lsg="8 ska 081?" or lsg="8 ska 974?" or lsg="8 ska 112.100" or lsg="8 ska 112.200" or lsg="8 ska 112.500" or lsg="8 ska 112.600" or lsg="8 ska 112.800" or lsg="8 all 77?" or lsg="8 all 78?" or lsg="8 all 79?" or lsg="8 all 80?" or lsg="8 all 81?" or lsg="8 all 82?" or lsg="8 all 83?" or lsg="8 ska 001?" or lsg="8 ska 102.200" or lsg="8 ska 104?" or lsg="8 ska 105?" or lsg="8 ska 106?" or lsg="8 ska 107?" or lsg="8 ska 108?" or lsg="8 ska 109?" or lsg="8 ska 110?" or lsg="8 ska 146.740" or lsg="8 ska 670?" or lsg="8 ska 870.016" or lsg="8 ska 870.017" or lsg="8 ska 870.018" or lsg="8 ska 873?" or lsg="8 ska 876?" or lsg="8 ska 878?" or lsg="8 ska 914.030" or lsg="8 ska 914.040" or lsg="8 ska 914.060" or lsg="8 ska 914.070" or lsg="8 ska 116?" or lsg="8 ska 133?" or lsg="8 ska 140?" or lsg="8 ska 117?" or lsg="8 ska 118?" or lsg="8 ska 675?" or lsg="8 pol 969?" or lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?" or lsg="8 pol 986.3" or lsg="8 sci 2?" or lsg="8 sci 4?" or lsg="8 ska 586.500") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn2: Geschichte und Geowissenschaften
+init -> Session ID 937219064
+search »(lsg="8 nor 295.200" or lsg="8 nor 565.600" or lsg="8 nor 675.600" or lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+vn2: Geschichte und Geowissenschaften
+init -> Session ID 937219321
+search »(lsg="7 pnn?" or lsg="7 pno?" or lsg="7 pnp?" or lsg="7 pnq?" or lsg="7 pnr?" or lsg="7 qgc 5?")« ->
+OK
+
+vn3: Sozial- und Staatswissenschaften
+init -> Session ID 937219322
+search »((lsg="8 ska 800?" or lsg="8 soz 212?" or lsg="8 ska 802?" or lsg="8 ska 805?" or lsg="8 ska 935?" or lsg="8 ska 200?" or lsg="8 ska 326?" or lsg="8 ska 464?" or lsg="8 ska 628?" or lsg="8 ska 862?" or lsg="8 soz 475.5" or lsg="8 soz 970?" or lsg="8 ska 842?" or lsg="8 ska 462?" or lsg="8 ska 607?" or lsg="8 ska 608?" or lsg="8 ska 626?" or lsg="8 ska 847?" or lsg="8 ska 849?" or lsg="8 soz 835.3" or lsg="8 ska 601?" or lsg="8 ska 602?" or lsg="8 ska 600?" or lsg="8 ska 788?" or lsg="8 agr 840.300" or lsg="8 ska 597.200" or lsg="8 ska 597.400" or lsg="8 jus 941.000" or lsg="8 jus 941.085" or lsg="8 jus 942.000" or lsg="8 jus 948.1" or lsg="8 jus 948.5" or lsg="8 jus 953.110" or lsg="8 jus 988?" or lsg="8 jus 953.130" or lsg="8 jus 953.150" or lsg="8 jus 953.200" or lsg="8 jus 955.100" or lsg="8 jus 955.150" or lsg="8 jus 955.180" or lsg="8 jus 955.200" or lsg="8 jus 955.250" or lsg="8 jus 941.100" or lsg="8 jus 943?" or lsg="8 jus 949?" or lsg="8 jus 952?" or lsg="8 jus 954?" or lsg="8 jus 956?" or lsg="8 jus 941.800" or lsg="8 jus 947?" or lsg="8 jus 951.9" or lsg="8 jus 959?" or lsg="8 jus 953.900" or lsg="8 jus 955.900" or lsg="8 jus 941.200" or lsg="8 jus 944?" or lsg="8 jus 945?" or lsg="8 jus 950?" or lsg="8 jus 957?" or lsg="8 jus 953.300" or lsg="8 jus 955.300" or lsg="8 jus 955.400" or lsg="8 jus 941.500" or lsg="8 jus 946?" or lsg="8 jus 941.000" or lsg="8 jus 951.1" or lsg="8 jus 951.3" or lsg="8 jus 951.5" or lsg="8 jus 951.7" or lsg="8 jus 948?" or lsg="8 jus 953.700" or lsg="8 jus 943.800" or lsg="8 jus 955.600" or lsg="8 jus 955.700" or lsg="8 jus 955.800" or lsg="8 ska 202?" or lsg="8 ska 468?" or lsg="8 ska 473?" or lsg="8 ska 336?" or lsg="8 ska 205?" or lsg="8 ska 330?" or lsg="8 ska 63?" or lsg="8 ska 740?" or lsg="8 ska 780?" or lsg="8 pol 720.9" or lsg="8 ska 741?" or lsg="8 ska 742?" or lsg="8 ska 745?" or lsg="8 ska 749?" or lsg="8 ska 75?" or lsg="8 ska 76?" or lsg="8 ska 770?" or lsg="8 ska 772?" or lsg="8 ska 773?" or lsg="8 ska 183?" or lsg="8 ska 594?" or lsg="8 ska 855?" or lsg="8 ska 859?" or lsg="8 soz 735?" or lsg="8 soz 905.8" or lsg="8 ska 444?" or lsg="8 ska 861?" or lsg="8 pae 870?" or lsg="8 pae 880.800" or lsg="8 ska 857?" or lsg="8 pae 410.700" or lsg="8 pae 963?" or lsg="8 pae 297.600" or lsg="8 pae 420?" or lsg="8 pae 442?" or lsg="8 pae 446.700" or lsg="8 pae 483?" or lsg="8 pae 532?" or lsg="8 pae 693?" or lsg="8 pae 698?" or lsg="8 pae 713?" or lsg="8 pae 718?" or lsg="8 pae 732.600" or lsg="8 pae 739?" or lsg="8 pae 905?" or lsg="8 pae 892?" or lsg="8 pae 467?" or lsg="8 pae 784.700" or lsg="8 pae 808.700" or lsg="8 pae 814.700" or lsg="8 wir 924?" or lsg="8 wir 926.800" or lsg="8 wir 940?" or lsg="8 wir 946?" or lsg="8 ska 192.100" or lsg="8 ska 456.100" or lsg="8 ska 192.400" or lsg="8 ska 456.200" or lsg="8 ska 456.300" or lsg="8 ska 615?" or lsg="8 ska 616?" or lsg="8 ska 790?" or lsg="8 wir 835.800" or lsg="8 wir 860.800" or lsg="8 ska 194?" or lsg="8 ska 623?" or lsg="8 ska 792?" or lsg="8 ska 621?" or lsg="8 ska 791.800" or lsg="8 wir 825.800" or lsg="8 ska 193.200" or lsg="8 ska 193.300" or lsg="8 ska 193.400" or lsg="8 ska 193.500" or lsg="8 ska 193.600" or lsg="8 ska 193.700" or lsg="8 ska 620?" or lsg="8 ska 622?" or lsg="8 ska 791.200" or lsg="8 ska 791.300" or lsg="8 ska 791.600" or lsg="8 ska 791.700" or lsg="8 ska 791.900" or lsg="8 ska 938?" or lsg="8 ska 950?" or lsg="8 ska 952?" or lsg="8 ska 966?" or lsg="8 ska 976?" or lsg="8 ska 978?" or lsg="8 ska 982?" or lsg="8 ska 99?" or lsg="8 ska 987?" or lsg="8 ska 989?" or lsg="8 kun 851.2" or lsg="8 ska 941?" or lsg="8 ska 944?" or lsg="8 ska 939?" or lsg="8 ska 954?" or lsg="8 ska 980?" or lsg="8 ska 958?" or lsg="8 ska 960?" or lsg="8 ska 961?" or lsg="8 ska 963?" or lsg="8 ska 968?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+Fehler: Error: Server responded with status code 400:
+<error>HTTP Error 400: Bad Request</error>
+
+vn3: Sozial- und Staatswissenschaften
+init -> Session ID 937219323
+search »(lsg="8 nor 293.600" or lsg="8 nor 790.800")« ->
+OK
+
+vn3: Sozial- und Staatswissenschaften
+init -> Session ID 937219580
+search »(lsg="7 le?" or lsg="7 ld?" or lsg="7 li? ")« ->
+OK
+
+vn4: Religion, Mythologie
+init -> Session ID 937219581
+search »((lsg="8 ska 357?" or lsg="8 ska 476?" or lsg="8 ska 212?" or lsg="8 ska 213?" or lsg="8 ska 214?" or lsg="8 ska 220?" or lsg="8 jus 944.5" or lsg="8 jus 950.200" or lsg="8 jus 957.200" or lsg="8 jus 953.200" or lsg="8 jus 955.250" or lsg="8 ska 347?" or lsg="8 ska 348?" or lsg="8 ska 349?" or lsg="8 ska 355?" or lsg="8 ska 481?" or lsg="8 ska 483?" or lsg="8 ska 487?" or lsg="8 ska 656?" or lsg="8 ska 658?" or lsg="8 ska 656?" or lsg="8 ska 865?" or lsg="8 ska 658?" or lsg="8 ska 486?" or lsg="8 ska 664?" or lsg="8 ska 867.200" or lsg="8 ska 867.600" or lsg="8 ska 867.800" or lsg="8 gsd 495?" or lsg="8 gsd 503?" or lsg="8 ska 209.100" or lsg="8 ska 209.200" or lsg="8 ska 209.400" or lsg="8 ska 209.600" or lsg="8 ska 209.800" or lsg="8 ska 218?" or lsg="8 gsb 936.50" or lsg="8 gsb 936.60" or lsg="8 ska 340?" or lsg="8 ska 341?" or lsg="8 ska 342?" or lsg="8 ska 343?" or lsg="8 ska 344?" or lsg="8 ska 984?" or lsg="8 rel 491:bir 3" or lsg="8 gsd 475?" or lsg="8 ska 489?" or lsg="8 ska 984?" or lsg="8 gsd 475?" or lsg="8 gsd 485?" or lsg="8 gsd 970.40" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 gsd 485?" or lsg="8 ska 652?" or lsg="8 ska 654?" or lsg="8 ska 666?" or lsg="8 ska 668?" or lsg="8 ska 864?" or lsg="8 ska 869?" or lsg="8 ska 867.900" or lsg="8 ska 220.100" or lsg="8 ska 353?" or lsg="8 ska 479?" or lsg="8 ska 661?" or lsg="8 ska 866.100" or lsg="8 ska 479?" or lsg="8 rel 719?" or lsg="8 ska 221?" or lsg="8 ska 488?" or lsg="8 ska 662?" or lsg="8 ska 866.600") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn4: Religion, Mythologie
+init -> Session ID 937219838
+search »(lsg="7 pnn 500" or lsg="7 pno 500" or lsg="7 pnp 500" or lsg="7 pnq 500" or lsg="7 pnr 500" or lsg="7 ca?" or lsg="7 cbq 100" or lsg="7 cbd 121" or lsg="7 qum 100")« ->
+OK
+
+vn5: Künste und Unterhaltung
+init -> Session ID 937219839
+search »((lsg="8 kun 243?" or lsg="8 kun 244.15" or lsg="8 kun 29?" or lsg="8 kun 990:mun 2" or lsg="8 kun 990:lar 7" or lsg="8 ska 595?" or lsg="8 ska 596?" or lsg="8 ska 827?" or lsg="8 kun436?" or lsg="8 kun 45?" or lsg="8 ska 946?" or lsg="8 kun 443.11" or lsg="8 kun 608.1" or lsg="8 kun 613.2" or lsg="8 kun 802?" or lsg="8 kun819.2" or lsg="8 mus 280?" or lsg="8 mus 600.900" or lsg="8 ska 963?" or lsg="8 mus 580.200" or lsg="8 mus 664.700" or lsg="8 mus 664.800" or lsg="8 mus 690:sib 3" or lsg="8 mus 690:blo 5" or lsg="8 mus 690:fel 3" or lsg="8 mus 690:gad 4" or lsg="8 ska 830.600" or lsg="8 ska 972?" or lsg="8 ska 971?" or lsg="8 ska 961?" or lsg="8 ska 961?" or lsg="8 spo 375?" or lsg="8 spo 396?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn5: Künste und Unterhaltung
+init -> Session ID 937219584
+search »(lsg="7 g?" not lsg="7 gu?" not lsg="7 gy?")« ->
+OK
+
+vn6: Andere Fachgebiete
+init -> Session ID 937219841
+search »((lsg="8 phi 468.200" or lsg="8 rel 680:kie 7?" or lsg="8 ska 003.000" or lsg="8 ska 015.000" or lsg="8 ska 033.000" or lsg="8 ska 035.000" or lsg="8 ska 037.000" or lsg="8 ska 048.000" or lsg="8 ska 077.000" or lsg="8 ska 146.700" or lsg="8 ska 153.000" or lsg="8 ska 161.000" or lsg="8 ska 163.000" or lsg="8 ska 168.000" or lsg="8 ska 670.000" or lsg="8 ska 870.000" or lsg="8 ska 914.000" or lsg="8 lan 543.000" or lsg="8 kom 842?" or lsg="8 kom 841k" or lsg="8 kom 876?" or lsg="8 ska 222.000" or lsg="8 jus 941.100" or lsg="8 jus 942.000" or lsg="8 jus 949.000" or lsg="8 jus 954.000" or lsg="8 jus 956.000" or lsg="8 ska 015.080" or lsg="8 ska 048.080" or lsg="8 ska 077.080" or lsg="8 lan 543.092" or lsg="8 all 38?" or lsg="8 all 39?" or lsg="8 all 2?" or lsg="8 all 300" or lsg="8 all 33?" or lsg="8 all 340?" or lsg="8 kom 740.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn6: Andere Fachgebiete
+init -> Session ID 937219842
+search »(lsg="8 nor 001?" or lsg="8 nor 210.000" or lsg="8 nor 251.200" or lsg="8 nor 280.200" or lsg="8 nor 340.000" or lsg="8 nor 460.000" or lsg="8 nor 500.000" or lsg="8 nor 610.000" or lsg="8 nor 251.300" or lsg="8 nor 208?")« ->
+OK
+
+vn6: Andere Fachgebiete
+init -> Session ID 937220099
+search »(( lsg="7 d?") or ( lsg="7 fa?" or lsg="7 fb?" or lsg="7 fc?" or lsg="7 fd?" or lsg="7 fe?" or lsg="7 ff?" or lsg="7 fg?" or lsg="7 fh?" or lsg="7 fi 000") or ( lsg="7 r?" or lsg="7 e?" not lsg="7 reg ?" not lsg="7 rel ?") or ( lsg="7 z?" or lsg="7 m?") or ( lsg="7 aa?"))« ->
+OK
+
+vn61: Philosophie
+init -> Session ID 937220100
+search »((lsg="8 phi 468.200" or lsg="8 rel 680:kie 7?") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn61: Philosophie
+init -> Session ID 937220357
+search »(lsg="7 d?")« ->
+OK
+
+vn65: Allgemeines und Informationswesen
+init -> Session ID 937220358
+search »((lsg="8 kom 885?" or lsg="8 kom 896?" or lsg="8 kom 901?" or lsg="8 kom 918.900" or lsg="8 ska 003.000" or lsg="8 ska 015.000" or lsg="8 ska 033.000" or lsg="8 ska 035.000" or lsg="8 ska 037.000" or lsg="8 ska 048.000" or lsg="8 ska 077.000" or lsg="8 ska 146.700" or lsg="8 ska 153.000" or lsg="8 ska 161.000" or lsg="8 ska 163.000" or lsg="8 ska 168.000" or lsg="8 ska 670.000" or lsg="8 ska 870.000" or lsg="8 ska 914.000" or lsg="8 lan 543.000" or lsg="8 kom 842?" or lsg="8 kom 841k" or lsg="8 kom 876?" or lsg="8 ska 222.000" or lsg="8 jus 941.100" or lsg="8 jus 942.000" or lsg="8 jus 949.000" or lsg="8 jus 954.000" or lsg="8 jus 956.000" or lsg="8 kom 474?" or lsg="8 kom 495?" or lsg="8 ska 015.080" or lsg="8 ska 048.080" or lsg="8 ska 077.080" or lsg="8 lan 543.092" or lsg="8 all 38?" or lsg="8 all 39?" or lsg="8 all 2?" or lsg="8 all 300" or lsg="8 all 33?" or lsg="8 all 340?" or lsg="8 kom 740.3") and (lsg="8 reg 25.24?" or lsg="8 reg 25.21?" or lsg="8 reg 25.22?" or lsg="8 reg 25.23?"))« ->
+OK
+
+vn65: Allgemeines und Informationswesen
+init -> Session ID 937220359
+search »(lsg="8 nor 001?" or lsg="8 nor 210.000" or lsg="8 nor 251.200" or lsg="8 nor 280.200" or lsg="8 nor 340.000" or lsg="8 nor 460.000" or lsg="8 nor 500.000" or lsg="8 nor 610.000" or lsg="8 nor 251.300" or lsg="8 nor 208?")« ->
+OK
+
+vn65: Allgemeines und Informationswesen
+init -> Session ID 937220616
+search »(lsg="7 aa?")« ->
+OK
+

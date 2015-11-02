@@ -7,7 +7,10 @@
   },
   "dependencies": {
     "csv": "latest",
-    "stream-array": "latest"
+    "stream-array": "latest",
+    "lodash": "latest",
+    "sync-request": "latest",
+	"xml2js": "latest"
   },
   "author": "Sven-S. Porst <ssp-web@earthlingsoft.net>",
   "license": "MIT"
